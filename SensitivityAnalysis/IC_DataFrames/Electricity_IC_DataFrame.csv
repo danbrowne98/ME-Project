@@ -1,0 +1,203 @@
+COF,absIC
+ElectricEquipment-->Level0:Zone32 Equipment 1-->Design Level,0.44269286
+WindowMaterial:Glazing-->2-->Visible Transmittance at Normal Incidence,0.366627595
+Lights-->Level0:Zone32 General lighting-->Lighting Level,0.096782558
+Material-->Chipboard_0.013-->Visible Absorptance,0.065680792
+Lights-->Level1:Zone7 General lighting-->Lighting Level,0.037928264
+Lights-->Level1:Zone15 General lighting-->Lighting Level,0.034621917
+Material-->Cast Concrete (Dense)_0.1-->Visible Absorptance,0.030371536
+ElectricEquipment-->Level1AddedPart:Zone1 Equipment 1-->Design Level,0.025975216
+ElectricEquipment-->Level1Z1:Zone51 Equipment 1-->Design Level,0.025566007
+ElectricEquipment-->Level1AddedPart:Zone13 Equipment 2-->Design Level,0.025150995
+ElectricEquipment-->Level1AddedPart:Zone13 Computing gain 1-->Design Level,0.025150995
+ElectricEquipment-->Level0AddedPart:Zone3 Equipment 2-->Design Level,0.022271369
+ElectricEquipment-->Level0AddedPart:Zone3 Computing gain 1-->Design Level,0.022271369
+Lights-->Level0:Zone1 General lighting-->Lighting Level,0.019878756
+ElectricEquipment-->Level1:Zone7 Equipment 1-->Design Level,0.019369533
+ElectricEquipment-->Level2:Zone12 Equipment 1-->Design Level,0.019347945
+ElectricEquipment-->Level2:Zone6 Equipment 1-->Design Level,0.019347945
+Lights-->Level0:Zone38 General lighting-->Lighting Level,0.017996975
+ElectricEquipment-->Level2:Zone29 Equipment 1-->Design Level,0.017280001
+Lights-->Level1:Zone14 General lighting-->Lighting Level,0.017186443
+ElectricEquipment-->Level2:Zone4 Equipment 1-->Design Level,0.016449977
+Lights-->Level1:Zone6 General lighting-->Lighting Level,0.016161583
+Lights-->Level0AddedPart:Zone3 General lighting-->Lighting Level,0.016124109
+ElectricEquipment-->Level2:Zone7 Equipment 1-->Design Level,0.016027729
+Lights-->Level0:Zone20 General lighting-->Lighting Level,0.015879837
+ElectricEquipment-->Level2:Zone5 Equipment 1-->Design Level,0.015772246
+ElectricEquipment-->Level1Z1:Zone47 Equipment 1-->Design Level,0.015492618
+ElectricEquipment-->Level2:Zone3 Equipment 1-->Design Level,0.014971858
+Material-->Cast Concrete_0.15-->Visible Absorptance,0.014924445
+Lights-->Level0:Zone30 General lighting-->Lighting Level,0.014426322
+Lights-->Level0:Zone21 General lighting-->Lighting Level,0.014327185
+Lights-->Level1AddedPart:Zone13 General lighting-->Lighting Level,0.014031376
+ElectricEquipment-->Level0:Zone1 Equipment 1-->Design Level,0.013789464
+ElectricEquipment-->Level1Z1:Zone2 Equipment 2-->Design Level,0.013756459
+ElectricEquipment-->Level1Z1:Zone2 Computing gain 1-->Design Level,0.013756459
+ElectricEquipment-->Level2:Zone18 Equipment 1-->Design Level,0.013566172
+ElectricEquipment-->Level0:Zone4 Equipment 1-->Design Level,0.013438024
+ElectricEquipment-->Level2:Zone1 Equipment 1-->Design Level,0.01328929
+ElectricEquipment-->Level0:Zone53 Equipment 1-->Design Level,0.013132007
+Lights-->Level0:Zone35 General lighting-->Lighting Level,0.012913524
+ElectricEquipment-->Level0:Zone9 Equipment 1-->Design Level,0.012773021
+Lights-->Level0:Zone4 General lighting-->Lighting Level,0.0125731
+ElectricEquipment-->Level0:Zone21 Equipment 1-->Design Level,0.012529765
+ElectricEquipment-->Level0:Zone38 Equipment 1-->Design Level,0.012484223
+Lights-->Level0:Zone23 General lighting-->Lighting Level,0.012478724
+ElectricEquipment-->Level0:Zone24 Equipment 1-->Design Level,0.012270603
+ElectricEquipment-->Level1:Zone15 Computing gain 1-->Design Level,0.01224259
+ElectricEquipment-->Level1:Zone15 Equipment 2-->Design Level,0.01224259
+ElectricEquipment-->Level0:Zone13 Equipment 1-->Design Level,0.011822587
+ElectricEquipment-->Level0:Zone6 Equipment 1-->Design Level,0.011409199
+ElectricEquipment-->Level0:Zone20 Equipment 1-->Design Level,0.011015274
+ElectricEquipment-->Level1Z1:Zone38 Computing gain 1-->Design Level,0.010990318
+ElectricEquipment-->Level1Z1:Zone38 Equipment 2-->Design Level,0.010990318
+ElectricEquipment-->Level0:Zone30 Equipment 1-->Design Level,0.010451839
+Lights-->Level0:Zone29 General lighting-->Lighting Level,0.010082826
+ElectricEquipment-->Level1Z1:Zone43 Computing gain 1-->Design Level,0.009752208
+ElectricEquipment-->Level1Z1:Zone43 Equipment 2-->Design Level,0.009752208
+Lights-->Level1AddedPart:Zone1 General lighting-->Lighting Level,0.009165627
+Lights-->Level0:Zone25 General lighting-->Lighting Level,0.009094444
+Lights-->Level1Z1:Zone47 General lighting-->Lighting Level,0.009018112
+ElectricEquipment-->Level1Z1:Zone3 Equipment 2-->Design Level,0.008974843
+ElectricEquipment-->Level1Z1:Zone3 Computing gain 1-->Design Level,0.008974843
+ElectricEquipment-->Level0:Zone35 Equipment 1-->Design Level,0.008957935
+Lights-->Level0:Zone2 General lighting-->Lighting Level,0.008837883
+Lights-->Level0:Zone6 General lighting-->Lighting Level,0.008836498
+ElectricEquipment-->Level0:Zone23 Equipment 1-->Design Level,0.00880003
+ElectricEquipment-->Level1Z1:Zone39 Computing gain 1-->Design Level,0.008375346
+ElectricEquipment-->Level1Z1:Zone39 Equipment 2-->Design Level,0.008375346
+ElectricEquipment-->Level0:Zone22 Equipment 1-->Design Level,0.008314329
+ElectricEquipment-->Level1Z1:Zone12 Equipment 1-->Design Level,0.008271032
+Lights-->Level1Z1:Zone38 General lighting-->Lighting Level,0.008191525
+Lights-->Level0:Zone31 General lighting-->Lighting Level,0.008024581
+Lights-->Level0:Zone8 General lighting-->Lighting Level,0.007859021
+Lights-->Level2:Zone36 General lighting-->Lighting Level,0.007832062
+Lights-->Level0:Zone9 General lighting-->Lighting Level,0.007646684
+ElectricEquipment-->Level0:Zone25 Equipment 1-->Design Level,0.007610519
+ElectricEquipment-->Level1:Zone14 Equipment 1-->Design Level,0.007495601
+Lights-->Level2:Zone29 General lighting-->Lighting Level,0.007370693
+ElectricEquipment-->Level1Z1:Zone8 Equipment 2-->Design Level,0.007358593
+ElectricEquipment-->Level1Z1:Zone8 Computing gain 1-->Design Level,0.007358593
+ElectricEquipment-->Level1Z1:Zone10 Computing gain 1-->Design Level,0.007100053
+ElectricEquipment-->Level1Z1:Zone10 Equipment 2-->Design Level,0.007100053
+Material-->Standard insulation_0.0096-->Visible Absorptance,0.007099225
+ElectricEquipment-->Level1Z1:Zone13 Equipment 2-->Design Level,0.007067049
+ElectricEquipment-->Level1Z1:Zone13 Computing gain 1-->Design Level,0.007067049
+ElectricEquipment-->Level1Z1:Zone5 Computing gain 1-->Design Level,0.007046463
+ElectricEquipment-->Level1Z1:Zone5 Equipment 2-->Design Level,0.007046463
+Material-->Standard insulation_0.0159-->Visible Absorptance,0.007031544
+ElectricEquipment-->Level0:Zone29 Equipment 1-->Design Level,0.006994616
+ElectricEquipment-->Level1Z1:Zone6 Computing gain 1-->Design Level,0.00698738
+ElectricEquipment-->Level1Z1:Zone6 Equipment 2-->Design Level,0.00698738
+Lights-->Level1:Zone4 General lighting-->Lighting Level,0.006892665
+ElectricEquipment-->Level1Z1:Zone1 Computing gain 1-->Design Level,0.006831219
+ElectricEquipment-->Level1Z1:Zone1 Equipment 2-->Design Level,0.006831219
+ElectricEquipment-->Level0:Zone8 Equipment 1-->Design Level,0.006805141
+ElectricEquipment-->Level0:Zone2 Equipment 1-->Design Level,0.006696958
+Lights-->Level2:Zone12 General lighting-->Lighting Level,0.006038514
+Lights-->Level0:Zone7 General lighting-->Lighting Level,0.005977846
+Lights-->Level0:Zone45 General lighting-->Lighting Level,0.005808911
+Lights-->Level1Z1:Zone2 General lighting-->Lighting Level,0.005797012
+ElectricEquipment-->Level1:Zone6 Computing gain 1-->Design Level,0.005715143
+ElectricEquipment-->Level1:Zone6 Equipment 2-->Design Level,0.005715143
+ElectricEquipment-->Level1Z1:Zone11 Computing gain 1-->Design Level,0.005592798
+ElectricEquipment-->Level1Z1:Zone11 Equipment 2-->Design Level,0.005592798
+ElectricEquipment-->Level0:Zone31 Equipment 1-->Design Level,0.00556672
+Lights-->Level1Z1:Zone43 General lighting-->Lighting Level,0.005484543
+Lights-->Level1Z1:Zone39 General lighting-->Lighting Level,0.005144119
+Lights-->Level1Z1:Zone10 General lighting-->Lighting Level,0.004921657
+Lights-->Level1Z1:Zone12 General lighting-->Lighting Level,0.004814385
+Lights-->Level1Z1:Zone3 General lighting-->Lighting Level,0.004734288
+Lights-->Level1:Zone3 General lighting-->Lighting Level,0.004715854
+Lights-->Level1Z1:Zone8 General lighting-->Lighting Level,0.004668471
+Lights-->Level2:Zone18 General lighting-->Lighting Level,0.004614337
+Lights-->Level0:Zone53 General lighting-->Lighting Level,0.004610962
+ElectricEquipment-->Level0:Zone26 Equipment 1-->Design Level,0.00449781
+ElectricEquipment-->Level0:Zone28 Equipment 1-->Design Level,0.004457569
+Lights-->Level1Z1:Zone11 General lighting-->Lighting Level,0.004353406
+Lights-->Level0:Zone26 General lighting-->Lighting Level,0.004298493
+Lights-->Level1Z1:Zone5 General lighting-->Lighting Level,0.004294728
+Lights-->Level1Z1:Zone36 General lighting-->Lighting Level,0.004267164
+Lights-->Level1Z1:Zone1 General lighting-->Lighting Level,0.004225926
+Lights-->Level2:Zone6 General lighting-->Lighting Level,0.004190832
+Lights-->Level1Z1:Zone6 General lighting-->Lighting Level,0.004159503
+ElectricEquipment-->Level0:Zone7 Equipment 1-->Design Level,0.004146872
+Lights-->Level2:Zone4 General lighting-->Lighting Level,0.004130554
+Lights-->Level2:Zone3 General lighting-->Lighting Level,0.004127784
+Lights-->Level1:Zone2 General lighting-->Lighting Level,0.004037172
+Lights-->Level0:Zone13 General lighting-->Lighting Level,0.004036177
+ElectricEquipment-->Level0:Zone45 Equipment 1-->Design Level,0.004029829
+Lights-->Level0:Zone24 General lighting-->Lighting Level,0.003952315
+Lights-->Level1:Zone11 General lighting-->Lighting Level,0.003903937
+Lights-->Level0:Zone27 General lighting-->Lighting Level,0.003866463
+Lights-->Level2:Zone7 General lighting-->Lighting Level,0.003862698
+Lights-->Level0AddedPart:Zone2 General lighting-->Lighting Level,0.003787751
+Lights-->Level1Z1:Zone44 General lighting-->Lighting Level,0.003724703
+ElectricEquipment-->Level0AddedPart:Zone2 Equipment 2-->Design Level,0.003721877
+ElectricEquipment-->Level0AddedPart:Zone2 Computing gain 1-->Design Level,0.003721877
+Lights-->Level0:Zone33 General lighting-->Lighting Level,0.003717953
+Lights-->Level1Z1:Zone13 General lighting-->Lighting Level,0.003716568
+Lights-->Level2:Zone5 General lighting-->Lighting Level,0.003669575
+Lights-->Level1Z1:Zone28 General lighting-->Lighting Level,0.003468142
+ElectricEquipment-->Level2:Zone36 Equipment 1-->Design Level,0.00341586
+Lights-->Level1Z1:Zone51 General lighting-->Lighting Level,0.003389429
+ElectricEquipment-->Level1Z1:Zone9 Equipment 2-->Design Level,0.003371751
+ElectricEquipment-->Level1Z1:Zone9 Computing gain 1-->Design Level,0.003371751
+Lights-->Level1Z1:Zone45 General lighting-->Lighting Level,0.003359485
+ElectricEquipment-->Level2:Zone26 Equipment 1-->Design Level,0.003294327
+Lights-->Level1Z1:Zone37 General lighting-->Lighting Level,0.003144163
+ElectricEquipment-->Level2:Zone35 Equipment 1-->Design Level,0.003024181
+Lights-->Level2:Zone1 General lighting-->Lighting Level,0.002967309
+Material-->MW Stone Wool (rolls)_0.1439-->Visible Absorptance,0.002952284
+Lights-->Level1:Zone5 General lighting-->Lighting Level,0.002822174
+ElectricEquipment-->Level0:Zone27 Equipment 1-->Design Level,0.002742308
+Lights-->Level1AddedPart:Zone5 General lighting-->Lighting Level,0.002611611
+Lights-->Level0:Zone51 General lighting-->Lighting Level,0.002572752
+ElectricEquipment-->Level1:Zone4 Equipment 2-->Design Level,0.002437413
+ElectricEquipment-->Level1:Zone4 Computing gain 1-->Design Level,0.002437413
+Lights-->Level1:Zone10 General lighting-->Lighting Level,0.002310436
+ElectricEquipment-->Level1Z1:Zone36 Equipment 1-->Design Level,0.0021644
+Lights-->Level0:Zone36 General lighting-->Lighting Level,0.002143492
+Lights-->Level0:Zone22 General lighting-->Lighting Level,0.002131202
+Lights-->Level0:Zone28 General lighting-->Lighting Level,0.002120298
+Lights-->Level1Z1:Zone7 General lighting-->Lighting Level,0.002109393
+Lights-->Level2:Zone37 General lighting-->Lighting Level,0.002082434
+Lights-->Level2:Zone26 General lighting-->Lighting Level,0.002015016
+ElectricEquipment-->Level0:Zone33 Equipment 1-->Design Level,0.001993266
+Lights-->Level1Z1:Zone9 General lighting-->Lighting Level,0.00188892
+ElectricEquipment-->Level0:Zone36 Equipment 1-->Design Level,0.001800733
+ElectricEquipment-->Level1Z1:Zone4 Computing gain 1-->Design Level,0.001786572
+ElectricEquipment-->Level1Z1:Zone4 Equipment 2-->Design Level,0.001786572
+Lights-->Level2:Zone30 General lighting-->Lighting Level,0.001786409
+ElectricEquipment-->Level1Z1:Zone7 Computing gain 1-->Design Level,0.001744708
+ElectricEquipment-->Level1Z1:Zone7 Equipment 2-->Design Level,0.001744708
+ElectricEquipment-->Level1:Zone3 Computing gain 1-->Design Level,0.001667594
+ElectricEquipment-->Level1:Zone3 Equipment 2-->Design Level,0.001667594
+Lights-->Level1Z1:Zone4 General lighting-->Lighting Level,0.001637119
+Lights-->Level2:Zone17 General lighting-->Lighting Level,0.001607175
+ElectricEquipment-->Level1Z1:Zone37 Equipment 1-->Design Level,0.00159435
+Lights-->Level0:Zone48 General lighting-->Lighting Level,0.001529458
+Lights-->Level0:Zone11 General lighting-->Lighting Level,0.001522708
+Lights-->Level2:Zone15 General lighting-->Lighting Level,0.001516563
+ElectricEquipment-->Level1:Zone2 Equipment 2-->Design Level,0.001427586
+ElectricEquipment-->Level1:Zone2 Computing gain 1-->Design Level,0.001427586
+ElectricEquipment-->Level1:Zone11 Computing gain 1-->Design Level,0.00138042
+ElectricEquipment-->Level1:Zone11 Equipment 2-->Design Level,0.00138042
+ElectricEquipment-->Level1Z1:Zone44 Equipment 2-->Design Level,0.001317158
+ElectricEquipment-->Level1Z1:Zone44 Computing gain 1-->Design Level,0.001317158
+ElectricEquipment-->Level2:Zone34 Equipment 1-->Design Level,0.001291079
+Site:GroundReflectance-->Site:GroundReflectance-->May Ground Reflectance,0.001272986
+Lights-->Level2:Zone25 General lighting-->Lighting Level,0.001228283
+ElectricEquipment-->Level1Z1:Zone28 Computing gain 1-->Design Level,0.001226193
+ElectricEquipment-->Level1Z1:Zone28 Equipment 2-->Design Level,0.001226193
+Site:GroundReflectance-->Site:GroundReflectance-->June Ground Reflectance,0.001211187
+Lights-->Level1:Zone9 General lighting-->Lighting Level,0.001195959
+ElectricEquipment-->Level1Z1:Zone45 Computing gain 1-->Design Level,0.001187887
+ElectricEquipment-->Level1Z1:Zone45 Equipment 2-->Design Level,0.001187887
+ElectricEquipment-->Level1AddedPart:Zone3 Equipment 1-->Design Level,0.001152949
+ElectricEquipment-->Level1AddedPart:Zone5 Equipment 1-->Design Level,0.001139098
+Lights-->Level2:Zone10 General lighting-->Lighting Level,0.001114477
+Site:GroundReflectance-->Site:GroundReflectance-->August Ground Reflectance,0.001071013
+ElectricEquipment-->Level2:Zone37 Equipment 1-->Design Level,0.001055871
+ElectricEquipment-->Level2:Zone10 Equipment 1-->Design Level,0.001023679

@@ -1,0 +1,203 @@
+Class,Object,Field,Default,Minimum,Maximum,Distribution,Type,Group
+Site:GroundReflectance,Site:GroundReflectance,May Ground Reflectance,0.2,0.13,0.26,Uniform,Float,1
+Site:GroundReflectance,Site:GroundReflectance,June Ground Reflectance,0.2,0.13,0.26,Uniform,Float,2
+Site:GroundReflectance,Site:GroundReflectance,August Ground Reflectance,0.2,0.13,0.26,Uniform,Float,3
+WindowMaterial:Glazing,2,Visible Transmittance at Normal Incidence,0.898,0.7571936,0.919,Uniform,Float,4
+Material,Cast Concrete_0.15,Visible Absorptance,0.6,0.5216,0.6784,Uniform,Float,7
+Material,Cast Concrete (Dense)_0.1,Visible Absorptance,0.6,0.5216,0.6784,Uniform,Float,8
+Material,Chipboard_0.013,Visible Absorptance,0.78,0.682,0.878,Uniform,Float,9
+Material,Standard insulation_0.0096,Visible Absorptance,0.7,0.602,0.798,Uniform,Float,10
+Material,MW Stone Wool (rolls)_0.1439,Visible Absorptance,0.6,0.404,0.796,Uniform,Float,11
+Material,Standard insulation_0.0159,Visible Absorptance,0.7,0.602,0.798,Uniform,Float,12
+Lights,Level1:Zone14 General lighting,Lighting Level,797.091,750.859722,868.82919,Uniform,Float,13
+ElectricEquipment,Level1:Zone14 Equipment 1,Design Level,294.9237,261.5973219,315.568359,Uniform,Float,14
+Lights,Level1:Zone6 General lighting,Lighting Level,749.55,706.0761,817.0095,Uniform,Float,15
+ElectricEquipment,Level1:Zone6 Computing gain 1,Design Level,224.865,199.455255,240.60555,Uniform,Float,16
+ElectricEquipment,Level1:Zone6 Equipment 2,Design Level,224.865,199.455255,240.60555,Uniform,Float,17
+Lights,Level1:Zone3 General lighting,Lighting Level,218.72,206.03424,238.4048,Uniform,Float,18
+ElectricEquipment,Level1:Zone3 Computing gain 1,Design Level,65.616,58.201392,70.20912,Uniform,Float,19
+ElectricEquipment,Level1:Zone3 Equipment 2,Design Level,65.616,58.201392,70.20912,Uniform,Float,20
+Lights,Level1:Zone2 General lighting,Lighting Level,187.232,176.372544,204.08288,Uniform,Float,21
+ElectricEquipment,Level1:Zone2 Computing gain 1,Design Level,56.1696,49.8224352,60.101472,Uniform,Float,22
+ElectricEquipment,Level1:Zone2 Equipment 2,Design Level,56.1696,49.8224352,60.101472,Uniform,Float,23
+Lights,Level1:Zone4 General lighting,Lighting Level,319.666,301.125372,348.43594,Uniform,Float,24
+ElectricEquipment,Level1:Zone4 Computing gain 1,Design Level,95.8998,85.0631226,102.612786,Uniform,Float,25
+ElectricEquipment,Level1:Zone4 Equipment 2,Design Level,95.8998,85.0631226,102.612786,Uniform,Float,26
+Lights,Level1:Zone5 General lighting,Lighting Level,130.906,123.313452,142.68754,Uniform,Float,27
+Lights,Level1:Zone10 General lighting,Lighting Level,106.8893,100.6897206,116.509337,Uniform,Float,28
+Lights,Level1:Zone7 General lighting,Lighting Level,2059.776,1940.308992,2245.15584,Uniform,Float,29
+ElectricEquipment,Level1:Zone7 Equipment 1,Design Level,762.1171,675.9978677,815.465297,Uniform,Float,30
+Lights,Level1:Zone9 General lighting,Lighting Level,55.48,52.26216,60.4732,Uniform,Float,31
+Lights,Level1:Zone15 General lighting,Lighting Level,1605.7,1512.5694,1750.213,Uniform,Float,32
+ElectricEquipment,Level1:Zone15 Computing gain 1,Design Level,481.71,427.27677,515.4297,Uniform,Float,33
+ElectricEquipment,Level1:Zone15 Equipment 2,Design Level,481.71,427.27677,515.4297,Uniform,Float,34
+Lights,Level1:Zone11 General lighting,Lighting Level,181.058,170.556636,197.35322,Uniform,Float,35
+ElectricEquipment,Level1:Zone11 Computing gain 1,Design Level,54.3174,48.1795338,58.119618,Uniform,Float,36
+ElectricEquipment,Level1:Zone11 Equipment 2,Design Level,54.3174,48.1795338,58.119618,Uniform,Float,37
+Lights,Level1Z1:Zone1 General lighting,Lighting Level,895.95,843.9849,976.5855,Uniform,Float,38
+ElectricEquipment,Level1Z1:Zone1 Computing gain 1,Design Level,268.785,238.412295,287.59995,Uniform,Float,39
+ElectricEquipment,Level1Z1:Zone1 Equipment 2,Design Level,268.785,238.412295,287.59995,Uniform,Float,40
+Lights,Level1Z1:Zone4 General lighting,Lighting Level,234.328,220.736976,255.41752,Uniform,Float,41
+ElectricEquipment,Level1Z1:Zone4 Computing gain 1,Design Level,70.2984,62.3546808,75.219288,Uniform,Float,42
+ElectricEquipment,Level1Z1:Zone4 Equipment 2,Design Level,70.2984,62.3546808,75.219288,Uniform,Float,43
+Lights,Level1Z1:Zone51 General lighting,Lighting Level,471.5745,444.223179,514.016205,Uniform,Float,44
+ElectricEquipment,Level1Z1:Zone51 Equipment 1,Design Level,925.5436,820.9571732,990.331652,Uniform,Float,45
+Lights,Level1Z1:Zone39 General lighting,Lighting Level,1098.504,1034.790768,1197.36936,Uniform,Float,46
+ElectricEquipment,Level1Z1:Zone39 Computing gain 1,Design Level,329.5512,292.3119144,352.619784,Uniform,Float,47
+ElectricEquipment,Level1Z1:Zone39 Equipment 2,Design Level,329.5512,292.3119144,352.619784,Uniform,Float,48
+Lights,Level1Z1:Zone9 General lighting,Lighting Level,442.228,416.578776,482.02852,Uniform,Float,49
+ElectricEquipment,Level1Z1:Zone9 Computing gain 1,Design Level,132.6684,117.6768708,141.955188,Uniform,Float,50
+ElectricEquipment,Level1Z1:Zone9 Equipment 2,Design Level,132.6684,117.6768708,141.955188,Uniform,Float,51
+Lights,Level1Z1:Zone12 General lighting,Lighting Level,243.5875,229.459425,265.510375,Uniform,Float,52
+ElectricEquipment,Level1Z1:Zone12 Equipment 1,Design Level,411.5654,365.0585098,440.374978,Uniform,Float,53
+Lights,Level1Z1:Zone7 General lighting,Lighting Level,228.83,215.55786,249.4247,Uniform,Float,54
+ElectricEquipment,Level1Z1:Zone7 Computing gain 1,Design Level,68.649,60.891663,73.45443,Uniform,Float,55
+ElectricEquipment,Level1Z1:Zone7 Equipment 2,Design Level,68.649,60.891663,73.45443,Uniform,Float,56
+Lights,Level1Z1:Zone45 General lighting,Lighting Level,155.804,146.767368,169.82636,Uniform,Float,57
+ElectricEquipment,Level1Z1:Zone45 Computing gain 1,Design Level,46.7412,41.4594444,50.013084,Uniform,Float,58
+ElectricEquipment,Level1Z1:Zone45 Equipment 2,Design Level,46.7412,41.4594444,50.013084,Uniform,Float,59
+Lights,Level1Z1:Zone47 General lighting,Lighting Level,456.275,429.81105,497.33975,Uniform,Float,60
+ElectricEquipment,Level1Z1:Zone47 Equipment 1,Design Level,770.9222,683.8079914,824.886754,Uniform,Float,61
+Lights,Level1Z1:Zone44 General lighting,Lighting Level,172.754,162.734268,188.30186,Uniform,Float,62
+ElectricEquipment,Level1Z1:Zone44 Computing gain 1,Design Level,51.8262,45.9698394,55.454034,Uniform,Float,63
+ElectricEquipment,Level1Z1:Zone44 Equipment 2,Design Level,51.8262,45.9698394,55.454034,Uniform,Float,64
+Lights,Level1Z1:Zone2 General lighting,Lighting Level,1804.246,1699.599732,1966.62814,Uniform,Float,65
+ElectricEquipment,Level1Z1:Zone2 Computing gain 1,Design Level,541.2738,480.1098606,579.162966,Uniform,Float,66
+ElectricEquipment,Level1Z1:Zone2 Equipment 2,Design Level,541.2738,480.1098606,579.162966,Uniform,Float,67
+Lights,Level1Z1:Zone43 General lighting,Lighting Level,1279.054,1204.868868,1394.16886,Uniform,Float,68
+ElectricEquipment,Level1Z1:Zone43 Computing gain 1,Design Level,383.7162,340.3562694,410.576334,Uniform,Float,69
+ElectricEquipment,Level1Z1:Zone43 Equipment 2,Design Level,383.7162,340.3562694,410.576334,Uniform,Float,70
+Lights,Level1Z1:Zone37 General lighting,Lighting Level,145.816,137.358672,158.93944,Uniform,Float,71
+ElectricEquipment,Level1Z1:Zone37 Equipment 1,Design Level,79.9072,70.8776864,85.500704,Uniform,Float,72
+Lights,Level1Z1:Zone36 General lighting,Lighting Level,197.924,186.444408,215.73716,Uniform,Float,73
+ElectricEquipment,Level1Z1:Zone36 Equipment 1,Design Level,108.4624,96.2061488,116.054768,Uniform,Float,74
+Lights,Level1Z1:Zone38 General lighting,Lighting Level,1441.416,1357.813872,1571.14344,Uniform,Float,75
+ElectricEquipment,Level1Z1:Zone38 Computing gain 1,Design Level,432.4248,383.5607976,462.694536,Uniform,Float,76
+ElectricEquipment,Level1Z1:Zone38 Equipment 2,Design Level,432.4248,383.5607976,462.694536,Uniform,Float,77
+Lights,Level1Z1:Zone3 General lighting,Lighting Level,1177.12,1108.84704,1283.0608,Uniform,Float,78
+ElectricEquipment,Level1Z1:Zone3 Computing gain 1,Design Level,353.136,313.231632,377.85552,Uniform,Float,79
+ElectricEquipment,Level1Z1:Zone3 Equipment 2,Design Level,353.136,313.231632,377.85552,Uniform,Float,80
+Lights,Level1Z1:Zone5 General lighting,Lighting Level,924.16,870.55872,1007.3344,Uniform,Float,81
+ElectricEquipment,Level1Z1:Zone5 Computing gain 1,Design Level,277.248,245.918976,296.65536,Uniform,Float,82
+ElectricEquipment,Level1Z1:Zone5 Equipment 2,Design Level,277.248,245.918976,296.65536,Uniform,Float,83
+Lights,Level1Z1:Zone6 General lighting,Lighting Level,916.402,863.250684,998.87818,Uniform,Float,84
+ElectricEquipment,Level1Z1:Zone6 Computing gain 1,Design Level,274.9206,243.8545722,294.165042,Uniform,Float,85
+ElectricEquipment,Level1Z1:Zone6 Equipment 2,Design Level,274.9206,243.8545722,294.165042,Uniform,Float,86
+Lights,Level1Z1:Zone8 General lighting,Lighting Level,965.12,909.14304,1051.9808,Uniform,Float,87
+ElectricEquipment,Level1Z1:Zone8 Computing gain 1,Design Level,289.536,256.818432,309.80352,Uniform,Float,88
+ElectricEquipment,Level1Z1:Zone8 Equipment 2,Design Level,289.536,256.818432,309.80352,Uniform,Float,89
+Lights,Level1Z1:Zone10 General lighting,Lighting Level,931.226,877.214892,1015.03634,Uniform,Float,90
+ElectricEquipment,Level1Z1:Zone10 Computing gain 1,Design Level,279.3678,247.7992386,298.923546,Uniform,Float,91
+ElectricEquipment,Level1Z1:Zone10 Equipment 2,Design Level,279.3678,247.7992386,298.923546,Uniform,Float,92
+Lights,Level1Z1:Zone28 General lighting,Lighting Level,160.852,151.522584,175.32868,Uniform,Float,93
+ElectricEquipment,Level1Z1:Zone28 Computing gain 1,Design Level,48.2556,42.8027172,51.633492,Uniform,Float,94
+ElectricEquipment,Level1Z1:Zone28 Equipment 2,Design Level,48.2556,42.8027172,51.633492,Uniform,Float,95
+Lights,Level1Z1:Zone11 General lighting,Lighting Level,733.502,690.958884,799.51718,Uniform,Float,96
+ElectricEquipment,Level1Z1:Zone11 Computing gain 1,Design Level,220.0506,195.1848822,235.454142,Uniform,Float,97
+ElectricEquipment,Level1Z1:Zone11 Equipment 2,Design Level,220.0506,195.1848822,235.454142,Uniform,Float,98
+Lights,Level1Z1:Zone13 General lighting,Lighting Level,926.896,873.136032,1010.31664,Uniform,Float,99
+ElectricEquipment,Level1Z1:Zone13 Computing gain 1,Design Level,278.0688,246.6470256,297.533616,Uniform,Float,100
+ElectricEquipment,Level1Z1:Zone13 Equipment 2,Design Level,278.0688,246.6470256,297.533616,Uniform,Float,101
+Lights,Level2:Zone4 General lighting,Lighting Level,1099.826,1036.036092,1198.81034,Uniform,Float,102
+ElectricEquipment,Level2:Zone4 Equipment 1,Design Level,647.2476,574.1086212,692.554932,Uniform,Float,103
+Lights,Level2:Zone5 General lighting,Lighting Level,1054.526,993.363492,1149.43334,Uniform,Float,104
+ElectricEquipment,Level2:Zone5 Equipment 1,Design Level,620.5886,550.4620882,664.029802,Uniform,Float,105
+Lights,Level2:Zone10 General lighting,Lighting Level,108.847,102.533874,118.64323,Uniform,Float,106
+ElectricEquipment,Level2:Zone10 Equipment 1,Design Level,40.2734,35.7225058,43.092538,Uniform,Float,107
+Lights,Level2:Zone17 General lighting,Lighting Level,74.544,70.220448,81.25296,Uniform,Float,108
+Lights,Level2:Zone3 General lighting,Lighting Level,1000.994,942.936348,1091.08346,Uniform,Float,109
+ElectricEquipment,Level2:Zone3 Equipment 1,Design Level,589.085,522.518395,630.32095,Uniform,Float,110
+Lights,Level2:Zone15 General lighting,Lighting Level,70.359,66.278178,76.69131,Uniform,Float,111
+Lights,Level2:Zone36 General lighting,Lighting Level,363.2265,342.159363,395.916885,Uniform,Float,112
+ElectricEquipment,Level2:Zone36 Equipment 1,Design Level,134.3938,119.2073006,143.801366,Uniform,Float,113
+Lights,Level2:Zone6 General lighting,Lighting Level,1293.606,1218.576852,1410.03054,Uniform,Float,114
+ElectricEquipment,Level2:Zone6 Equipment 1,Design Level,761.2871,675.2616577,814.577197,Uniform,Float,115
+Lights,Level2:Zone12 General lighting,Lighting Level,1293.606,1218.576852,1410.03054,Uniform,Float,116
+ElectricEquipment,Level2:Zone12 Equipment 1,Design Level,761.2871,675.2616577,814.577197,Uniform,Float,117
+Lights,Level2:Zone26 General lighting,Lighting Level,220.252,207.477384,240.07468,Uniform,Float,118
+ElectricEquipment,Level2:Zone26 Equipment 1,Design Level,129.6183,114.9714321,138.691581,Uniform,Float,119
+Lights,Level2:Zone7 General lighting,Lighting Level,1071.592,1009.439664,1168.03528,Uniform,Float,120
+ElectricEquipment,Level2:Zone7 Equipment 1,Design Level,630.6319,559.3704953,674.776133,Uniform,Float,121
+Lights,Level2:Zone1 General lighting,Lighting Level,888.504,836.970768,968.46936,Uniform,Float,122
+ElectricEquipment,Level2:Zone1 Equipment 1,Design Level,522.8846,463.7986402,559.486522,Uniform,Float,123
+Lights,Level2:Zone18 General lighting,Lighting Level,907.03,854.42226,988.6627,Uniform,Float,124
+ElectricEquipment,Level2:Zone18 Equipment 1,Design Level,533.7872,473.4692464,571.152304,Uniform,Float,125
+Lights,Level2:Zone25 General lighting,Lighting Level,56.961,53.657262,62.08749,Uniform,Float,126
+Lights,Level2:Zone29 General lighting,Lighting Level,2266.368,2134.918656,2470.34112,Uniform,Float,127
+ElectricEquipment,Level2:Zone29 Equipment 1,Design Level,679.9104,603.0805248,727.504128,Uniform,Float,128
+ElectricEquipment,Level2:Zone35 Equipment 1,Design Level,118.9987,105.5518469,127.328609,Uniform,Float,129
+Lights,Level2:Zone30 General lighting,Lighting Level,82.856,78.050352,90.31304,Uniform,Float,130
+Lights,Level2:Zone37 General lighting,Lighting Level,96.579,90.977418,105.27111,Uniform,Float,131
+ElectricEquipment,Level2:Zone37 Equipment 1,Design Level,52.9253,46.9447411,56.630071,Uniform,Float,132
+ElectricEquipment,Level2:Zone34 Equipment 1,Design Level,64.6958,57.3851746,69.224506,Uniform,Float,133
+Lights,Level0:Zone2 General lighting,Lighting Level,447.764,421.793688,488.06276,Uniform,Float,134
+ElectricEquipment,Level0:Zone2 Equipment 1,Design Level,263.5091,233.7325717,281.954737,Uniform,Float,135
+Lights,Level0:Zone35 General lighting,Lighting Level,598.922,564.184524,652.82498,Uniform,Float,136
+ElectricEquipment,Level0:Zone35 Equipment 1,Design Level,352.4656,312.6369872,377.138192,Uniform,Float,137
+Lights,Level0:Zone28 General lighting,Lighting Level,298.024,280.738608,324.84616,Uniform,Float,138
+ElectricEquipment,Level0:Zone28 Equipment 1,Design Level,175.3871,155.5683577,187.664197,Uniform,Float,139
+Lights,Level0:Zone6 General lighting,Lighting Level,762.82,718.57644,831.4738,Uniform,Float,140
+ElectricEquipment,Level0:Zone6 Equipment 1,Design Level,448.9196,398.1916852,480.343972,Uniform,Float,141
+Lights,Level0:Zone8 General lighting,Lighting Level,455.01,428.61942,495.9609,Uniform,Float,142
+ElectricEquipment,Level0:Zone8 Equipment 1,Design Level,267.7734,237.5150058,286.517538,Uniform,Float,143
+Lights,Level0:Zone11 General lighting,Lighting Level,70.632,66.535344,76.98888,Uniform,Float,144
+Lights,Level0:Zone13 General lighting,Lighting Level,790.442,744.596364,861.58178,Uniform,Float,145
+ElectricEquipment,Level0:Zone13 Equipment 1,Design Level,465.1751,412.6103137,497.737357,Uniform,Float,146
+Lights,Level0:Zone7 General lighting,Lighting Level,277.236,261.156312,302.18724,Uniform,Float,147
+ElectricEquipment,Level0:Zone7 Equipment 1,Design Level,163.1534,144.7170658,174.574138,Uniform,Float,148
+Lights,Level0:Zone32 General lighting,Lighting Level,29598.298,27881.59672,32262.14482,Uniform,Float,149
+ElectricEquipment,Level0:Zone32 Equipment 1,Design Level,17418.5984,15450.29678,18637.90029,Uniform,Float,150
+Lights,Level0:Zone1 General lighting,Lighting Level,921.958,868.484436,1004.93422,Uniform,Float,151
+ElectricEquipment,Level0:Zone1 Equipment 1,Design Level,542.5723,481.2616301,580.552361,Uniform,Float,152
+Lights,Level0:Zone51 General lighting,Lighting Level,118.9905,112.089051,129.699645,Uniform,Float,153
+Lights,Level0:Zone33 General lighting,Lighting Level,182.288,171.715296,198.69392,Uniform,Float,154
+ElectricEquipment,Level0:Zone33 Equipment 1,Design Level,99.8938,88.6058006,106.886366,Uniform,Float,155
+Lights,Level0:Zone27 General lighting,Lighting Level,183.35,172.7157,199.8515,Uniform,Float,156
+ElectricEquipment,Level0:Zone27 Equipment 1,Design Level,107.9015,95.7086305,115.454605,Uniform,Float,157
+Lights,Level0:Zone20 General lighting,Lighting Level,736.492,693.775464,802.77628,Uniform,Float,158
+ElectricEquipment,Level0:Zone20 Equipment 1,Design Level,433.4255,384.4484185,463.765285,Uniform,Float,159
+Lights,Level0:Zone21 General lighting,Lighting Level,837.742,789.152964,913.13878,Uniform,Float,160
+ElectricEquipment,Level0:Zone21 Equipment 1,Design Level,493.0112,437.3009344,527.521984,Uniform,Float,161
+Lights,Level0:Zone45 General lighting,Lighting Level,269.43,253.80306,293.6787,Uniform,Float,162
+ElectricEquipment,Level0:Zone45 Equipment 1,Design Level,158.5596,140.6423652,169.658772,Uniform,Float,163
+Lights,Level0:Zone30 General lighting,Lighting Level,698.82,658.28844,761.7138,Uniform,Float,164
+ElectricEquipment,Level0:Zone30 Equipment 1,Design Level,411.2556,364.7837172,440.043492,Uniform,Float,165
+Lights,Level0:Zone23 General lighting,Lighting Level,588.358,554.233236,641.31022,Uniform,Float,166
+ElectricEquipment,Level0:Zone23 Equipment 1,Design Level,346.2487,307.1225969,370.486109,Uniform,Float,167
+Lights,Level0:Zone4 General lighting,Lighting Level,898.474,846.362508,979.33666,Uniform,Float,168
+ElectricEquipment,Level0:Zone4 Equipment 1,Design Level,528.7519,469.0029353,565.764533,Uniform,Float,169
+Lights,Level0:Zone25 General lighting,Lighting Level,508.836,479.323512,554.63124,Uniform,Float,170
+ElectricEquipment,Level0:Zone25 Equipment 1,Design Level,299.45,265.61215,320.4115,Uniform,Float,171
+Lights,Level0:Zone38 General lighting,Lighting Level,834.682,786.270444,909.80338,Uniform,Float,172
+ElectricEquipment,Level0:Zone38 Equipment 1,Design Level,491.2104,435.7036248,525.595128,Uniform,Float,173
+Lights,Level0:Zone26 General lighting,Lighting Level,300.72,283.27824,327.7848,Uniform,Float,174
+ElectricEquipment,Level0:Zone26 Equipment 1,Design Level,176.9737,156.9756719,189.361859,Uniform,Float,175
+Lights,Level0:Zone36 General lighting,Lighting Level,164.683,155.131386,179.50447,Uniform,Float,176
+ElectricEquipment,Level0:Zone36 Equipment 1,Design Level,90.2463,80.0484681,96.563541,Uniform,Float,177
+Lights,Level0:Zone24 General lighting,Lighting Level,361.385,340.42467,393.90965,Uniform,Float,178
+ElectricEquipment,Level0:Zone24 Equipment 1,Design Level,610.5961,541.5987407,653.337827,Uniform,Float,179
+Lights,Level0:Zone53 General lighting,Lighting Level,1396.524,1315.525608,1522.21116,Uniform,Float,180
+ElectricEquipment,Level0:Zone53 Equipment 1,Design Level,516.7139,458.3252293,552.883873,Uniform,Float,181
+Lights,Level0:Zone22 General lighting,Lighting Level,555.896,523.654032,605.92664,Uniform,Float,182
+ElectricEquipment,Level0:Zone22 Equipment 1,Design Level,327.1448,290.1774376,350.044936,Uniform,Float,183
+Lights,Level0:Zone29 General lighting,Lighting Level,467.638,440.514996,509.72542,Uniform,Float,184
+ElectricEquipment,Level0:Zone29 Equipment 1,Design Level,275.205,244.106835,294.46935,Uniform,Float,185
+Lights,Level0:Zone31 General lighting,Lighting Level,372.164,350.578488,405.65876,Uniform,Float,186
+ElectricEquipment,Level0:Zone31 Equipment 1,Design Level,219.0185,194.2694095,234.349795,Uniform,Float,187
+Lights,Level0:Zone48 General lighting,Lighting Level,70.93,66.81606,77.3137,Uniform,Float,188
+Lights,Level0:Zone9 General lighting,Lighting Level,853.98,804.44916,930.8382,Uniform,Float,189
+ElectricEquipment,Level0:Zone9 Equipment 1,Design Level,502.5672,445.7771064,537.746904,Uniform,Float,190
+Lights,Level0AddedPart:Zone2 General lighting,Lighting Level,488.176,459.861792,532.11184,Uniform,Float,191
+ElectricEquipment,Level0AddedPart:Zone2 Computing gain 1,Design Level,146.4528,129.9036336,156.704496,Uniform,Float,192
+ElectricEquipment,Level0AddedPart:Zone2 Equipment 2,Design Level,146.4528,129.9036336,156.704496,Uniform,Float,193
+Lights,Level0AddedPart:Zone3 General lighting,Lighting Level,2921.056,2751.634752,3183.95104,Uniform,Float,194
+ElectricEquipment,Level0AddedPart:Zone3 Computing gain 1,Design Level,876.3168,777.2930016,937.658976,Uniform,Float,195
+ElectricEquipment,Level0AddedPart:Zone3 Equipment 2,Design Level,876.3168,777.2930016,937.658976,Uniform,Float,196
+Lights,Level1AddedPart:Zone1 General lighting,Lighting Level,2577.928,2428.408176,2809.94152,Uniform,Float,197
+ElectricEquipment,Level1AddedPart:Zone1 Equipment 1,Design Level,1595.7374,1415.419074,1707.439018,Uniform,Float,198
+ElectricEquipment,Level1AddedPart:Zone3 Equipment 1,Design Level,45.3516,40.2268692,48.526212,Uniform,Float,199
+Lights,Level1AddedPart:Zone5 General lighting,Lighting Level,121.1295,114.103989,132.031155,Uniform,Float,200
+ElectricEquipment,Level1AddedPart:Zone5 Equipment 1,Design Level,44.8179,39.7534773,47.955153,Uniform,Float,201
+Lights,Level1AddedPart:Zone13 General lighting,Lighting Level,3298.712,3107.386704,3595.59608,Uniform,Float,202
+ElectricEquipment,Level1AddedPart:Zone13 Computing gain 1,Design Level,989.6136,877.7872632,1058.886552,Uniform,Float,203
+ElectricEquipment,Level1AddedPart:Zone13 Equipment 2,Design Level,989.6136,877.7872632,1058.886552,Uniform,Float,204

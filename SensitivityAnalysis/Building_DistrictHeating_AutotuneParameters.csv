@@ -1,0 +1,724 @@
+Class,Object,Field,Default,Minimum,Maximum,Distribution,Type,Group
+Site:GroundTemperature:BuildingSurface,Site:GroundTemperature:BuildingSurface,January Ground Temperature,18,16,20,Uniform,Float,1
+Site:GroundTemperature:BuildingSurface,Site:GroundTemperature:BuildingSurface,February Ground Temperature,18,16,20,Uniform,Float,2
+Site:GroundTemperature:BuildingSurface,Site:GroundTemperature:BuildingSurface,March Ground Temperature,18,16,20,Uniform,Float,3
+Site:GroundTemperature:BuildingSurface,Site:GroundTemperature:BuildingSurface,April Ground Temperature,18,16,20,Uniform,Float,4
+Site:GroundTemperature:BuildingSurface,Site:GroundTemperature:BuildingSurface,May Ground Temperature,18,16,20,Uniform,Float,5
+Site:GroundTemperature:BuildingSurface,Site:GroundTemperature:BuildingSurface,June Ground Temperature,18,16,20,Uniform,Float,6
+Site:GroundTemperature:BuildingSurface,Site:GroundTemperature:BuildingSurface,July Ground Temperature,18,16,20,Uniform,Float,7
+Site:GroundTemperature:BuildingSurface,Site:GroundTemperature:BuildingSurface,August Ground Temperature,18,16,20,Uniform,Float,8
+Site:GroundTemperature:BuildingSurface,Site:GroundTemperature:BuildingSurface,September Ground Temperature,18,16,20,Uniform,Float,9
+Site:GroundTemperature:BuildingSurface,Site:GroundTemperature:BuildingSurface,October Ground Temperature,18,16,20,Uniform,Float,10
+Site:GroundTemperature:BuildingSurface,Site:GroundTemperature:BuildingSurface,November Ground Temperature,18,16,20,Uniform,Float,11
+Site:GroundTemperature:BuildingSurface,Site:GroundTemperature:BuildingSurface,December Ground Temperature,18,16,20,Uniform,Float,12
+Site:GroundReflectance,Site:GroundReflectance,January Ground Reflectance,0.2,0.13,0.26,Uniform,Float,13
+Site:GroundReflectance,Site:GroundReflectance,February Ground Reflectance,0.2,0.13,0.26,Uniform,Float,14
+Site:GroundReflectance,Site:GroundReflectance,March Ground Reflectance,0.2,0.13,0.26,Uniform,Float,15
+Site:GroundReflectance,Site:GroundReflectance,April Ground Reflectance,0.2,0.13,0.26,Uniform,Float,16
+Site:GroundReflectance,Site:GroundReflectance,May Ground Reflectance,0.2,0.13,0.26,Uniform,Float,17
+Site:GroundReflectance,Site:GroundReflectance,June Ground Reflectance,0.2,0.13,0.26,Uniform,Float,18
+Site:GroundReflectance,Site:GroundReflectance,July Ground Reflectance,0.2,0.13,0.26,Uniform,Float,19
+Site:GroundReflectance,Site:GroundReflectance,August Ground Reflectance,0.2,0.13,0.26,Uniform,Float,20
+Site:GroundReflectance,Site:GroundReflectance,September Ground Reflectance,0.2,0.13,0.26,Uniform,Float,21
+Site:GroundReflectance,Site:GroundReflectance,October Ground Reflectance,0.2,0.13,0.26,Uniform,Float,22
+Site:GroundReflectance,Site:GroundReflectance,November Ground Reflectance,0.2,0.13,0.26,Uniform,Float,23
+Site:GroundReflectance,Site:GroundReflectance,December Ground Reflectance,0.2,0.13,0.26,Uniform,Float,24
+WindowMaterial:Glazing,2,Solar Transmittance at Normal Incidence,0.837,0.7057584,0.925,Uniform,Float,25
+WindowMaterial:Glazing,2,Visible Transmittance at Normal Incidence,0.898,0.7571936,0.919,Uniform,Float,28
+WindowMaterial:Glazing,2,Front Side Infrared Hemispherical Emissivity,0.84,0.708288,0.971712,Uniform,Float,31
+WindowMaterial:Glazing,2,Back Side Infrared Hemispherical Emissivity,0.84,0.708288,0.971712,Uniform,Float,32
+WindowMaterial:Glazing,2,Conductivity,0.9,0.213965001,1.586034999,Uniform,Float,33
+Material,Floor/Roof Screed_0.05,Conductivity,0.41,0.173699056,0.646300944,Uniform,Float,34
+Material,Floor/Roof Screed_0.05,Density,1200,929.7437882,1470.256212,Uniform,Float,35
+Material,Floor/Roof Screed_0.05,Specific Heat,840,753.3794193,926.6205807,Uniform,Float,36
+Material,Floor/Roof Screed_0.05,Thermal Absorptance,0.9,0.8608,0.9392,Uniform,Float,37
+Material,Floor/Roof Screed_0.05,Solar Absorptance,0.73,0.632,0.828,Uniform,Float,38
+Material,Floor/Roof Screed_0.05,Visible Absorptance,0.73,0.632,0.828,Uniform,Float,39
+Material,Cast Concrete_0.15,Conductivity,1.13,0.97285039,1.28714961,Uniform,Float,40
+Material,Cast Concrete_0.15,Density,2000,1921.949027,2078.050973,Uniform,Float,41
+Material,Cast Concrete_0.15,Specific Heat,1000,951.8074529,1048.192547,Uniform,Float,42
+Material,Cast Concrete_0.15,Thermal Absorptance,0.9,0.8608,0.9392,Uniform,Float,43
+Material,Cast Concrete_0.15,Solar Absorptance,0.6,0.5216,0.6784,Uniform,Float,44
+Material,Cast Concrete_0.15,Visible Absorptance,0.6,0.5216,0.6784,Uniform,Float,45
+Material,Cast Concrete (Dense)_0.1,Conductivity,1.4,1.24285039,1.55714961,Uniform,Float,46
+Material,Cast Concrete (Dense)_0.1,Density,2100,2021.949027,2178.050973,Uniform,Float,47
+Material,Cast Concrete (Dense)_0.1,Specific Heat,840,791.8074529,888.1925471,Uniform,Float,48
+Material,Cast Concrete (Dense)_0.1,Thermal Absorptance,0.9,0.8608,0.9392,Uniform,Float,49
+Material,Cast Concrete (Dense)_0.1,Solar Absorptance,0.6,0.5216,0.6784,Uniform,Float,50
+Material,Cast Concrete (Dense)_0.1,Visible Absorptance,0.6,0.5216,0.6784,Uniform,Float,51
+Material,Chipboard_0.013,Conductivity,0.15,0.134157509,0.165842491,Uniform,Float,52
+Material,Chipboard_0.013,Density,800,744.174078,855.825922,Uniform,Float,53
+Material,Chipboard_0.013,Specific Heat,2093,1849.327394,2336.672606,Uniform,Float,54
+Material,Chipboard_0.013,Thermal Absorptance,0.9,0.8608,0.9392,Uniform,Float,55
+Material,Chipboard_0.013,Solar Absorptance,0.78,0.682,0.878,Uniform,Float,56
+Material,Chipboard_0.013,Visible Absorptance,0.78,0.682,0.878,Uniform,Float,57
+Material,Cast Concrete_0.2,Conductivity,1.13,0.97285039,1.28714961,Uniform,Float,58
+Material,Cast Concrete_0.2,Density,2000,1921.949027,2078.050973,Uniform,Float,59
+Material,Cast Concrete_0.2,Specific Heat,1000,951.8074529,1048.192547,Uniform,Float,60
+Material,Cast Concrete_0.2,Thermal Absorptance,0.9,0.8608,0.9392,Uniform,Float,61
+Material,Cast Concrete_0.2,Solar Absorptance,0.6,0.5216,0.6784,Uniform,Float,62
+Material,Cast Concrete_0.2,Visible Absorptance,0.6,0.5216,0.6784,Uniform,Float,63
+Material,Standard insulation_0.0096,Conductivity,0.04,0.037006051,0.042993949,Uniform,Float,64
+Material,Standard insulation_0.0096,Density,12,6.225954624,17.77404538,Uniform,Float,65
+Material,Standard insulation_0.0096,Specific Heat,840,776.2716473,903.7283527,Uniform,Float,66
+Material,Standard insulation_0.0096,Thermal Absorptance,0.9,0.8608,0.9392,Uniform,Float,67
+Material,Standard insulation_0.0096,Solar Absorptance,0.7,0.602,0.798,Uniform,Float,68
+Material,Standard insulation_0.0096,Visible Absorptance,0.7,0.602,0.798,Uniform,Float,69
+Material,MW Stone Wool (rolls)_0.1439,Conductivity,0.04,0.038,0.042,Uniform,Float,70
+Material,MW Stone Wool (rolls)_0.1439,Density,30,29.7,30.3,Uniform,Float,71
+Material,MW Stone Wool (rolls)_0.1439,Specific Heat,840,735,945,Uniform,Float,72
+Material,MW Stone Wool (rolls)_0.1439,Thermal Absorptance,0.9,0.8608,0.9392,Uniform,Float,73
+Material,MW Stone Wool (rolls)_0.1439,Solar Absorptance,0.6,0.404,0.796,Uniform,Float,74
+Material,MW Stone Wool (rolls)_0.1439,Visible Absorptance,0.6,0.404,0.796,Uniform,Float,75
+Material,Standard insulation_0.0159,Conductivity,0.04,0.038,0.042,Uniform,Float,76
+Material,Standard insulation_0.0159,Density,12,11.88,12.12,Uniform,Float,77
+Material,Standard insulation_0.0159,Specific Heat,840,735,945,Uniform,Float,78
+Material,Standard insulation_0.0159,Thermal Absorptance,0.9,0.8608,0.9392,Uniform,Float,79
+Material,Standard insulation_0.0159,Solar Absorptance,0.7,0.602,0.798,Uniform,Float,80
+Material,Standard insulation_0.0159,Visible Absorptance,0.7,0.602,0.798,Uniform,Float,81
+Material,Plywood (Heavyweight)_0.006,Conductivity,0.15,0.1425,0.1575,Uniform,Float,82
+Material,Plywood (Heavyweight)_0.006,Density,700,693,707,Uniform,Float,83
+Material,Plywood (Heavyweight)_0.006,Specific Heat,1420,1242.5,1597.5,Uniform,Float,84
+Material,Plywood (Heavyweight)_0.006,Thermal Absorptance,0.9,0.8608,0.9392,Uniform,Float,85
+Material,Plywood (Heavyweight)_0.006,Solar Absorptance,0.78,0.682,0.878,Uniform,Float,86
+Material,Plywood (Heavyweight)_0.006,Visible Absorptance,0.78,0.682,0.878,Uniform,Float,87
+Material:NoMass,19_RVAL_2,Thermal Resistance,0.15,0.1425,0.1575,Uniform,Float,88
+Material:NoMass,19_RVAL_2,Thermal Absorptance,0.9,0.8608,0.9392,Uniform,Float,89
+Material:NoMass,19_RVAL_2,Solar Absorptance,0.7,0.6216,0.7784,Uniform,Float,90
+Material:NoMass,19_RVAL_2,Visible Absorptance,0.7,0.6216,0.7784,Uniform,Float,91
+People,People Level1:Zone14,Number of People,18.70506875,4.04029485,33.36984265,Uniform,Float,92
+People,People Level1:Zone14,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,93
+Lights,Level1:Zone14 General lighting,Lighting Level,797.091,750.859722,868.82919,Uniform,Float,94
+Lights,Level1:Zone14 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,95
+Lights,Level1:Zone14 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,96
+ElectricEquipment,Level1:Zone14 Equipment 1,Design Level,294.9237,261.5973219,315.568359,Uniform,Float,97
+ElectricEquipment,Level1:Zone14 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,98
+ZoneInfiltration:DesignFlowRate,Level1:Zone14 Infiltration,Design Flow Rate,0.036398,0.036396329,0.036399671,Uniform,Float,99
+Lights,Level1:Zone6 General lighting,Lighting Level,749.55,706.0761,817.0095,Uniform,Float,100
+Lights,Level1:Zone6 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,101
+Lights,Level1:Zone6 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,102
+ZoneInfiltration:DesignFlowRate,Level1:Zone6 Infiltration,Design Flow Rate,0.00838,0.008378329,0.008381671,Uniform,Float,103
+Lights,Level1:Zone4 General lighting,Lighting Level,319.666,301.125372,348.43594,Uniform,Float,104
+Lights,Level1:Zone4 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,105
+Lights,Level1:Zone4 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,106
+People,People Level1:Zone7,Number of People,48.33607666,10.44059256,86.23156076,Uniform,Float,107
+People,People Level1:Zone7,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,108
+Lights,Level1:Zone7 General lighting,Lighting Level,2059.776,1940.308992,2245.15584,Uniform,Float,109
+Lights,Level1:Zone7 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,110
+Lights,Level1:Zone7 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,111
+ElectricEquipment,Level1:Zone7 Equipment 1,Design Level,762.1171,675.9978677,815.465297,Uniform,Float,112
+ElectricEquipment,Level1:Zone7 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,113
+ZoneInfiltration:DesignFlowRate,Level1:Zone7 Infiltration,Design Flow Rate,0.096288,0.096286329,0.096289671,Uniform,Float,114
+People,People Level1:Zone15,Number of People,8.911635,1.92491316,15.89835684,Uniform,Float,115
+People,People Level1:Zone15,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,116
+Lights,Level1:Zone15 General lighting,Lighting Level,1605.7,1512.5694,1750.213,Uniform,Float,117
+Lights,Level1:Zone15 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,118
+Lights,Level1:Zone15 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,119
+ElectricEquipment,Level1:Zone15 Computing gain 1,Design Level,481.71,427.27677,515.4297,Uniform,Float,120
+ElectricEquipment,Level1:Zone15 Computing gain 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,121
+ElectricEquipment,Level1:Zone15 Equipment 2,Design Level,481.71,427.27677,515.4297,Uniform,Float,122
+ElectricEquipment,Level1:Zone15 Equipment 2,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,123
+WaterUse:Equipment,DHW Level1:Zone15,Peak Flow Rate,4.96E-07,3.38E-07,7.27E-07,Uniform,Float,124
+ZoneInfiltration:DesignFlowRate,Level1:Zone15 Infiltration,Design Flow Rate,0.017953,0.017951329,0.017954671,Uniform,Float,125
+Lights,Level1:Zone11 General lighting,Lighting Level,181.058,170.556636,197.35322,Uniform,Float,126
+Lights,Level1:Zone11 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,127
+Lights,Level1:Zone11 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,128
+People,People Level1Z1:Zone1,Number of People,4.9725225,1.07406486,8.87098014,Uniform,Float,129
+People,People Level1Z1:Zone1,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,130
+Lights,Level1Z1:Zone1 General lighting,Lighting Level,895.95,843.9849,976.5855,Uniform,Float,131
+Lights,Level1Z1:Zone1 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,132
+Lights,Level1Z1:Zone1 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,133
+ElectricEquipment,Level1Z1:Zone1 Computing gain 1,Design Level,268.785,238.412295,287.59995,Uniform,Float,134
+ElectricEquipment,Level1Z1:Zone1 Computing gain 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,135
+ElectricEquipment,Level1Z1:Zone1 Equipment 2,Design Level,268.785,238.412295,287.59995,Uniform,Float,136
+ElectricEquipment,Level1Z1:Zone1 Equipment 2,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,137
+ZoneInfiltration:DesignFlowRate,Level1Z1:Zone1 Infiltration,Design Flow Rate,0.009731,0.009729329,0.009732671,Uniform,Float,138
+People,People Level1Z1:Zone51,Number of People,18.16435112,3.923499842,32.4052024,Uniform,Float,139
+People,People Level1Z1:Zone51,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,140
+Lights,Level1Z1:Zone51 General lighting,Lighting Level,471.5745,444.223179,514.016205,Uniform,Float,141
+Lights,Level1Z1:Zone51 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,142
+Lights,Level1Z1:Zone51 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,143
+ElectricEquipment,Level1Z1:Zone51 Equipment 1,Design Level,925.5436,820.9571732,990.331652,Uniform,Float,144
+ElectricEquipment,Level1Z1:Zone51 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,145
+WaterUse:Equipment,DHW Level1Z1:Zone51,Peak Flow Rate,2.33E-05,1.59E-05,3.41E-05,Uniform,Float,146
+ZoneInfiltration:DesignFlowRate,Level1Z1:Zone51 Infiltration,Design Flow Rate,0.013658,0.013656329,0.013659671,Uniform,Float,147
+People,People Level1Z1:Zone39,Number of People,6.0966972,1.316886595,10.8765078,Uniform,Float,148
+People,People Level1Z1:Zone39,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,149
+Lights,Level1Z1:Zone39 General lighting,Lighting Level,1098.504,1034.790768,1197.36936,Uniform,Float,150
+Lights,Level1Z1:Zone39 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,151
+Lights,Level1Z1:Zone39 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,152
+ElectricEquipment,Level1Z1:Zone39 Computing gain 1,Design Level,329.5512,292.3119144,352.619784,Uniform,Float,153
+ElectricEquipment,Level1Z1:Zone39 Computing gain 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,154
+ElectricEquipment,Level1Z1:Zone39 Equipment 2,Design Level,329.5512,292.3119144,352.619784,Uniform,Float,155
+ElectricEquipment,Level1Z1:Zone39 Equipment 2,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,156
+ZoneInfiltration:DesignFlowRate,Level1Z1:Zone39 Infiltration,Design Flow Rate,0.011689,0.011687329,0.011690671,Uniform,Float,157
+People,People Level1Z1:Zone9,Number of People,2.4543654,0.530142926,4.378587874,Uniform,Float,158
+People,People Level1Z1:Zone9,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,159
+ElectricEquipment,Level1Z1:Zone9 Computing gain 1,Design Level,132.6684,117.6768708,141.955188,Uniform,Float,160
+ElectricEquipment,Level1Z1:Zone9 Computing gain 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,161
+ElectricEquipment,Level1Z1:Zone9 Equipment 2,Design Level,132.6684,117.6768708,141.955188,Uniform,Float,162
+ElectricEquipment,Level1Z1:Zone9 Equipment 2,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,163
+ZoneInfiltration:DesignFlowRate,Level1Z1:Zone9 Infiltration,Design Flow Rate,0.004803,0.004801329,0.004804671,Uniform,Float,164
+Lights,Level1Z1:Zone12 General lighting,Lighting Level,243.5875,229.459425,265.510375,Uniform,Float,165
+Lights,Level1Z1:Zone12 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,166
+Lights,Level1Z1:Zone12 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,167
+ElectricEquipment,Level1Z1:Zone12 Equipment 1,Design Level,411.5654,365.0585098,440.374978,Uniform,Float,168
+ElectricEquipment,Level1Z1:Zone12 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,169
+Lights,Level1Z1:Zone7 General lighting,Lighting Level,228.83,215.55786,249.4247,Uniform,Float,170
+Lights,Level1Z1:Zone7 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,171
+Lights,Level1Z1:Zone7 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,172
+Lights,Level1Z1:Zone45 General lighting,Lighting Level,155.804,146.767368,169.82636,Uniform,Float,173
+Lights,Level1Z1:Zone45 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,174
+Lights,Level1Z1:Zone45 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,175
+People,People Level1Z1:Zone47,Number of People,1.971759816,0.42590012,3.517619512,Uniform,Float,176
+People,People Level1Z1:Zone47,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,177
+Lights,Level1Z1:Zone47 General lighting,Lighting Level,456.275,429.81105,497.33975,Uniform,Float,178
+Lights,Level1Z1:Zone47 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,179
+Lights,Level1Z1:Zone47 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,180
+ElectricEquipment,Level1Z1:Zone47 Equipment 1,Design Level,770.9222,683.8079914,824.886754,Uniform,Float,181
+ElectricEquipment,Level1Z1:Zone47 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,182
+ZoneInfiltration:DesignFlowRate,Level1Z1:Zone47 Infiltration,Design Flow Rate,0.003965,0.003963329,0.003966671,Uniform,Float,183
+Lights,Level1Z1:Zone44 General lighting,Lighting Level,172.754,162.734268,188.30186,Uniform,Float,184
+Lights,Level1Z1:Zone44 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,185
+Lights,Level1Z1:Zone44 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,186
+People,People Level1Z1:Zone2,Number of People,10.0135653,2.162930105,17.8642005,Uniform,Float,187
+People,People Level1Z1:Zone2,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,188
+Lights,Level1Z1:Zone2 General lighting,Lighting Level,1804.246,1699.599732,1966.62814,Uniform,Float,189
+Lights,Level1Z1:Zone2 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,190
+Lights,Level1Z1:Zone2 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,191
+ElectricEquipment,Level1Z1:Zone2 Computing gain 1,Design Level,541.2738,480.1098606,579.162966,Uniform,Float,192
+ElectricEquipment,Level1Z1:Zone2 Computing gain 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,193
+ElectricEquipment,Level1Z1:Zone2 Equipment 2,Design Level,541.2738,480.1098606,579.162966,Uniform,Float,194
+ElectricEquipment,Level1Z1:Zone2 Equipment 2,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,195
+WaterUse:Equipment,DHW Level1Z1:Zone2,Peak Flow Rate,5.57E-07,3.80E-07,8.16E-07,Uniform,Float,196
+ZoneInfiltration:DesignFlowRate,Level1Z1:Zone2 Infiltration,Design Flow Rate,0.019596,0.019594329,0.019597671,Uniform,Float,197
+People,People Level1Z1:Zone43,Number of People,7.0987497,1.533329935,12.66416946,Uniform,Float,198
+People,People Level1Z1:Zone43,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,199
+Lights,Level1Z1:Zone43 General lighting,Lighting Level,1279.054,1204.868868,1394.16886,Uniform,Float,200
+Lights,Level1Z1:Zone43 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,201
+Lights,Level1Z1:Zone43 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,202
+ElectricEquipment,Level1Z1:Zone43 Computing gain 1,Design Level,383.7162,340.3562694,410.576334,Uniform,Float,203
+ElectricEquipment,Level1Z1:Zone43 Computing gain 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,204
+ElectricEquipment,Level1Z1:Zone43 Equipment 2,Design Level,383.7162,340.3562694,410.576334,Uniform,Float,205
+ElectricEquipment,Level1Z1:Zone43 Equipment 2,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,206
+WaterUse:Equipment,DHW Level1Z1:Zone43,Peak Flow Rate,3.95E-07,2.69E-07,5.79E-07,Uniform,Float,207
+ZoneInfiltration:DesignFlowRate,Level1Z1:Zone43 Infiltration,Design Flow Rate,0.01361,0.013608329,0.013611671,Uniform,Float,208
+Lights,Level1Z1:Zone37 General lighting,Lighting Level,145.816,137.358672,158.93944,Uniform,Float,209
+Lights,Level1Z1:Zone37 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,210
+Lights,Level1Z1:Zone37 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,211
+ZoneInfiltration:DesignFlowRate,Level1Z1:Zone37 Infiltration,Design Flow Rate,0.003167,0.003165329,0.003168671,Uniform,Float,212
+People,People Level1Z1:Zone36,Number of People,2.225545413,0.480717809,3.970373017,Uniform,Float,213
+People,People Level1Z1:Zone36,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,214
+Lights,Level1Z1:Zone36 General lighting,Lighting Level,197.924,186.444408,215.73716,Uniform,Float,215
+Lights,Level1Z1:Zone36 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,216
+Lights,Level1Z1:Zone36 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,217
+ZoneInfiltration:DesignFlowRate,Level1Z1:Zone36 Infiltration,Design Flow Rate,0.004299,0.004297329,0.004300671,Uniform,Float,218
+People,People Level1Z1:Zone38,Number of People,7.9998588,1.727969501,14.2717481,Uniform,Float,219
+People,People Level1Z1:Zone38,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,220
+Lights,Level1Z1:Zone38 General lighting,Lighting Level,1441.416,1357.813872,1571.14344,Uniform,Float,221
+Lights,Level1Z1:Zone38 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,222
+Lights,Level1Z1:Zone38 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,223
+ElectricEquipment,Level1Z1:Zone38 Computing gain 1,Design Level,432.4248,383.5607976,462.694536,Uniform,Float,224
+ElectricEquipment,Level1Z1:Zone38 Computing gain 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,225
+ElectricEquipment,Level1Z1:Zone38 Equipment 2,Design Level,432.4248,383.5607976,462.694536,Uniform,Float,226
+ElectricEquipment,Level1Z1:Zone38 Equipment 2,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,227
+WaterUse:Equipment,DHW Level1Z1:Zone38,Peak Flow Rate,4.45E-07,3.03E-07,6.52E-07,Uniform,Float,228
+ZoneInfiltration:DesignFlowRate,Level1Z1:Zone38 Infiltration,Design Flow Rate,0.015338,0.015336329,0.015339671,Uniform,Float,229
+People,People Level1Z1:Zone3,Number of People,6.533016,1.411131456,11.65490054,Uniform,Float,230
+People,People Level1Z1:Zone3,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,231
+Lights,Level1Z1:Zone3 General lighting,Lighting Level,1177.12,1108.84704,1283.0608,Uniform,Float,232
+Lights,Level1Z1:Zone3 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,233
+Lights,Level1Z1:Zone3 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,234
+ElectricEquipment,Level1Z1:Zone3 Computing gain 1,Design Level,353.136,313.231632,377.85552,Uniform,Float,235
+ElectricEquipment,Level1Z1:Zone3 Computing gain 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,236
+ElectricEquipment,Level1Z1:Zone3 Equipment 2,Design Level,353.136,313.231632,377.85552,Uniform,Float,237
+ElectricEquipment,Level1Z1:Zone3 Equipment 2,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,238
+ZoneInfiltration:DesignFlowRate,Level1Z1:Zone3 Infiltration,Design Flow Rate,0.012785,0.012783329,0.012786671,Uniform,Float,239
+People,People Level1Z1:Zone5,Number of People,5.129088,1.107883008,9.150292992,Uniform,Float,240
+People,People Level1Z1:Zone5,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,241
+Lights,Level1Z1:Zone5 General lighting,Lighting Level,924.16,870.55872,1007.3344,Uniform,Float,242
+Lights,Level1Z1:Zone5 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,243
+Lights,Level1Z1:Zone5 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,244
+ElectricEquipment,Level1Z1:Zone5 Computing gain 1,Design Level,277.248,245.918976,296.65536,Uniform,Float,245
+ElectricEquipment,Level1Z1:Zone5 Computing gain 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,246
+ElectricEquipment,Level1Z1:Zone5 Equipment 2,Design Level,277.248,245.918976,296.65536,Uniform,Float,247
+ElectricEquipment,Level1Z1:Zone5 Equipment 2,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,248
+ZoneInfiltration:DesignFlowRate,Level1Z1:Zone5 Infiltration,Design Flow Rate,0.010037,0.010035329,0.010038671,Uniform,Float,249
+People,People Level1Z1:Zone6,Number of People,5.0860311,1.098582718,9.073479482,Uniform,Float,250
+People,People Level1Z1:Zone6,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,251
+Lights,Level1Z1:Zone6 General lighting,Lighting Level,916.402,863.250684,998.87818,Uniform,Float,252
+Lights,Level1Z1:Zone6 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,253
+Lights,Level1Z1:Zone6 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,254
+ElectricEquipment,Level1Z1:Zone6 Computing gain 1,Design Level,274.9206,243.8545722,294.165042,Uniform,Float,255
+ElectricEquipment,Level1Z1:Zone6 Computing gain 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,256
+ElectricEquipment,Level1Z1:Zone6 Equipment 2,Design Level,274.9206,243.8545722,294.165042,Uniform,Float,257
+ElectricEquipment,Level1Z1:Zone6 Equipment 2,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,258
+ZoneInfiltration:DesignFlowRate,Level1Z1:Zone6 Infiltration,Design Flow Rate,0.009953,0.009951329,0.009954671,Uniform,Float,259
+People,People Level1Z1:Zone8,Number of People,5.356416,1.156985856,9.555846144,Uniform,Float,260
+People,People Level1Z1:Zone8,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,261
+Lights,Level1Z1:Zone8 General lighting,Lighting Level,965.12,909.14304,1051.9808,Uniform,Float,262
+Lights,Level1Z1:Zone8 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,263
+Lights,Level1Z1:Zone8 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,264
+ElectricEquipment,Level1Z1:Zone8 Computing gain 1,Design Level,289.536,256.818432,309.80352,Uniform,Float,265
+ElectricEquipment,Level1Z1:Zone8 Computing gain 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,266
+ElectricEquipment,Level1Z1:Zone8 Equipment 2,Design Level,289.536,256.818432,309.80352,Uniform,Float,267
+ElectricEquipment,Level1Z1:Zone8 Equipment 2,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,268
+ZoneInfiltration:DesignFlowRate,Level1Z1:Zone8 Infiltration,Design Flow Rate,0.010482,0.010480329,0.010483671,Uniform,Float,269
+People,People Level1Z1:Zone10,Number of People,5.1683043,1.116353729,9.220254871,Uniform,Float,270
+People,People Level1Z1:Zone10,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,271
+Lights,Level1Z1:Zone10 General lighting,Lighting Level,931.226,877.214892,1015.03634,Uniform,Float,272
+Lights,Level1Z1:Zone10 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,273
+Lights,Level1Z1:Zone10 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,274
+ElectricEquipment,Level1Z1:Zone10 Computing gain 1,Design Level,279.3678,247.7992386,298.923546,Uniform,Float,275
+ElectricEquipment,Level1Z1:Zone10 Computing gain 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,276
+ElectricEquipment,Level1Z1:Zone10 Equipment 2,Design Level,279.3678,247.7992386,298.923546,Uniform,Float,277
+ElectricEquipment,Level1Z1:Zone10 Equipment 2,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,278
+ZoneInfiltration:DesignFlowRate,Level1Z1:Zone10 Infiltration,Design Flow Rate,0.010114,0.010112329,0.010115671,Uniform,Float,279
+Lights,Level1Z1:Zone28 General lighting,Lighting Level,160.852,151.522584,175.32868,Uniform,Float,280
+Lights,Level1Z1:Zone28 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,281
+Lights,Level1Z1:Zone28 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,282
+People,People Level1Z1:Zone11,Number of People,4.0709361,0.879322198,7.262550002,Uniform,Float,283
+People,People Level1Z1:Zone11,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,284
+Lights,Level1Z1:Zone11 General lighting,Lighting Level,733.502,690.958884,799.51718,Uniform,Float,285
+Lights,Level1Z1:Zone11 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,286
+Lights,Level1Z1:Zone11 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,287
+ElectricEquipment,Level1Z1:Zone11 Computing gain 1,Design Level,220.0506,195.1848822,235.454142,Uniform,Float,288
+ElectricEquipment,Level1Z1:Zone11 Computing gain 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,289
+ElectricEquipment,Level1Z1:Zone11 Equipment 2,Design Level,220.0506,195.1848822,235.454142,Uniform,Float,290
+ElectricEquipment,Level1Z1:Zone11 Equipment 2,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,291
+ZoneInfiltration:DesignFlowRate,Level1Z1:Zone11 Infiltration,Design Flow Rate,0.007967,0.007965329,0.007968671,Uniform,Float,292
+People,People Level1Z1:Zone13,Number of People,5.1442728,1.111162925,9.177382675,Uniform,Float,293
+People,People Level1Z1:Zone13,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,294
+Lights,Level1Z1:Zone13 General lighting,Lighting Level,926.896,873.136032,1010.31664,Uniform,Float,295
+Lights,Level1Z1:Zone13 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,296
+Lights,Level1Z1:Zone13 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,297
+ElectricEquipment,Level1Z1:Zone13 Computing gain 1,Design Level,278.0688,246.6470256,297.533616,Uniform,Float,298
+ElectricEquipment,Level1Z1:Zone13 Computing gain 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,299
+ElectricEquipment,Level1Z1:Zone13 Equipment 2,Design Level,278.0688,246.6470256,297.533616,Uniform,Float,300
+ElectricEquipment,Level1Z1:Zone13 Equipment 2,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,301
+ZoneInfiltration:DesignFlowRate,Level1Z1:Zone13 Infiltration,Design Flow Rate,0.009863,0.009861329,0.009864671,Uniform,Float,302
+People,People Level2:Zone4,Number of People,6.1040343,1.318471409,10.88959719,Uniform,Float,303
+People,People Level2:Zone4,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,304
+Lights,Level2:Zone4 General lighting,Lighting Level,1099.826,1036.036092,1198.81034,Uniform,Float,305
+Lights,Level2:Zone4 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,306
+Lights,Level2:Zone4 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,307
+ElectricEquipment,Level2:Zone4 Equipment 1,Design Level,647.2476,574.1086212,692.554932,Uniform,Float,308
+ElectricEquipment,Level2:Zone4 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,309
+WaterUse:Equipment,DHW Level2:Zone4,Peak Flow Rate,3.39E-07,2.31E-07,4.97E-07,Uniform,Float,310
+ZoneInfiltration:DesignFlowRate,Level2:Zone4 Infiltration,Design Flow Rate,0.011945,0.011943329,0.011946671,Uniform,Float,311
+People,People Level2:Zone5,Number of People,5.8526193,1.264165769,10.44107283,Uniform,Float,312
+People,People Level2:Zone5,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,313
+Lights,Level2:Zone5 General lighting,Lighting Level,1054.526,993.363492,1149.43334,Uniform,Float,314
+Lights,Level2:Zone5 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,315
+Lights,Level2:Zone5 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,316
+ElectricEquipment,Level2:Zone5 Equipment 1,Design Level,620.5886,550.4620882,664.029802,Uniform,Float,317
+ElectricEquipment,Level2:Zone5 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,318
+WaterUse:Equipment,DHW Level2:Zone5,Peak Flow Rate,3.25E-07,2.22E-07,4.76E-07,Uniform,Float,319
+ZoneInfiltration:DesignFlowRate,Level2:Zone5 Infiltration,Design Flow Rate,0.011221,0.011219329,0.011222671,Uniform,Float,320
+People,People Level2:Zone10,Number of People,2.554276259,0.551723672,4.556828846,Uniform,Float,321
+People,People Level2:Zone10,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,322
+ZoneInfiltration:DesignFlowRate,Level2:Zone10 Infiltration,Design Flow Rate,0.004729,0.004727329,0.004730671,Uniform,Float,323
+People,People Level2:Zone3,Number of People,5.5555167,1.199991607,9.911041793,Uniform,Float,324
+People,People Level2:Zone3,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,325
+Lights,Level2:Zone3 General lighting,Lighting Level,1000.994,942.936348,1091.08346,Uniform,Float,326
+Lights,Level2:Zone3 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,327
+Lights,Level2:Zone3 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,328
+ElectricEquipment,Level2:Zone3 Equipment 1,Design Level,589.085,522.518395,630.32095,Uniform,Float,329
+ElectricEquipment,Level2:Zone3 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,330
+WaterUse:Equipment,DHW Level2:Zone3,Peak Flow Rate,3.09E-07,2.11E-07,4.53E-07,Uniform,Float,331
+ZoneInfiltration:DesignFlowRate,Level2:Zone3 Infiltration,Design Flow Rate,0.010652,0.010650329,0.010653671,Uniform,Float,332
+People,People Level2:Zone36,Number of People,8.523715176,1.841122478,15.20630787,Uniform,Float,333
+People,People Level2:Zone36,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,334
+Lights,Level2:Zone36 General lighting,Lighting Level,363.2265,342.159363,395.916885,Uniform,Float,335
+Lights,Level2:Zone36 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,336
+Lights,Level2:Zone36 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,337
+ElectricEquipment,Level2:Zone36 Equipment 1,Design Level,134.3938,119.2073006,143.801366,Uniform,Float,338
+ElectricEquipment,Level2:Zone36 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,339
+ZoneInfiltration:DesignFlowRate,Level2:Zone36 Infiltration,Design Flow Rate,0.01578,0.015778329,0.015781671,Uniform,Float,340
+People,People Level2:Zone6,Number of People,7.1795133,1.550774873,12.80825173,Uniform,Float,341
+People,People Level2:Zone6,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,342
+Lights,Level2:Zone6 General lighting,Lighting Level,1293.606,1218.576852,1410.03054,Uniform,Float,343
+Lights,Level2:Zone6 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,344
+Lights,Level2:Zone6 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,345
+ElectricEquipment,Level2:Zone6 Equipment 1,Design Level,761.2871,675.2616577,814.577197,Uniform,Float,346
+ElectricEquipment,Level2:Zone6 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,347
+WaterUse:Equipment,DHW Level2:Zone6,Peak Flow Rate,3.99E-07,2.72E-07,5.85E-07,Uniform,Float,348
+ZoneInfiltration:DesignFlowRate,Level2:Zone6 Infiltration,Design Flow Rate,0.01405,0.014048329,0.014051671,Uniform,Float,349
+People,People Level2:Zone12,Number of People,7.1795133,1.550774873,12.80825173,Uniform,Float,350
+People,People Level2:Zone12,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,351
+Lights,Level2:Zone12 General lighting,Lighting Level,1293.606,1218.576852,1410.03054,Uniform,Float,352
+Lights,Level2:Zone12 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,353
+Lights,Level2:Zone12 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,354
+ElectricEquipment,Level2:Zone12 Equipment 1,Design Level,761.2871,675.2616577,814.577197,Uniform,Float,355
+ElectricEquipment,Level2:Zone12 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,356
+WaterUse:Equipment,DHW Level2:Zone12,Peak Flow Rate,3.99E-07,2.72E-07,5.85E-07,Uniform,Float,357
+ZoneInfiltration:DesignFlowRate,Level2:Zone12 Infiltration,Design Flow Rate,0.01405,0.014048329,0.014051671,Uniform,Float,358
+Lights,Level2:Zone26 General lighting,Lighting Level,220.252,207.477384,240.07468,Uniform,Float,359
+Lights,Level2:Zone26 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,360
+Lights,Level2:Zone26 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,361
+ElectricEquipment,Level2:Zone26 Equipment 1,Design Level,129.6183,114.9714321,138.691581,Uniform,Float,362
+ElectricEquipment,Level2:Zone26 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,363
+ZoneInfiltration:DesignFlowRate,Level2:Zone26 Infiltration,Design Flow Rate,0.002392,0.002390329,0.002393671,Uniform,Float,364
+People,People Level2:Zone7,Number of People,5.9473356,1.28462449,10.61004671,Uniform,Float,365
+People,People Level2:Zone7,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,366
+Lights,Level2:Zone7 General lighting,Lighting Level,1071.592,1009.439664,1168.03528,Uniform,Float,367
+Lights,Level2:Zone7 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,368
+Lights,Level2:Zone7 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,369
+ElectricEquipment,Level2:Zone7 Equipment 1,Design Level,630.6319,559.3704953,674.776133,Uniform,Float,370
+ElectricEquipment,Level2:Zone7 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,371
+WaterUse:Equipment,DHW Level2:Zone7,Peak Flow Rate,3.31E-07,2.26E-07,4.85E-07,Uniform,Float,372
+ZoneInfiltration:DesignFlowRate,Level2:Zone7 Infiltration,Design Flow Rate,0.011639,0.011637329,0.011640671,Uniform,Float,373
+People,People Level2:Zone1,Number of People,4.9311972,1.065138595,8.797255805,Uniform,Float,374
+People,People Level2:Zone1,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,375
+Lights,Level2:Zone1 General lighting,Lighting Level,888.504,836.970768,968.46936,Uniform,Float,376
+Lights,Level2:Zone1 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,377
+Lights,Level2:Zone1 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,378
+ElectricEquipment,Level2:Zone1 Equipment 1,Design Level,522.8846,463.7986402,559.486522,Uniform,Float,379
+ElectricEquipment,Level2:Zone1 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,380
+WaterUse:Equipment,DHW Level2:Zone1,Peak Flow Rate,2.74E-07,1.87E-07,4.01E-07,Uniform,Float,381
+ZoneInfiltration:DesignFlowRate,Level2:Zone1 Infiltration,Design Flow Rate,0.00965,0.009648329,0.009651671,Uniform,Float,382
+People,People Level2:Zone18,Number of People,5.0340165,1.087347564,8.980685436,Uniform,Float,383
+People,People Level2:Zone18,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,384
+Lights,Level2:Zone18 General lighting,Lighting Level,907.03,854.42226,988.6627,Uniform,Float,385
+Lights,Level2:Zone18 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,386
+Lights,Level2:Zone18 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,387
+ElectricEquipment,Level2:Zone18 Equipment 1,Design Level,533.7872,473.4692464,571.152304,Uniform,Float,388
+ElectricEquipment,Level2:Zone18 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,389
+WaterUse:Equipment,DHW Level2:Zone18,Peak Flow Rate,2.80E-07,1.91E-07,4.10E-07,Uniform,Float,390
+ZoneInfiltration:DesignFlowRate,Level2:Zone18 Infiltration,Design Flow Rate,0.009851,0.009849329,0.009852671,Uniform,Float,391
+People,People Level2:Zone25,Number of People,1.336684796,0.288723916,2.384645676,Uniform,Float,392
+People,People Level2:Zone25,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,393
+People,People Level2:Zone29,Number of People,12.5783424,2.716921958,22.43976284,Uniform,Float,394
+People,People Level2:Zone29,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,395
+Lights,Level2:Zone29 General lighting,Lighting Level,2266.368,2134.918656,2470.34112,Uniform,Float,396
+Lights,Level2:Zone29 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,397
+Lights,Level2:Zone29 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,398
+ElectricEquipment,Level2:Zone29 Equipment 1,Design Level,679.9104,603.0805248,727.504128,Uniform,Float,399
+ElectricEquipment,Level2:Zone29 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,400
+WaterUse:Equipment,DHW Level2:Zone29,Peak Flow Rate,6.99E-07,4.77E-07,1.02E-06,Uniform,Float,401
+ZoneInfiltration:DesignFlowRate,Level2:Zone29 Infiltration,Design Flow Rate,0.024615,0.024613329,0.024616671,Uniform,Float,402
+People,People Level2:Zone35,Number of People,7.547302379,1.630217314,13.46438744,Uniform,Float,403
+People,People Level2:Zone35,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,404
+ElectricEquipment,Level2:Zone35 Equipment 1,Design Level,118.9987,105.5518469,127.328609,Uniform,Float,405
+ElectricEquipment,Level2:Zone35 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,406
+ZoneInfiltration:DesignFlowRate,Level2:Zone35 Infiltration,Design Flow Rate,0.034816,0.034814329,0.034817671,Uniform,Float,407
+People,People Level2:Zone30,Number of People,1.944354128,0.419980492,3.468727764,Uniform,Float,408
+People,People Level2:Zone30,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,409
+Lights,Level2:Zone30 General lighting,Lighting Level,82.856,78.050352,90.31304,Uniform,Float,410
+Lights,Level2:Zone30 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,411
+Lights,Level2:Zone30 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,412
+ZoneInfiltration:DesignFlowRate,Level2:Zone30 Infiltration,Design Flow Rate,0.003598,0.003596329,0.003599671,Uniform,Float,413
+Lights,Level2:Zone37 General lighting,Lighting Level,96.579,90.977418,105.27111,Uniform,Float,414
+Lights,Level2:Zone37 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,415
+Lights,Level2:Zone37 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,416
+People,People Level2:Zone34,Number of People,1.327496617,0.286739269,2.368253965,Uniform,Float,417
+People,People Level2:Zone34,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,418
+ZoneInfiltration:DesignFlowRate,Level2:Zone34 Infiltration,Design Flow Rate,0.002564,0.002562329,0.002565671,Uniform,Float,419
+People,People Level0:Zone2,Number of People,2.4850902,0.536779483,4.433400917,Uniform,Float,420
+People,People Level0:Zone2,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,421
+Lights,Level0:Zone2 General lighting,Lighting Level,447.764,421.793688,488.06276,Uniform,Float,422
+Lights,Level0:Zone2 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,423
+Lights,Level0:Zone2 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,424
+ElectricEquipment,Level0:Zone2 Equipment 1,Design Level,263.5091,233.7325717,281.954737,Uniform,Float,425
+ElectricEquipment,Level0:Zone2 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,426
+ZoneInfiltration:DesignFlowRate,Level0:Zone2 Infiltration,Design Flow Rate,0.005164,0.005162329,0.005165671,Uniform,Float,427
+People,People Level0:Zone35,Number of People,3.3240171,0.717987694,5.930046506,Uniform,Float,428
+People,People Level0:Zone35,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,429
+Lights,Level0:Zone35 General lighting,Lighting Level,598.922,564.184524,652.82498,Uniform,Float,430
+Lights,Level0:Zone35 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,431
+Lights,Level0:Zone35 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,432
+ElectricEquipment,Level0:Zone35 Equipment 1,Design Level,352.4656,312.6369872,377.138192,Uniform,Float,433
+ElectricEquipment,Level0:Zone35 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,434
+ZoneInfiltration:DesignFlowRate,Level0:Zone35 Infiltration,Design Flow Rate,0.006505,0.006503329,0.006506671,Uniform,Float,435
+People,People Level0:Zone28,Number of People,1.6540332,0.357271171,2.950795229,Uniform,Float,436
+People,People Level0:Zone28,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,437
+Lights,Level0:Zone28 General lighting,Lighting Level,298.024,280.738608,324.84616,Uniform,Float,438
+Lights,Level0:Zone28 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,439
+Lights,Level0:Zone28 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,440
+ElectricEquipment,Level0:Zone28 Equipment 1,Design Level,175.3871,155.5683577,187.664197,Uniform,Float,441
+ElectricEquipment,Level0:Zone28 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,442
+ZoneInfiltration:DesignFlowRate,Level0:Zone28 Infiltration,Design Flow Rate,0.003237,0.003235329,0.003238671,Uniform,Float,443
+People,People Level0:Zone6,Number of People,4.233651,0.914468616,7.552833384,Uniform,Float,444
+People,People Level0:Zone6,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,445
+Lights,Level0:Zone6 General lighting,Lighting Level,762.82,718.57644,831.4738,Uniform,Float,446
+Lights,Level0:Zone6 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,447
+Lights,Level0:Zone6 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,448
+ElectricEquipment,Level0:Zone6 Equipment 1,Design Level,448.9196,398.1916852,480.343972,Uniform,Float,449
+ElectricEquipment,Level0:Zone6 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,450
+ZoneInfiltration:DesignFlowRate,Level0:Zone6 Infiltration,Design Flow Rate,0.008529,0.008527329,0.008530671,Uniform,Float,451
+People,People Level0:Zone8,Number of People,2.5253055,0.545465988,4.505145012,Uniform,Float,452
+People,People Level0:Zone8,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,453
+Lights,Level0:Zone8 General lighting,Lighting Level,455.01,428.61942,495.9609,Uniform,Float,454
+Lights,Level0:Zone8 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,455
+Lights,Level0:Zone8 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,456
+ElectricEquipment,Level0:Zone8 Equipment 1,Design Level,267.7734,237.5150058,286.517538,Uniform,Float,457
+ElectricEquipment,Level0:Zone8 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,458
+ZoneInfiltration:DesignFlowRate,Level0:Zone8 Infiltration,Design Flow Rate,0.005087,0.005085329,0.005088671,Uniform,Float,459
+People,People Level0:Zone11,Number of People,1.657497595,0.358019481,2.956975709,Uniform,Float,460
+People,People Level0:Zone11,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,461
+ZoneInfiltration:DesignFlowRate,Level0:Zone11 Infiltration,Design Flow Rate,0.003159,0.003157329,0.003160671,Uniform,Float,462
+People,People Level0:Zone13,Number of People,4.3869531,0.94758187,7.82632433,Uniform,Float,463
+People,People Level0:Zone13,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,464
+Lights,Level0:Zone13 General lighting,Lighting Level,790.442,744.596364,861.58178,Uniform,Float,465
+Lights,Level0:Zone13 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,466
+Lights,Level0:Zone13 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,467
+ElectricEquipment,Level0:Zone13 Equipment 1,Design Level,465.1751,412.6103137,497.737357,Uniform,Float,468
+ElectricEquipment,Level0:Zone13 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,469
+WaterUse:Equipment,DHW Level0:Zone13,Peak Flow Rate,2.44E-07,1.66E-07,3.57E-07,Uniform,Float,470
+ZoneInfiltration:DesignFlowRate,Level0:Zone13 Infiltration,Design Flow Rate,0.008838,0.008836329,0.008839671,Uniform,Float,471
+People,People Level0:Zone7,Number of People,1.5386598,0.332350517,2.744969083,Uniform,Float,472
+People,People Level0:Zone7,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,473
+Lights,Level0:Zone7 General lighting,Lighting Level,277.236,261.156312,302.18724,Uniform,Float,474
+Lights,Level0:Zone7 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,475
+Lights,Level0:Zone7 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,476
+ElectricEquipment,Level0:Zone7 Equipment 1,Design Level,163.1534,144.7170658,174.574138,Uniform,Float,477
+ElectricEquipment,Level0:Zone7 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,478
+ZoneInfiltration:DesignFlowRate,Level0:Zone7 Infiltration,Design Flow Rate,0.0031,0.003098329,0.003101671,Uniform,Float,479
+People,People Level0:Zone32,Number of People,164.2705539,35.48243964,293.0586682,Uniform,Float,480
+People,People Level0:Zone32,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,481
+Lights,Level0:Zone32 General lighting,Lighting Level,29598.298,27881.59672,32262.14482,Uniform,Float,482
+Lights,Level0:Zone32 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,483
+Lights,Level0:Zone32 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,484
+ElectricEquipment,Level0:Zone32 Equipment 1,Design Level,17418.5984,15450.29678,18637.90029,Uniform,Float,485
+ElectricEquipment,Level0:Zone32 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,486
+WaterUse:Equipment,DHW Level0:Zone32,Peak Flow Rate,9.14E-06,6.23E-06,1.34E-05,Uniform,Float,487
+ZoneInfiltration:DesignFlowRate,Level0:Zone32 Infiltration,Design Flow Rate,0.493261,0.493259329,0.493262671,Uniform,Float,488
+People,People Level0:Zone1,Number of People,5.1168669,1.10524325,9.12849055,Uniform,Float,489
+People,People Level0:Zone1,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,490
+Lights,Level0:Zone1 General lighting,Lighting Level,921.958,868.484436,1004.93422,Uniform,Float,491
+Lights,Level0:Zone1 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,492
+Lights,Level0:Zone1 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,493
+ElectricEquipment,Level0:Zone1 Equipment 1,Design Level,542.5723,481.2616301,580.552361,Uniform,Float,494
+ElectricEquipment,Level0:Zone1 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,495
+WaterUse:Equipment,DHW Level0:Zone1,Peak Flow Rate,2.85E-07,1.94E-07,4.18E-07,Uniform,Float,496
+ZoneInfiltration:DesignFlowRate,Level0:Zone1 Infiltration,Design Flow Rate,0.010308,0.010306329,0.010309671,Uniform,Float,497
+ZoneInfiltration:DesignFlowRate,Level0:Zone51 Infiltration,Design Flow Rate,0.006068,0.006066329,0.006069671,Uniform,Float,498
+People,People Level0:Zone33,Number of People,2.049727281,0.442741093,3.656713469,Uniform,Float,499
+People,People Level0:Zone33,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,500
+Lights,Level0:Zone33 General lighting,Lighting Level,182.288,171.715296,198.69392,Uniform,Float,501
+Lights,Level0:Zone33 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,502
+Lights,Level0:Zone33 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,503
+ZoneInfiltration:DesignFlowRate,Level0:Zone33 Infiltration,Design Flow Rate,0.00396,0.003958329,0.003961671,Uniform,Float,504
+Lights,Level0:Zone27 General lighting,Lighting Level,183.35,172.7157,199.8515,Uniform,Float,505
+Lights,Level0:Zone27 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,506
+Lights,Level0:Zone27 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,507
+ElectricEquipment,Level0:Zone27 Equipment 1,Design Level,107.9015,95.7086305,115.454605,Uniform,Float,508
+ElectricEquipment,Level0:Zone27 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,509
+People,People Level0:Zone20,Number of People,4.0875306,0.88290661,7.29215459,Uniform,Float,510
+People,People Level0:Zone20,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,511
+Lights,Level0:Zone20 General lighting,Lighting Level,736.492,693.775464,802.77628,Uniform,Float,512
+Lights,Level0:Zone20 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,513
+Lights,Level0:Zone20 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,514
+ElectricEquipment,Level0:Zone20 Equipment 1,Design Level,433.4255,384.4484185,463.765285,Uniform,Float,515
+ElectricEquipment,Level0:Zone20 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,516
+ZoneInfiltration:DesignFlowRate,Level0:Zone20 Infiltration,Design Flow Rate,0.008234,0.008232329,0.008235671,Uniform,Float,517
+People,People Level0:Zone21,Number of People,4.6494681,1.00428511,8.29465109,Uniform,Float,518
+People,People Level0:Zone21,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,519
+Lights,Level0:Zone21 General lighting,Lighting Level,837.742,789.152964,913.13878,Uniform,Float,520
+Lights,Level0:Zone21 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,521
+Lights,Level0:Zone21 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,522
+ElectricEquipment,Level0:Zone21 Equipment 1,Design Level,493.0112,437.3009344,527.521984,Uniform,Float,523
+ElectricEquipment,Level0:Zone21 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,524
+WaterUse:Equipment,DHW Level0:Zone21,Peak Flow Rate,2.59E-07,1.77E-07,3.79E-07,Uniform,Float,525
+ZoneInfiltration:DesignFlowRate,Level0:Zone21 Infiltration,Design Flow Rate,0.009366,0.009364329,0.009367671,Uniform,Float,526
+Lights,Level0:Zone45 General lighting,Lighting Level,269.43,253.80306,293.6787,Uniform,Float,527
+Lights,Level0:Zone45 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,528
+Lights,Level0:Zone45 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,529
+ElectricEquipment,Level0:Zone45 Equipment 1,Design Level,158.5596,140.6423652,169.658772,Uniform,Float,530
+ElectricEquipment,Level0:Zone45 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,531
+ZoneInfiltration:DesignFlowRate,Level0:Zone45 Infiltration,Design Flow Rate,0.002926,0.002924329,0.002927671,Uniform,Float,532
+People,People Level0:Zone30,Number of People,3.878451,0.837745416,6.919156584,Uniform,Float,533
+People,People Level0:Zone30,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,534
+Lights,Level0:Zone30 General lighting,Lighting Level,698.82,658.28844,761.7138,Uniform,Float,535
+Lights,Level0:Zone30 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,536
+Lights,Level0:Zone30 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,537
+ElectricEquipment,Level0:Zone30 Equipment 1,Design Level,411.2556,364.7837172,440.043492,Uniform,Float,538
+ElectricEquipment,Level0:Zone30 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,539
+ZoneInfiltration:DesignFlowRate,Level0:Zone30 Infiltration,Design Flow Rate,0.00759,0.007588329,0.007591671,Uniform,Float,540
+People,People Level0:Zone23,Number of People,3.2653869,0.70532357,5.82545023,Uniform,Float,541
+People,People Level0:Zone23,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,542
+Lights,Level0:Zone23 General lighting,Lighting Level,588.358,554.233236,641.31022,Uniform,Float,543
+Lights,Level0:Zone23 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,544
+Lights,Level0:Zone23 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,545
+ElectricEquipment,Level0:Zone23 Equipment 1,Design Level,346.2487,307.1225969,370.486109,Uniform,Float,546
+ElectricEquipment,Level0:Zone23 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,547
+ZoneInfiltration:DesignFlowRate,Level0:Zone23 Infiltration,Design Flow Rate,0.006578,0.006576329,0.006579671,Uniform,Float,548
+People,People Level0:Zone4,Number of People,4.9865307,1.077090631,8.895970769,Uniform,Float,549
+People,People Level0:Zone4,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,550
+Lights,Level0:Zone4 General lighting,Lighting Level,898.474,846.362508,979.33666,Uniform,Float,551
+Lights,Level0:Zone4 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,552
+Lights,Level0:Zone4 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,553
+ElectricEquipment,Level0:Zone4 Equipment 1,Design Level,528.7519,469.0029353,565.764533,Uniform,Float,554
+ElectricEquipment,Level0:Zone4 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,555
+WaterUse:Equipment,DHW Level0:Zone4,Peak Flow Rate,2.77E-07,1.89E-07,4.06E-07,Uniform,Float,556
+ZoneInfiltration:DesignFlowRate,Level0:Zone4 Infiltration,Design Flow Rate,0.010045,0.010043329,0.010046671,Uniform,Float,557
+People,People Level0:Zone25,Number of People,2.8240398,0.609992597,5.038087003,Uniform,Float,558
+People,People Level0:Zone25,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,559
+Lights,Level0:Zone25 General lighting,Lighting Level,508.836,479.323512,554.63124,Uniform,Float,560
+Lights,Level0:Zone25 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,561
+Lights,Level0:Zone25 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,562
+ElectricEquipment,Level0:Zone25 Equipment 1,Design Level,299.45,265.61215,320.4115,Uniform,Float,563
+ElectricEquipment,Level0:Zone25 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,564
+ZoneInfiltration:DesignFlowRate,Level0:Zone25 Infiltration,Design Flow Rate,0.005689,0.005687329,0.005690671,Uniform,Float,565
+People,People Level0:Zone38,Number of People,4.6324851,1.000616782,8.264353418,Uniform,Float,566
+People,People Level0:Zone38,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,567
+Lights,Level0:Zone38 General lighting,Lighting Level,834.682,786.270444,909.80338,Uniform,Float,568
+Lights,Level0:Zone38 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,569
+Lights,Level0:Zone38 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,570
+ElectricEquipment,Level0:Zone38 Equipment 1,Design Level,491.2104,435.7036248,525.595128,Uniform,Float,571
+ElectricEquipment,Level0:Zone38 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,572
+WaterUse:Equipment,DHW Level0:Zone38,Peak Flow Rate,2.58E-07,1.76E-07,3.78E-07,Uniform,Float,573
+ZoneInfiltration:DesignFlowRate,Level0:Zone38 Infiltration,Design Flow Rate,0.009066,0.009064329,0.009067671,Uniform,Float,574
+People,People Level0:Zone26,Number of People,1.668996,0.360503136,2.977488864,Uniform,Float,575
+People,People Level0:Zone26,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,576
+Lights,Level0:Zone26 General lighting,Lighting Level,300.72,283.27824,327.7848,Uniform,Float,577
+Lights,Level0:Zone26 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,578
+Lights,Level0:Zone26 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,579
+ElectricEquipment,Level0:Zone26 Equipment 1,Design Level,176.9737,156.9756719,189.361859,Uniform,Float,580
+ElectricEquipment,Level0:Zone26 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,581
+ZoneInfiltration:DesignFlowRate,Level0:Zone26 Infiltration,Design Flow Rate,0.003266,0.003264329,0.003267671,Uniform,Float,582
+People,People Level0:Zone36,Number of People,1.851768837,0.399982069,3.303555605,Uniform,Float,583
+People,People Level0:Zone36,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,584
+Lights,Level0:Zone36 General lighting,Lighting Level,164.683,155.131386,179.50447,Uniform,Float,585
+Lights,Level0:Zone36 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,586
+Lights,Level0:Zone36 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,587
+ElectricEquipment,Level0:Zone36 Equipment 1,Design Level,90.2463,80.0484681,96.563541,Uniform,Float,588
+ElectricEquipment,Level0:Zone36 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,589
+ZoneInfiltration:DesignFlowRate,Level0:Zone36 Infiltration,Design Flow Rate,0.003682,0.003680329,0.003683671,Uniform,Float,590
+Lights,Level0:Zone24 General lighting,Lighting Level,361.385,340.42467,393.90965,Uniform,Float,591
+Lights,Level0:Zone24 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,592
+Lights,Level0:Zone24 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,593
+ElectricEquipment,Level0:Zone24 Equipment 1,Design Level,610.5961,541.5987407,653.337827,Uniform,Float,594
+ElectricEquipment,Level0:Zone24 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,595
+People,People Level0:Zone53,Number of People,32.77176311,7.078700832,58.46482539,Uniform,Float,596
+People,People Level0:Zone53,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,597
+Lights,Level0:Zone53 General lighting,Lighting Level,1396.524,1315.525608,1522.21116,Uniform,Float,598
+Lights,Level0:Zone53 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,599
+Lights,Level0:Zone53 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,600
+ElectricEquipment,Level0:Zone53 Equipment 1,Design Level,516.7139,458.3252293,552.883873,Uniform,Float,601
+ElectricEquipment,Level0:Zone53 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,602
+ZoneInfiltration:DesignFlowRate,Level0:Zone53 Infiltration,Design Flow Rate,0.083393,0.083391329,0.083394671,Uniform,Float,603
+People,People Level0:Zone22,Number of People,3.0852228,0.666408125,5.504037475,Uniform,Float,604
+People,People Level0:Zone22,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,605
+Lights,Level0:Zone22 General lighting,Lighting Level,555.896,523.654032,605.92664,Uniform,Float,606
+Lights,Level0:Zone22 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,607
+Lights,Level0:Zone22 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,608
+ElectricEquipment,Level0:Zone22 Equipment 1,Design Level,327.1448,290.1774376,350.044936,Uniform,Float,609
+ElectricEquipment,Level0:Zone22 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,610
+ZoneInfiltration:DesignFlowRate,Level0:Zone22 Infiltration,Design Flow Rate,0.006215,0.006213329,0.006216671,Uniform,Float,611
+People,People Level0:Zone29,Number of People,2.5953909,0.560604434,4.630177366,Uniform,Float,612
+People,People Level0:Zone29,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,613
+Lights,Level0:Zone29 General lighting,Lighting Level,467.638,440.514996,509.72542,Uniform,Float,614
+Lights,Level0:Zone29 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,615
+Lights,Level0:Zone29 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,616
+ElectricEquipment,Level0:Zone29 Equipment 1,Design Level,275.205,244.106835,294.46935,Uniform,Float,617
+ElectricEquipment,Level0:Zone29 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,618
+ZoneInfiltration:DesignFlowRate,Level0:Zone29 Infiltration,Design Flow Rate,0.005228,0.005226329,0.005229671,Uniform,Float,619
+People,People Level0:Zone31,Number of People,2.0655102,0.446150203,3.684870197,Uniform,Float,620
+People,People Level0:Zone31,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,621
+Lights,Level0:Zone31 General lighting,Lighting Level,372.164,350.578488,405.65876,Uniform,Float,622
+Lights,Level0:Zone31 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,623
+Lights,Level0:Zone31 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,624
+ElectricEquipment,Level0:Zone31 Equipment 1,Design Level,219.0185,194.2694095,234.349795,Uniform,Float,625
+ElectricEquipment,Level0:Zone31 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,626
+ZoneInfiltration:DesignFlowRate,Level0:Zone31 Infiltration,Design Flow Rate,0.004161,0.004159329,0.004162671,Uniform,Float,627
+People,People Level0:Zone49,Number of People,1.192599463,0.257601484,2.127597442,Uniform,Float,628
+People,People Level0:Zone49,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,629
+People,People Level0:Zone9,Number of People,4.739589,1.023751224,8.455426776,Uniform,Float,630
+People,People Level0:Zone9,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,631
+Lights,Level0:Zone9 General lighting,Lighting Level,853.98,804.44916,930.8382,Uniform,Float,632
+Lights,Level0:Zone9 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,633
+Lights,Level0:Zone9 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,634
+ElectricEquipment,Level0:Zone9 Equipment 1,Design Level,502.5672,445.7771064,537.746904,Uniform,Float,635
+ElectricEquipment,Level0:Zone9 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,636
+WaterUse:Equipment,DHW Level0:Zone9,Peak Flow Rate,2.64E-07,1.80E-07,3.87E-07,Uniform,Float,637
+ZoneInfiltration:DesignFlowRate,Level0:Zone9 Infiltration,Design Flow Rate,0.009548,0.009546329,0.009549671,Uniform,Float,638
+People,People Level0AddedPart:Zone2,Number of People,2.7093768,0.585225389,4.833528211,Uniform,Float,639
+People,People Level0AddedPart:Zone2,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,640
+Lights,Level0AddedPart:Zone2 General lighting,Lighting Level,488.176,459.861792,532.11184,Uniform,Float,641
+Lights,Level0AddedPart:Zone2 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,642
+Lights,Level0AddedPart:Zone2 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,643
+ElectricEquipment,Level0AddedPart:Zone2 Computing gain 1,Design Level,146.4528,129.9036336,156.704496,Uniform,Float,644
+ElectricEquipment,Level0AddedPart:Zone2 Computing gain 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,645
+ElectricEquipment,Level0AddedPart:Zone2 Equipment 2,Design Level,146.4528,129.9036336,156.704496,Uniform,Float,646
+ElectricEquipment,Level0AddedPart:Zone2 Equipment 2,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,647
+ZoneInfiltration:DesignFlowRate,Level0AddedPart:Zone2 Infiltration,Design Flow Rate,0.005302,0.005300329,0.005303671,Uniform,Float,648
+People,People Level0AddedPart:Zone3,Number of People,16.2118608,3.501761933,28.92195967,Uniform,Float,649
+People,People Level0AddedPart:Zone3,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,650
+Lights,Level0AddedPart:Zone3 General lighting,Lighting Level,2921.056,2751.634752,3183.95104,Uniform,Float,651
+Lights,Level0AddedPart:Zone3 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,652
+Lights,Level0AddedPart:Zone3 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,653
+ElectricEquipment,Level0AddedPart:Zone3 Computing gain 1,Design Level,876.3168,777.2930016,937.658976,Uniform,Float,654
+ElectricEquipment,Level0AddedPart:Zone3 Computing gain 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,655
+ElectricEquipment,Level0AddedPart:Zone3 Equipment 2,Design Level,876.3168,777.2930016,937.658976,Uniform,Float,656
+ElectricEquipment,Level0AddedPart:Zone3 Equipment 2,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,657
+WaterUse:Equipment,DHW Level0AddedPart:Zone3,Peak Flow Rate,9.02E-07,6.15E-07,1.32E-06,Uniform,Float,658
+ZoneInfiltration:DesignFlowRate,Level0AddedPart:Zone3 Infiltration,Design Flow Rate,0.031726,0.031724329,0.031727671,Uniform,Float,659
+People,People Level1AddedPart:Zone1,Number of People,25.99410725,5.614727166,46.37348733,Uniform,Float,660
+People,People Level1AddedPart:Zone1,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,661
+Lights,Level1AddedPart:Zone1 General lighting,Lighting Level,2577.928,2428.408176,2809.94152,Uniform,Float,662
+Lights,Level1AddedPart:Zone1 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,663
+Lights,Level1AddedPart:Zone1 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,664
+ElectricEquipment,Level1AddedPart:Zone1 Equipment 1,Design Level,1595.7374,1415.419074,1707.439018,Uniform,Float,665
+ElectricEquipment,Level1AddedPart:Zone1 Equipment 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,666
+ZoneInfiltration:DesignFlowRate,Level1AddedPart:Zone1 Infiltration,Design Flow Rate,0.082822,0.082820329,0.082823671,Uniform,Float,667
+People,People Level1AddedPart:Zone3,Number of People,2.876356258,0.621292952,5.131419564,Uniform,Float,668
+People,People Level1AddedPart:Zone3,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,669
+ZoneInfiltration:DesignFlowRate,Level1AddedPart:Zone3 Infiltration,Design Flow Rate,0.005482,0.005480329,0.005483671,Uniform,Float,670
+People,People Level1AddedPart:Zone13,Number of People,18.3078516,3.954495946,32.66120725,Uniform,Float,671
+People,People Level1AddedPart:Zone13,Fraction Radiant,0.3,0.285,0.315,Uniform,Float,672
+Lights,Level1AddedPart:Zone13 General lighting,Lighting Level,3298.712,3107.386704,3595.59608,Uniform,Float,673
+Lights,Level1AddedPart:Zone13 General lighting,Fraction Radiant,0.42,0.399,0.441,Uniform,Float,674
+Lights,Level1AddedPart:Zone13 General lighting,Fraction Visible,0.18,0.171,0.189,Uniform,Float,675
+ElectricEquipment,Level1AddedPart:Zone13 Computing gain 1,Design Level,989.6136,877.7872632,1058.886552,Uniform,Float,676
+ElectricEquipment,Level1AddedPart:Zone13 Computing gain 1,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,677
+ElectricEquipment,Level1AddedPart:Zone13 Equipment 2,Design Level,989.6136,877.7872632,1058.886552,Uniform,Float,678
+ElectricEquipment,Level1AddedPart:Zone13 Equipment 2,Fraction Radiant,0.2,0.19,0.21,Uniform,Float,679
+WaterUse:Equipment,DHW Level1AddedPart:Zone13,Peak Flow Rate,1.02E-06,6.96E-07,1.49E-06,Uniform,Float,680
+ZoneInfiltration:DesignFlowRate,Level1AddedPart:Zone13 Infiltration,Design Flow Rate,0.036881,0.036879329,0.036882671,Uniform,Float,681
+DesignSpecification:OutdoorAir,Level1:Zone14,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,682
+DesignSpecification:OutdoorAir,Level1:Zone7,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,683
+DesignSpecification:OutdoorAir,Level1:Zone15,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,684
+DesignSpecification:OutdoorAir,Level1Z1:Zone1,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,685
+DesignSpecification:OutdoorAir,Level1Z1:Zone39,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,686
+DesignSpecification:OutdoorAir,Level1Z1:Zone2,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,687
+DesignSpecification:OutdoorAir,Level1Z1:Zone43,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,688
+DesignSpecification:OutdoorAir,Level1Z1:Zone38,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,689
+DesignSpecification:OutdoorAir,Level1Z1:Zone3,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,690
+DesignSpecification:OutdoorAir,Level1Z1:Zone5,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,691
+DesignSpecification:OutdoorAir,Level1Z1:Zone6,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,692
+DesignSpecification:OutdoorAir,Level1Z1:Zone8,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,693
+DesignSpecification:OutdoorAir,Level1Z1:Zone10,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,694
+DesignSpecification:OutdoorAir,Level1Z1:Zone11,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,695
+DesignSpecification:OutdoorAir,Level1Z1:Zone13,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,696
+DesignSpecification:OutdoorAir,Level2:Zone4,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,697
+DesignSpecification:OutdoorAir,Level2:Zone5,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,698
+DesignSpecification:OutdoorAir,Level2:Zone3,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,699
+DesignSpecification:OutdoorAir,Level2:Zone36,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,700
+DesignSpecification:OutdoorAir,Level2:Zone6,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,701
+DesignSpecification:OutdoorAir,Level2:Zone12,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,702
+DesignSpecification:OutdoorAir,Level2:Zone7,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,703
+DesignSpecification:OutdoorAir,Level2:Zone1,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,704
+DesignSpecification:OutdoorAir,Level2:Zone18,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,705
+DesignSpecification:OutdoorAir,Level2:Zone29,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,706
+DesignSpecification:OutdoorAir,Level2:Zone35,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,707
+DesignSpecification:OutdoorAir,Level0:Zone2,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,708
+DesignSpecification:OutdoorAir,Level0:Zone6,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,709
+DesignSpecification:OutdoorAir,Level0:Zone8,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,710
+DesignSpecification:OutdoorAir,Level0:Zone13,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,711
+DesignSpecification:OutdoorAir,Level0:Zone32,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,712
+DesignSpecification:OutdoorAir,Level0:Zone1,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,713
+DesignSpecification:OutdoorAir,Level0:Zone20,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,714
+DesignSpecification:OutdoorAir,Level0:Zone21,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,715
+DesignSpecification:OutdoorAir,Level0:Zone30,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,716
+DesignSpecification:OutdoorAir,Level0:Zone23,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,717
+DesignSpecification:OutdoorAir,Level0:Zone4,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,718
+DesignSpecification:OutdoorAir,Level0:Zone25,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,719
+DesignSpecification:OutdoorAir,Level0:Zone53,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,720
+DesignSpecification:OutdoorAir,Level0:Zone22,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,721
+DesignSpecification:OutdoorAir,Level0:Zone29,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,722
+DesignSpecification:OutdoorAir,Level0:Zone9,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,723
+DesignSpecification:OutdoorAir,Level0AddedPart:Zone3,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,724
+DesignSpecification:OutdoorAir,Level1AddedPart:Zone1,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,725
+DesignSpecification:OutdoorAir,Level1AddedPart:Zone3,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,726
+DesignSpecification:OutdoorAir,Level1AddedPart:Zone13,Outdoor Air Flow Air Changes per Hour,0.25,0.243983864,0.256016136,Uniform,Float,727
