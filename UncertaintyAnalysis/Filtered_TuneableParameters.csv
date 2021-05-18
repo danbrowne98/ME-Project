@@ -1,0 +1,1574 @@
+,Class,Object,Field,Default,Minimum,Maximum,Type,Group
+3,Site:GroundTemperature:BuildingSurface,Site:GroundTemperature:BuildingSurface,January Ground Temperature,18.0,16.0,20.0,Float,G004
+4,Site:GroundTemperature:BuildingSurface,Site:GroundTemperature:BuildingSurface,February Ground Temperature,18.0,16.0,20.0,Float,G005
+5,Site:GroundTemperature:BuildingSurface,Site:GroundTemperature:BuildingSurface,March Ground Temperature,18.0,16.0,20.0,Float,G006
+6,Site:GroundTemperature:BuildingSurface,Site:GroundTemperature:BuildingSurface,April Ground Temperature,18.0,16.0,20.0,Float,G007
+7,Site:GroundTemperature:BuildingSurface,Site:GroundTemperature:BuildingSurface,May Ground Temperature,18.0,16.0,20.0,Float,G008
+8,Site:GroundTemperature:BuildingSurface,Site:GroundTemperature:BuildingSurface,June Ground Temperature,18.0,16.0,20.0,Float,G009
+9,Site:GroundTemperature:BuildingSurface,Site:GroundTemperature:BuildingSurface,July Ground Temperature,18.0,16.0,20.0,Float,G010
+10,Site:GroundTemperature:BuildingSurface,Site:GroundTemperature:BuildingSurface,August Ground Temperature,18.0,16.0,20.0,Float,G011
+11,Site:GroundTemperature:BuildingSurface,Site:GroundTemperature:BuildingSurface,September Ground Temperature,18.0,16.0,20.0,Float,G012
+12,Site:GroundTemperature:BuildingSurface,Site:GroundTemperature:BuildingSurface,October Ground Temperature,18.0,16.0,20.0,Float,G013
+13,Site:GroundTemperature:BuildingSurface,Site:GroundTemperature:BuildingSurface,November Ground Temperature,18.0,16.0,20.0,Float,G014
+14,Site:GroundTemperature:BuildingSurface,Site:GroundTemperature:BuildingSurface,December Ground Temperature,18.0,16.0,20.0,Float,G015
+15,Site:GroundTemperature:Deep,Site:GroundTemperature:Deep,January Deep Ground Temperature,14.0,12.0,16.0,Float,G016
+16,Site:GroundTemperature:Deep,Site:GroundTemperature:Deep,February Deep Ground Temperature,14.0,12.0,16.0,Float,G017
+17,Site:GroundTemperature:Deep,Site:GroundTemperature:Deep,March Deep Ground Temperature,14.0,12.0,16.0,Float,G018
+18,Site:GroundTemperature:Deep,Site:GroundTemperature:Deep,April Deep Ground Temperature,14.0,12.0,16.0,Float,G019
+19,Site:GroundTemperature:Deep,Site:GroundTemperature:Deep,May Deep Ground Temperature,14.0,12.0,16.0,Float,G020
+20,Site:GroundTemperature:Deep,Site:GroundTemperature:Deep,June Deep Ground Temperature,14.0,12.0,16.0,Float,G021
+21,Site:GroundTemperature:Deep,Site:GroundTemperature:Deep,July Deep Ground Temperature,14.0,12.0,16.0,Float,G022
+22,Site:GroundTemperature:Deep,Site:GroundTemperature:Deep,August Deep Ground Temperature,14.0,12.0,16.0,Float,G023
+23,Site:GroundTemperature:Deep,Site:GroundTemperature:Deep,September Deep Ground Temperature,14.0,12.0,16.0,Float,G024
+24,Site:GroundTemperature:Deep,Site:GroundTemperature:Deep,October Deep Ground Temperature,14.0,12.0,16.0,Float,G025
+25,Site:GroundTemperature:Deep,Site:GroundTemperature:Deep,November Deep Ground Temperature,14.0,12.0,16.0,Float,G026
+26,Site:GroundTemperature:Deep,Site:GroundTemperature:Deep,December Deep Ground Temperature,14.0,12.0,16.0,Float,G027
+27,Site:GroundTemperature:Shallow,Site:GroundTemperature:Shallow,January Surface Ground Temperature,14.0,12.0,16.0,Float,G028
+28,Site:GroundTemperature:Shallow,Site:GroundTemperature:Shallow,February Surface Ground Temperature,14.0,12.0,16.0,Float,G029
+29,Site:GroundTemperature:Shallow,Site:GroundTemperature:Shallow,March Surface Ground Temperature,14.0,12.0,16.0,Float,G030
+30,Site:GroundTemperature:Shallow,Site:GroundTemperature:Shallow,April Surface Ground Temperature,14.0,12.0,16.0,Float,G031
+31,Site:GroundTemperature:Shallow,Site:GroundTemperature:Shallow,May Surface Ground Temperature,14.0,12.0,16.0,Float,G032
+32,Site:GroundTemperature:Shallow,Site:GroundTemperature:Shallow,June Surface Ground Temperature,14.0,12.0,16.0,Float,G033
+33,Site:GroundTemperature:Shallow,Site:GroundTemperature:Shallow,July Surface Ground Temperature,14.0,12.0,16.0,Float,G034
+34,Site:GroundTemperature:Shallow,Site:GroundTemperature:Shallow,August Surface Ground Temperature,14.0,12.0,16.0,Float,G035
+35,Site:GroundTemperature:Shallow,Site:GroundTemperature:Shallow,September Surface Ground Temperature,14.0,12.0,16.0,Float,G036
+36,Site:GroundTemperature:Shallow,Site:GroundTemperature:Shallow,October Surface Ground Temperature,14.0,12.0,16.0,Float,G037
+37,Site:GroundTemperature:Shallow,Site:GroundTemperature:Shallow,November Surface Ground Temperature,14.0,12.0,16.0,Float,G038
+38,Site:GroundTemperature:Shallow,Site:GroundTemperature:Shallow,December Surface Ground Temperature,14.0,12.0,16.0,Float,G039
+39,Site:GroundTemperature:FCfactorMethod,Site:GroundTemperature:FCfactorMethod,January Ground Temperature,5.34,3.34,7.34,Float,G040
+40,Site:GroundTemperature:FCfactorMethod,Site:GroundTemperature:FCfactorMethod,February Ground Temperature,4.9,2.9000000000000004,6.9,Float,G041
+41,Site:GroundTemperature:FCfactorMethod,Site:GroundTemperature:FCfactorMethod,March Ground Temperature,5.68,3.6799999999999997,7.68,Float,G042
+42,Site:GroundTemperature:FCfactorMethod,Site:GroundTemperature:FCfactorMethod,April Ground Temperature,6.89,4.89,8.89,Float,G043
+43,Site:GroundTemperature:FCfactorMethod,Site:GroundTemperature:FCfactorMethod,May Ground Temperature,10.07,8.07,12.07,Float,G044
+44,Site:GroundTemperature:FCfactorMethod,Site:GroundTemperature:FCfactorMethod,June Ground Temperature,12.52,10.52,14.52,Float,G045
+45,Site:GroundTemperature:FCfactorMethod,Site:GroundTemperature:FCfactorMethod,July Ground Temperature,14.17,12.17,16.17,Float,G046
+46,Site:GroundTemperature:FCfactorMethod,Site:GroundTemperature:FCfactorMethod,August Ground Temperature,14.68,12.68,16.68,Float,G047
+47,Site:GroundTemperature:FCfactorMethod,Site:GroundTemperature:FCfactorMethod,September Ground Temperature,13.82,11.82,15.82,Float,G048
+48,Site:GroundTemperature:FCfactorMethod,Site:GroundTemperature:FCfactorMethod,October Ground Temperature,11.92,9.92,13.92,Float,G049
+49,Site:GroundTemperature:FCfactorMethod,Site:GroundTemperature:FCfactorMethod,November Ground Temperature,9.37,7.369999999999999,11.37,Float,G050
+50,Site:GroundTemperature:FCfactorMethod,Site:GroundTemperature:FCfactorMethod,December Ground Temperature,7.01,5.01,9.01,Float,G051
+51,Site:GroundReflectance,Site:GroundReflectance,January Ground Reflectance,0.2,0.13,0.26,Float,G052
+52,Site:GroundReflectance,Site:GroundReflectance,February Ground Reflectance,0.2,0.13,0.26,Float,G053
+53,Site:GroundReflectance,Site:GroundReflectance,March Ground Reflectance,0.2,0.13,0.26,Float,G054
+54,Site:GroundReflectance,Site:GroundReflectance,April Ground Reflectance,0.2,0.13,0.26,Float,G055
+55,Site:GroundReflectance,Site:GroundReflectance,May Ground Reflectance,0.2,0.13,0.26,Float,G056
+56,Site:GroundReflectance,Site:GroundReflectance,June Ground Reflectance,0.2,0.13,0.26,Float,G057
+57,Site:GroundReflectance,Site:GroundReflectance,July Ground Reflectance,0.2,0.13,0.26,Float,G058
+58,Site:GroundReflectance,Site:GroundReflectance,August Ground Reflectance,0.2,0.13,0.26,Float,G059
+59,Site:GroundReflectance,Site:GroundReflectance,September Ground Reflectance,0.2,0.13,0.26,Float,G060
+60,Site:GroundReflectance,Site:GroundReflectance,October Ground Reflectance,0.2,0.13,0.26,Float,G061
+61,Site:GroundReflectance,Site:GroundReflectance,November Ground Reflectance,0.2,0.13,0.26,Float,G062
+62,Site:GroundReflectance,Site:GroundReflectance,December Ground Reflectance,0.2,0.13,0.26,Float,G063
+186,Material:NoMass,LinearBridgingLayer,Thermal Resistance,0.6267,0.595365,0.658035,Float,G080
+187,Material:NoMass,LinearBridgingLayer,Thermal Absorptance,0.01,0.0095,0.0105,Float,G081
+188,Material:NoMass,LinearBridgingLayer,Solar Absorptance,0.01,0.0095,0.0105,Float,G082
+189,Material:NoMass,LinearBridgingLayer,Visible Absorptance,0.01,0.0095,0.0105,Float,G083
+198,WindowMaterial:Glazing,2,Solar Transmittance at Normal Incidence,0.837,0.7057583999999999,0.925,Float,G092
+199,WindowMaterial:Glazing,2,Front Side Solar Reflectance at Normal Incidence,0.075,0.06323999999999999,0.08676,Float,G093
+200,WindowMaterial:Glazing,2,Back Side Solar Reflectance at Normal Incidence,0.075,0.06323999999999999,0.08676,Float,G094
+201,WindowMaterial:Glazing,2,Visible Transmittance at Normal Incidence,0.898,0.7571936,0.919,Float,G095
+202,WindowMaterial:Glazing,2,Front Side Visible Reflectance at Normal Incidence,0.081,0.0682992,0.0937008,Float,G096
+203,WindowMaterial:Glazing,2,Back Side Visible Reflectance at Normal Incidence,0.081,0.0682992,0.0937008,Float,G097
+204,WindowMaterial:Glazing,2,Front Side Infrared Hemispherical Emissivity,0.84,0.708288,0.9717119999999999,Float,G098
+205,WindowMaterial:Glazing,2,Back Side Infrared Hemispherical Emissivity,0.84,0.708288,0.9717119999999999,Float,G099
+206,WindowMaterial:Glazing,2,Conductivity,0.9,0.21396500089281167,1.5860349991071883,Float,G100
+209,Material,Floor/Roof Screed_0.05,Conductivity,0.41,0.17369905586307952,0.6463009441369204,Float,G103
+210,Material,Floor/Roof Screed_0.05,Density,1200.0,929.7437882305017,1470.2562117694983,Float,G104
+211,Material,Floor/Roof Screed_0.05,Specific Heat,840.0,753.379419304648,926.620580695352,Float,G105
+212,Material,Floor/Roof Screed_0.05,Thermal Absorptance,0.9,0.8608,0.9392,Float,G106
+213,Material,Floor/Roof Screed_0.05,Solar Absorptance,0.73,0.632,0.828,Float,G107
+214,Material,Floor/Roof Screed_0.05,Visible Absorptance,0.73,0.632,0.828,Float,G108
+216,Material,Cast Concrete_0.15,Conductivity,1.13,0.9728503897554943,1.2871496102445055,Float,G110
+217,Material,Cast Concrete_0.15,Density,2000.0,1921.9490269118955,2078.0509730881045,Float,G111
+218,Material,Cast Concrete_0.15,Specific Heat,1000.0,951.8074528583517,1048.1925471416484,Float,G112
+219,Material,Cast Concrete_0.15,Thermal Absorptance,0.9,0.8608,0.9392,Float,G113
+220,Material,Cast Concrete_0.15,Solar Absorptance,0.6,0.5216,0.6784,Float,G114
+221,Material,Cast Concrete_0.15,Visible Absorptance,0.6,0.5216,0.6784,Float,G115
+223,Material,Cast Concrete (Dense)_0.1,Conductivity,1.4,1.2428503897554943,1.5571496102445055,Float,G117
+224,Material,Cast Concrete (Dense)_0.1,Density,2100.0,2021.9490269118955,2178.0509730881045,Float,G118
+225,Material,Cast Concrete (Dense)_0.1,Specific Heat,840.0,791.8074528583517,888.1925471416483,Float,G119
+226,Material,Cast Concrete (Dense)_0.1,Thermal Absorptance,0.9,0.8608,0.9392,Float,G120
+227,Material,Cast Concrete (Dense)_0.1,Solar Absorptance,0.6,0.5216,0.6784,Float,G121
+228,Material,Cast Concrete (Dense)_0.1,Visible Absorptance,0.6,0.5216,0.6784,Float,G122
+230,Material,Chipboard_0.013,Conductivity,0.15,0.13415750861343667,0.16584249138656332,Float,G124
+231,Material,Chipboard_0.013,Density,800.0,744.1740779711578,855.8259220288422,Float,G125
+232,Material,Chipboard_0.013,Specific Heat,2093.0,1849.327394387621,2336.672605612379,Float,G126
+233,Material,Chipboard_0.013,Thermal Absorptance,0.9,0.8608,0.9392,Float,G127
+234,Material,Chipboard_0.013,Solar Absorptance,0.78,0.682,0.878,Float,G128
+235,Material,Chipboard_0.013,Visible Absorptance,0.78,0.682,0.878,Float,G129
+237,Material,Cast Concrete_0.2,Conductivity,1.13,0.9728503897554943,1.2871496102445055,Float,G131
+238,Material,Cast Concrete_0.2,Density,2000.0,1921.9490269118955,2078.0509730881045,Float,G132
+239,Material,Cast Concrete_0.2,Specific Heat,1000.0,951.8074528583517,1048.1925471416484,Float,G133
+240,Material,Cast Concrete_0.2,Thermal Absorptance,0.9,0.8608,0.9392,Float,G134
+241,Material,Cast Concrete_0.2,Solar Absorptance,0.6,0.5216,0.6784,Float,G135
+242,Material,Cast Concrete_0.2,Visible Absorptance,0.6,0.5216,0.6784,Float,G136
+244,Material,Standard insulation_0.0096,Conductivity,0.04,0.037006050545962184,0.04299394945403782,Float,G138
+245,Material,Standard insulation_0.0096,Density,12.0,6.225954624355642,17.77404537564436,Float,G139
+246,Material,Standard insulation_0.0096,Specific Heat,840.0,776.2716473354808,903.7283526645192,Float,G140
+247,Material,Standard insulation_0.0096,Thermal Absorptance,0.9,0.8608,0.9392,Float,G141
+248,Material,Standard insulation_0.0096,Solar Absorptance,0.7,0.602,0.7979999999999999,Float,G142
+249,Material,Standard insulation_0.0096,Visible Absorptance,0.7,0.602,0.7979999999999999,Float,G143
+251,Material,Painted Oak_0.042,Conductivity,0.19,0.1805,0.1995,Float,G145
+252,Material,Painted Oak_0.042,Density,700.0,693.0,707.0,Float,G146
+253,Material,Painted Oak_0.042,Specific Heat,2390.0,2091.25,2688.75,Float,G147
+254,Material,Painted Oak_0.042,Thermal Absorptance,0.9,0.8608,0.9392,Float,G148
+255,Material,Painted Oak_0.042,Solar Absorptance,0.5,0.402,0.598,Float,G149
+256,Material,Painted Oak_0.042,Visible Absorptance,0.5,0.402,0.598,Float,G150
+258,Material,External Rendering_0.025,Conductivity,0.5,0.2636990558630795,0.7363009441369205,Float,G152
+259,Material,External Rendering_0.025,Density,1300.0,1029.7437882305017,1570.2562117694983,Float,G153
+260,Material,External Rendering_0.025,Specific Heat,1000.0,913.379419304648,1086.6205806953521,Float,G154
+261,Material,External Rendering_0.025,Thermal Absorptance,0.9,0.8608,0.9392,Float,G155
+262,Material,External Rendering_0.025,Solar Absorptance,0.7,0.602,0.7979999999999999,Float,G156
+263,Material,External Rendering_0.025,Visible Absorptance,0.7,0.602,0.7979999999999999,Float,G157
+265,Material,MW Stone Wool (rolls)_0.1439,Conductivity,0.04,0.038,0.042,Float,G159
+266,Material,MW Stone Wool (rolls)_0.1439,Density,30.0,29.7,30.3,Float,G160
+267,Material,MW Stone Wool (rolls)_0.1439,Specific Heat,840.0,735.0,945.0,Float,G161
+268,Material,MW Stone Wool (rolls)_0.1439,Thermal Absorptance,0.9,0.8608,0.9392,Float,G162
+269,Material,MW Stone Wool (rolls)_0.1439,Solar Absorptance,0.6,0.40399999999999997,0.796,Float,G163
+270,Material,MW Stone Wool (rolls)_0.1439,Visible Absorptance,0.6,0.40399999999999997,0.796,Float,G164
+272,Material,Standard insulation_0.0159,Conductivity,0.04,0.038,0.042,Float,G166
+273,Material,Standard insulation_0.0159,Density,12.0,11.88,12.12,Float,G167
+274,Material,Standard insulation_0.0159,Specific Heat,840.0,735.0,945.0,Float,G168
+275,Material,Standard insulation_0.0159,Thermal Absorptance,0.9,0.8608,0.9392,Float,G169
+276,Material,Standard insulation_0.0159,Solar Absorptance,0.7,0.602,0.7979999999999999,Float,G170
+277,Material,Standard insulation_0.0159,Visible Absorptance,0.7,0.602,0.7979999999999999,Float,G171
+279,Material,XPS Extruded Polystyrene  - CO2 Blowing_0.03,Conductivity,0.034,0.030127709688302737,0.03787229031169727,Float,G173
+280,Material,XPS Extruded Polystyrene  - CO2 Blowing_0.03,Density,35.0,24.615221436811876,45.38477856318812,Float,G174
+281,Material,XPS Extruded Polystyrene  - CO2 Blowing_0.03,Specific Heat,1400.0,1373.0699810141055,1426.9300189858945,Float,G175
+282,Material,XPS Extruded Polystyrene  - CO2 Blowing_0.03,Thermal Absorptance,0.9,0.8608,0.9392,Float,G176
+283,Material,XPS Extruded Polystyrene  - CO2 Blowing_0.03,Solar Absorptance,0.6,0.502,0.698,Float,G177
+284,Material,XPS Extruded Polystyrene  - CO2 Blowing_0.03,Visible Absorptance,0.6,0.502,0.698,Float,G178
+286,Material,Plywood (Heavyweight)_0.006,Conductivity,0.15,0.1425,0.1575,Float,G180
+287,Material,Plywood (Heavyweight)_0.006,Density,700.0,693.0,707.0,Float,G181
+288,Material,Plywood (Heavyweight)_0.006,Specific Heat,1420.0,1242.5,1597.5,Float,G182
+289,Material,Plywood (Heavyweight)_0.006,Thermal Absorptance,0.9,0.8608,0.9392,Float,G183
+290,Material,Plywood (Heavyweight)_0.006,Solar Absorptance,0.78,0.682,0.878,Float,G184
+291,Material,Plywood (Heavyweight)_0.006,Visible Absorptance,0.78,0.682,0.878,Float,G185
+292,Material:NoMass,19_RVAL_2,Thermal Resistance,0.15,0.1425,0.1575,Float,G186
+293,Material:NoMass,19_RVAL_2,Thermal Absorptance,0.9,0.8608,0.9392,Float,G187
+294,Material:NoMass,19_RVAL_2,Solar Absorptance,0.7,0.6215999999999999,0.7784,Float,G188
+295,Material:NoMass,19_RVAL_2,Visible Absorptance,0.7,0.6215999999999999,0.7784,Float,G189
+296,Material:NoMass,20_RVAL_2,Thermal Resistance,0.15,0.1425,0.1575,Float,G190
+297,Material:NoMass,20_RVAL_2,Thermal Absorptance,0.9,0.8608,0.9392,Float,G191
+298,Material:NoMass,20_RVAL_2,Solar Absorptance,0.7,0.6215999999999999,0.7784,Float,G192
+299,Material:NoMass,20_RVAL_2,Visible Absorptance,0.7,0.6215999999999999,0.7784,Float,G193
+315,People,People Level1:Zone14,Number of People,18.70506875,4.040294849999999,33.369842649999995,Float,G209
+316,People,People Level1:Zone14,Fraction Radiant,0.3,0.285,0.315,Float,G210
+317,People,People Level1:Zone14,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+318,Lights,Level1:Zone14 General lighting,Lighting Level,797.091,750.859722,868.82919,Float,G212
+319,Lights,Level1:Zone14 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+320,Lights,Level1:Zone14 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+321,Lights,Level1:Zone14 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+322,ElectricEquipment,Level1:Zone14 Equipment 1,Design Level,294.9237,261.5973219,315.568359,Float,G216
+323,ElectricEquipment,Level1:Zone14 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G217
+336,ZoneInfiltration:DesignFlowRate,Level1:Zone14 Infiltration,Design Flow Rate,0.036398,0.03639632885098024,0.036399671149019756,Float,G228
+342,People,People Level1:Zone1,Number of People,0.427644799,0.09237127658399996,0.762918321416,Float,G209
+343,People,People Level1:Zone1,Fraction Radiant,0.3,0.285,0.315,Float,G210
+344,People,People Level1:Zone1,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+345,Lights,Level1:Zone1 General lighting,Lighting Level,18.2235,17.166537,19.863615000000003,Float,G212
+346,Lights,Level1:Zone1 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+347,Lights,Level1:Zone1 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+348,Lights,Level1:Zone1 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+349,ElectricEquipment,Level1:Zone1 Equipment 1,Design Level,6.7427,5.9807749,7.214689,Float,G216
+350,ElectricEquipment,Level1:Zone1 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G217
+363,ZoneInfiltration:DesignFlowRate,Level1:Zone1 Infiltration,Design Flow Rate,0.000815,0.0008133288509802426,0.0008166711490197573,Float,G228
+369,People,People Level1:Zone6,Number of People,4.1600025,0.8985605400000001,7.42144446,Float,G236
+370,People,People Level1:Zone6,Fraction Radiant,0.3,0.285,0.315,Float,G237
+371,People,People Level1:Zone6,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+372,Lights,Level1:Zone6 General lighting,Lighting Level,749.55,706.0761,817.0094999999999,Float,G238
+373,Lights,Level1:Zone6 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+374,Lights,Level1:Zone6 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+375,Lights,Level1:Zone6 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+376,ElectricEquipment,Level1:Zone6 Computing gain 1,Design Level,224.865,199.45525500000002,240.60555000000002,Float,G239
+377,ElectricEquipment,Level1:Zone6 Computing gain 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G240
+378,ElectricEquipment,Level1:Zone6 Equipment 2,Design Level,224.865,199.45525500000002,240.60555000000002,Float,G241
+379,ElectricEquipment,Level1:Zone6 Equipment 2,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G242
+380,WaterUse:Equipment,DHW Level1:Zone6,Peak Flow Rate,2.31e-07,1.57542e-07,3.38415e-07,Float,G243
+393,ZoneInfiltration:DesignFlowRate,Level1:Zone6 Infiltration,Design Flow Rate,0.00838,0.008378328850980244,0.008381671149019757,Float,G228
+399,People,People Level1:Zone3,Number of People,1.213896,0.26220153599999996,2.165590464,Float,G248
+400,People,People Level1:Zone3,Fraction Radiant,0.3,0.285,0.315,Float,G249
+401,People,People Level1:Zone3,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+402,Lights,Level1:Zone3 General lighting,Lighting Level,218.72,206.03424,238.4048,Float,G250
+403,Lights,Level1:Zone3 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+404,Lights,Level1:Zone3 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+405,Lights,Level1:Zone3 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+406,ElectricEquipment,Level1:Zone3 Computing gain 1,Design Level,65.616,58.201392,70.20912,Float,G239
+407,ElectricEquipment,Level1:Zone3 Computing gain 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G240
+408,ElectricEquipment,Level1:Zone3 Equipment 2,Design Level,65.616,58.201392,70.20912,Float,G241
+409,ElectricEquipment,Level1:Zone3 Equipment 2,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G242
+410,WaterUse:Equipment,DHW Level1:Zone3,Peak Flow Rate,6.75e-08,4.6035e-08,9.88875e-08,Float,G251
+423,ZoneInfiltration:DesignFlowRate,Level1:Zone3 Infiltration,Design Flow Rate,0.002445,0.0024433288509802427,0.0024466711490197576,Float,G228
+429,People,People Level1:Zone2,Number of People,1.0391376,0.2244537216,1.8538214784000002,Float,G256
+430,People,People Level1:Zone2,Fraction Radiant,0.3,0.285,0.315,Float,G257
+431,People,People Level1:Zone2,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+432,Lights,Level1:Zone2 General lighting,Lighting Level,187.232,176.372544,204.08288,Float,G258
+433,Lights,Level1:Zone2 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+434,Lights,Level1:Zone2 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+435,Lights,Level1:Zone2 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+436,ElectricEquipment,Level1:Zone2 Computing gain 1,Design Level,56.1696,49.8224352,60.101472,Float,G239
+437,ElectricEquipment,Level1:Zone2 Computing gain 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G240
+438,ElectricEquipment,Level1:Zone2 Equipment 2,Design Level,56.1696,49.8224352,60.101472,Float,G241
+439,ElectricEquipment,Level1:Zone2 Equipment 2,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G242
+440,WaterUse:Equipment,DHW Level1:Zone2,Peak Flow Rate,5.78e-08,3.9419599999999997e-08,8.467700000000001e-08,Float,G259
+453,ZoneInfiltration:DesignFlowRate,Level1:Zone2 Infiltration,Design Flow Rate,0.002093,0.0020913288509802424,0.0020946711490197572,Float,G228
+459,People,People Level1:Zone4,Number of People,1.7741463,0.38321560079999983,3.1650769992,Float,G209
+460,People,People Level1:Zone4,Fraction Radiant,0.3,0.285,0.315,Float,G210
+461,People,People Level1:Zone4,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+462,Lights,Level1:Zone4 General lighting,Lighting Level,319.666,301.12537199999997,348.43594,Float,G212
+463,Lights,Level1:Zone4 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+464,Lights,Level1:Zone4 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+465,Lights,Level1:Zone4 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+466,ElectricEquipment,Level1:Zone4 Computing gain 1,Design Level,95.8998,85.0631226,102.612786,Float,G239
+467,ElectricEquipment,Level1:Zone4 Computing gain 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G240
+468,ElectricEquipment,Level1:Zone4 Equipment 2,Design Level,95.8998,85.0631226,102.612786,Float,G241
+469,ElectricEquipment,Level1:Zone4 Equipment 2,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G242
+470,WaterUse:Equipment,DHW Level1:Zone4,Peak Flow Rate,9.87e-08,6.731340000000001e-08,1.445955e-07,Float,G262
+483,ZoneInfiltration:DesignFlowRate,Level1:Zone4 Infiltration,Design Flow Rate,0.003574,0.0035723288509802425,0.0035756711490197574,Float,G228
+489,People,People Level1:Zone5,Number of People,0.7265283,0.15693011280000002,1.2961264872,Float,G267
+490,People,People Level1:Zone5,Fraction Radiant,0.3,0.285,0.315,Float,G268
+491,People,People Level1:Zone5,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+492,Lights,Level1:Zone5 General lighting,Lighting Level,130.906,123.31345200000001,142.68754,Float,G269
+493,Lights,Level1:Zone5 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+494,Lights,Level1:Zone5 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+495,Lights,Level1:Zone5 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+496,ElectricEquipment,Level1:Zone5 Computing gain 1,Design Level,39.2718,34.8340866,42.020826,Float,G239
+497,ElectricEquipment,Level1:Zone5 Computing gain 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G240
+498,ElectricEquipment,Level1:Zone5 Equipment 2,Design Level,39.2718,34.8340866,42.020826,Float,G241
+499,ElectricEquipment,Level1:Zone5 Equipment 2,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G242
+500,WaterUse:Equipment,DHW Level1:Zone5,Peak Flow Rate,4.04e-08,2.7552799999999998e-08,5.9186e-08,Float,G270
+513,ZoneInfiltration:DesignFlowRate,Level1:Zone5 Infiltration,Design Flow Rate,0.001464,0.0014623288509802428,0.0014656711490197572,Float,G228
+519,People,People Level1:Zone10,Fraction Radiant,0.3,0.285,0.315,Float,G210
+520,People,People Level1:Zone10,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+521,Lights,Level1:Zone10 General lighting,Lighting Level,106.8893,100.6897206,116.509337,Float,G212
+522,Lights,Level1:Zone10 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+523,Lights,Level1:Zone10 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+524,Lights,Level1:Zone10 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+537,ZoneInfiltration:DesignFlowRate,Level1:Zone10 Infiltration,Design Flow Rate,0.003187,0.0031853288509802427,0.0031886711490197576,Float,G228
+543,People,People Level1:Zone7,Number of People,48.33607666,10.440592558559999,86.23156076144001,Float,G277
+544,People,People Level1:Zone7,Fraction Radiant,0.3,0.285,0.315,Float,G278
+545,People,People Level1:Zone7,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+546,Lights,Level1:Zone7 General lighting,Lighting Level,2059.776,1940.3089919999998,2245.15584,Float,G279
+547,Lights,Level1:Zone7 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+548,Lights,Level1:Zone7 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+549,Lights,Level1:Zone7 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+550,ElectricEquipment,Level1:Zone7 Equipment 1,Design Level,762.1171,675.9978677,815.4652970000001,Float,G216
+551,ElectricEquipment,Level1:Zone7 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G217
+564,ZoneInfiltration:DesignFlowRate,Level1:Zone7 Infiltration,Design Flow Rate,0.096288,0.09628632885098024,0.09628967114901976,Float,G228
+570,People,People Level1:Zone9,Number of People,1.301930663,0.2812170232079998,2.3226443027920003,Float,G284
+571,People,People Level1:Zone9,Fraction Radiant,0.3,0.285,0.315,Float,G285
+572,People,People Level1:Zone9,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+573,Lights,Level1:Zone9 General lighting,Lighting Level,55.48,52.262159999999994,60.4732,Float,G286
+574,Lights,Level1:Zone9 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+575,Lights,Level1:Zone9 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+576,Lights,Level1:Zone9 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+577,ElectricEquipment,Level1:Zone9 Equipment 1,Design Level,20.5276,18.2079812,21.964532,Float,G216
+578,ElectricEquipment,Level1:Zone9 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G217
+591,ZoneInfiltration:DesignFlowRate,Level1:Zone9 Infiltration,Design Flow Rate,0.002481,0.0024793288509802427,0.0024826711490197576,Float,G228
+597,People,People Level1:Zone15,Number of People,8.911635,1.92491316,15.898356840000002,Float,G209
+598,People,People Level1:Zone15,Fraction Radiant,0.3,0.285,0.315,Float,G210
+599,People,People Level1:Zone15,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+600,Lights,Level1:Zone15 General lighting,Lighting Level,1605.7,1512.5694,1750.213,Float,G212
+601,Lights,Level1:Zone15 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+602,Lights,Level1:Zone15 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+603,Lights,Level1:Zone15 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+604,ElectricEquipment,Level1:Zone15 Computing gain 1,Design Level,481.71,427.27677,515.4297,Float,G239
+605,ElectricEquipment,Level1:Zone15 Computing gain 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G240
+606,ElectricEquipment,Level1:Zone15 Equipment 2,Design Level,481.71,427.27677,515.4297,Float,G241
+607,ElectricEquipment,Level1:Zone15 Equipment 2,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G242
+608,WaterUse:Equipment,DHW Level1:Zone15,Peak Flow Rate,4.96e-07,3.3827199999999997e-07,7.2664e-07,Float,G270
+621,ZoneInfiltration:DesignFlowRate,Level1:Zone15 Infiltration,Design Flow Rate,0.017953,0.017951328850980244,0.017954671149019757,Float,G228
+627,People,People Level1:Zone11,Number of People,1.0048719,0.21705233039999994,1.7926914695999998,Float,G209
+628,People,People Level1:Zone11,Fraction Radiant,0.3,0.285,0.315,Float,G210
+629,People,People Level1:Zone11,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+630,Lights,Level1:Zone11 General lighting,Lighting Level,181.058,170.556636,197.35322,Float,G212
+631,Lights,Level1:Zone11 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+632,Lights,Level1:Zone11 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+633,Lights,Level1:Zone11 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+634,ElectricEquipment,Level1:Zone11 Computing gain 1,Design Level,54.3174,48.1795338,58.119618,Float,G239
+635,ElectricEquipment,Level1:Zone11 Computing gain 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G240
+636,ElectricEquipment,Level1:Zone11 Equipment 2,Design Level,54.3174,48.1795338,58.119618,Float,G241
+637,ElectricEquipment,Level1:Zone11 Equipment 2,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G242
+638,WaterUse:Equipment,DHW Level1:Zone11,Peak Flow Rate,5.59e-08,3.8123799999999994e-08,8.189349999999999e-08,Float,G291
+651,ZoneInfiltration:DesignFlowRate,Level1:Zone11 Infiltration,Design Flow Rate,0.002024,0.0020223288509802428,0.0020256711490197576,Float,G228
+657,People,People Level1Z1:Zone1,Number of People,4.9725225,1.0740648599999996,8.87098014,Float,G296
+658,People,People Level1Z1:Zone1,Fraction Radiant,0.3,0.285,0.315,Float,G297
+659,People,People Level1Z1:Zone1,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+660,Lights,Level1Z1:Zone1 General lighting,Lighting Level,895.95,843.9849,976.5855,Float,G298
+661,Lights,Level1Z1:Zone1 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+662,Lights,Level1Z1:Zone1 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+663,Lights,Level1Z1:Zone1 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+664,ElectricEquipment,Level1Z1:Zone1 Computing gain 1,Design Level,268.785,238.41229500000003,287.59995000000004,Float,G299
+665,ElectricEquipment,Level1Z1:Zone1 Computing gain 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G300
+666,ElectricEquipment,Level1Z1:Zone1 Equipment 2,Design Level,268.785,238.41229500000003,287.59995000000004,Float,G301
+667,ElectricEquipment,Level1Z1:Zone1 Equipment 2,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G302
+668,WaterUse:Equipment,DHW Level1Z1:Zone1,Peak Flow Rate,2.77e-07,1.8891400000000002e-07,4.05805e-07,Float,G303
+681,ZoneInfiltration:DesignFlowRate,Level1Z1:Zone1 Infiltration,Design Flow Rate,0.009731,0.009729328850980243,0.009732671149019757,Float,G228
+687,People,People Level1Z1:Zone4,Number of People,1.3005204,0.2809124063999999,2.3201283936,Float,G308
+688,People,People Level1Z1:Zone4,Fraction Radiant,0.3,0.285,0.315,Float,G309
+689,People,People Level1Z1:Zone4,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+690,Lights,Level1Z1:Zone4 General lighting,Lighting Level,234.328,220.736976,255.41752,Float,G298
+691,Lights,Level1Z1:Zone4 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+692,Lights,Level1Z1:Zone4 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+693,Lights,Level1Z1:Zone4 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+694,ElectricEquipment,Level1Z1:Zone4 Computing gain 1,Design Level,70.2984,62.3546808,75.219288,Float,G299
+695,ElectricEquipment,Level1Z1:Zone4 Computing gain 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G300
+696,ElectricEquipment,Level1Z1:Zone4 Equipment 2,Design Level,70.2984,62.3546808,75.219288,Float,G301
+697,ElectricEquipment,Level1Z1:Zone4 Equipment 2,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G302
+698,WaterUse:Equipment,DHW Level1Z1:Zone4,Peak Flow Rate,7.23e-08,4.93086e-08,1.0591950000000001e-07,Float,G310
+711,ZoneInfiltration:DesignFlowRate,Level1Z1:Zone4 Infiltration,Design Flow Rate,0.002545,0.0025433288509802425,0.0025466711490197574,Float,G228
+717,People,People Level1Z1:Zone51,Number of People,18.16435112,3.92349984192,32.40520239808,Float,G296
+718,People,People Level1Z1:Zone51,Fraction Radiant,0.3,0.285,0.315,Float,G297
+719,People,People Level1Z1:Zone51,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+720,Lights,Level1Z1:Zone51 General lighting,Lighting Level,471.5745,444.223179,514.016205,Float,G298
+721,Lights,Level1Z1:Zone51 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+722,Lights,Level1Z1:Zone51 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+723,Lights,Level1Z1:Zone51 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+724,ElectricEquipment,Level1Z1:Zone51 Equipment 1,Design Level,925.5436,820.9571731999999,990.331652,Float,G313
+725,ElectricEquipment,Level1Z1:Zone51 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G314
+726,WaterUse:Equipment,DHW Level1Z1:Zone51,Peak Flow Rate,2.33e-05,1.58906e-05,3.41345e-05,Float,G303
+739,ZoneInfiltration:DesignFlowRate,Level1Z1:Zone51 Infiltration,Design Flow Rate,0.013658,0.013656328850980243,0.013659671149019757,Float,G228
+745,People,People Level1Z1:Zone39,Number of People,6.0966972,1.3168865951999997,10.876507804800001,Float,G319
+746,People,People Level1Z1:Zone39,Fraction Radiant,0.3,0.285,0.315,Float,G320
+747,People,People Level1Z1:Zone39,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G321
+748,Lights,Level1Z1:Zone39 General lighting,Lighting Level,1098.504,1034.7907679999998,1197.36936,Float,G322
+749,Lights,Level1Z1:Zone39 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G323
+750,Lights,Level1Z1:Zone39 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G324
+751,Lights,Level1Z1:Zone39 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G325
+752,ElectricEquipment,Level1Z1:Zone39 Computing gain 1,Design Level,329.5512,292.3119144,352.619784,Float,G326
+753,ElectricEquipment,Level1Z1:Zone39 Computing gain 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G327
+754,ElectricEquipment,Level1Z1:Zone39 Equipment 2,Design Level,329.5512,292.3119144,352.619784,Float,G328
+755,ElectricEquipment,Level1Z1:Zone39 Equipment 2,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G329
+756,WaterUse:Equipment,DHW Level1Z1:Zone39,Peak Flow Rate,3.39e-07,2.31198e-07,4.96635e-07,Float,G330
+769,ZoneInfiltration:DesignFlowRate,Level1Z1:Zone39 Infiltration,Design Flow Rate,0.011689,0.011687328850980243,0.011690671149019756,Float,G335
+775,People,People Level1Z1:Zone9,Number of People,2.4543654,0.5301429263999999,4.3785878736,Float,G319
+776,People,People Level1Z1:Zone9,Fraction Radiant,0.3,0.285,0.315,Float,G320
+777,People,People Level1Z1:Zone9,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G321
+778,Lights,Level1Z1:Zone9 General lighting,Lighting Level,442.228,416.578776,482.02852,Float,G322
+779,Lights,Level1Z1:Zone9 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G323
+780,Lights,Level1Z1:Zone9 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G324
+781,Lights,Level1Z1:Zone9 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G325
+782,ElectricEquipment,Level1Z1:Zone9 Computing gain 1,Design Level,132.6684,117.67687079999999,141.955188,Float,G326
+783,ElectricEquipment,Level1Z1:Zone9 Computing gain 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G327
+784,ElectricEquipment,Level1Z1:Zone9 Equipment 2,Design Level,132.6684,117.67687079999999,141.955188,Float,G328
+785,ElectricEquipment,Level1Z1:Zone9 Equipment 2,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G329
+786,WaterUse:Equipment,DHW Level1Z1:Zone9,Peak Flow Rate,1.36e-07,9.275200000000001e-08,1.9924e-07,Float,G330
+799,ZoneInfiltration:DesignFlowRate,Level1Z1:Zone9 Infiltration,Design Flow Rate,0.004803,0.0048013288509802425,0.004804671149019757,Float,G335
+805,People,People Level1Z1:Zone12,Number of People,1.052645979,0.22737153146400002,1.8779204265359999,Float,G296
+806,People,People Level1Z1:Zone12,Fraction Radiant,0.3,0.285,0.315,Float,G297
+807,People,People Level1Z1:Zone12,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+808,Lights,Level1Z1:Zone12 General lighting,Lighting Level,243.5875,229.459425,265.510375,Float,G298
+809,Lights,Level1Z1:Zone12 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+810,Lights,Level1Z1:Zone12 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+811,Lights,Level1Z1:Zone12 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+812,ElectricEquipment,Level1Z1:Zone12 Equipment 1,Design Level,411.5654,365.0585098,440.374978,Float,G313
+813,ElectricEquipment,Level1Z1:Zone12 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G314
+814,WaterUse:Equipment,DHW Level1Z1:Zone12,Peak Flow Rate,6.23e-08,4.2488599999999996e-08,9.12695e-08,Float,G303
+827,ZoneInfiltration:DesignFlowRate,Level1Z1:Zone12 Infiltration,Design Flow Rate,0.002117,0.0021153288509802425,0.0021186711490197574,Float,G228
+833,People,People Level1Z1:Zone7,Number of People,1.2700065,0.27432140399999994,2.265691596,Float,G344
+834,People,People Level1Z1:Zone7,Fraction Radiant,0.3,0.285,0.315,Float,G345
+835,People,People Level1Z1:Zone7,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+836,Lights,Level1Z1:Zone7 General lighting,Lighting Level,228.83,215.55786,249.4247,Float,G298
+837,Lights,Level1Z1:Zone7 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+838,Lights,Level1Z1:Zone7 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+839,Lights,Level1Z1:Zone7 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+840,ElectricEquipment,Level1Z1:Zone7 Computing gain 1,Design Level,68.649,60.891663,73.45443,Float,G299
+841,ElectricEquipment,Level1Z1:Zone7 Computing gain 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G300
+842,ElectricEquipment,Level1Z1:Zone7 Equipment 2,Design Level,68.649,60.891663,73.45443,Float,G301
+843,ElectricEquipment,Level1Z1:Zone7 Equipment 2,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G302
+844,WaterUse:Equipment,DHW Level1Z1:Zone7,Peak Flow Rate,7.06e-08,4.81492e-08,1.0342899999999999e-07,Float,G346
+857,ZoneInfiltration:DesignFlowRate,Level1Z1:Zone7 Infiltration,Design Flow Rate,0.002485,0.0024833288509802424,0.0024866711490197572,Float,G228
+863,People,People Level1Z1:Zone45,Number of People,0.8647122,0.1867778351999999,1.5426465648,Float,G308
+864,People,People Level1Z1:Zone45,Fraction Radiant,0.3,0.285,0.315,Float,G309
+865,People,People Level1Z1:Zone45,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+866,Lights,Level1Z1:Zone45 General lighting,Lighting Level,155.804,146.767368,169.82636,Float,G298
+867,Lights,Level1Z1:Zone45 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+868,Lights,Level1Z1:Zone45 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+869,Lights,Level1Z1:Zone45 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+870,ElectricEquipment,Level1Z1:Zone45 Computing gain 1,Design Level,46.7412,41.459444399999995,50.013084,Float,G299
+871,ElectricEquipment,Level1Z1:Zone45 Computing gain 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G300
+872,ElectricEquipment,Level1Z1:Zone45 Equipment 2,Design Level,46.7412,41.459444399999995,50.013084,Float,G301
+873,ElectricEquipment,Level1Z1:Zone45 Equipment 2,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G302
+874,WaterUse:Equipment,DHW Level1Z1:Zone45,Peak Flow Rate,4.81e-08,3.2804200000000005e-08,7.04665e-08,Float,G310
+887,ZoneInfiltration:DesignFlowRate,Level1Z1:Zone45 Infiltration,Design Flow Rate,0.001692,0.0016903288509802427,0.0016936711490197571,Float,G228
+893,People,People Level1Z1:Zone47,Number of People,1.971759816,0.425900120256,3.517619511744,Float,G308
+894,People,People Level1Z1:Zone47,Fraction Radiant,0.3,0.285,0.315,Float,G309
+895,People,People Level1Z1:Zone47,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+896,Lights,Level1Z1:Zone47 General lighting,Lighting Level,456.275,429.81104999999997,497.33975,Float,G298
+897,Lights,Level1Z1:Zone47 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+898,Lights,Level1Z1:Zone47 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+899,Lights,Level1Z1:Zone47 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+900,ElectricEquipment,Level1Z1:Zone47 Equipment 1,Design Level,770.9222,683.8079914,824.886754,Float,G351
+901,ElectricEquipment,Level1Z1:Zone47 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G352
+902,WaterUse:Equipment,DHW Level1Z1:Zone47,Peak Flow Rate,1.17e-07,7.9794e-08,1.71405e-07,Float,G310
+915,ZoneInfiltration:DesignFlowRate,Level1Z1:Zone47 Infiltration,Design Flow Rate,0.003965,0.003963328850980242,0.003966671149019757,Float,G228
+921,People,People Level1Z1:Zone44,Number of People,0.9587847,0.20709749519999998,1.7104719048,Float,G308
+922,People,People Level1Z1:Zone44,Fraction Radiant,0.3,0.285,0.315,Float,G309
+923,People,People Level1Z1:Zone44,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+924,Lights,Level1Z1:Zone44 General lighting,Lighting Level,172.754,162.734268,188.30185999999998,Float,G298
+925,Lights,Level1Z1:Zone44 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+926,Lights,Level1Z1:Zone44 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+927,Lights,Level1Z1:Zone44 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+928,ElectricEquipment,Level1Z1:Zone44 Computing gain 1,Design Level,51.8262,45.9698394,55.454034,Float,G299
+929,ElectricEquipment,Level1Z1:Zone44 Computing gain 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G300
+930,ElectricEquipment,Level1Z1:Zone44 Equipment 2,Design Level,51.8262,45.9698394,55.454034,Float,G301
+931,ElectricEquipment,Level1Z1:Zone44 Equipment 2,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G302
+932,WaterUse:Equipment,DHW Level1Z1:Zone44,Peak Flow Rate,5.33e-08,3.63506e-08,7.80845e-08,Float,G310
+945,ZoneInfiltration:DesignFlowRate,Level1Z1:Zone44 Infiltration,Design Flow Rate,0.001876,0.0018743288509802428,0.0018776711490197573,Float,G228
+951,People,People Level1Z1:Zone2,Number of People,10.0135653,2.1629301048,17.8642004952,Float,G296
+952,People,People Level1Z1:Zone2,Fraction Radiant,0.3,0.285,0.315,Float,G297
+953,People,People Level1Z1:Zone2,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+954,Lights,Level1Z1:Zone2 General lighting,Lighting Level,1804.246,1699.5997320000001,1966.62814,Float,G298
+955,Lights,Level1Z1:Zone2 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+956,Lights,Level1Z1:Zone2 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+957,Lights,Level1Z1:Zone2 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+958,ElectricEquipment,Level1Z1:Zone2 Computing gain 1,Design Level,541.2738,480.10986060000005,579.1629660000001,Float,G299
+959,ElectricEquipment,Level1Z1:Zone2 Computing gain 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G300
+960,ElectricEquipment,Level1Z1:Zone2 Equipment 2,Design Level,541.2738,480.10986060000005,579.1629660000001,Float,G301
+961,ElectricEquipment,Level1Z1:Zone2 Equipment 2,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G302
+962,WaterUse:Equipment,DHW Level1Z1:Zone2,Peak Flow Rate,5.57e-07,3.79874e-07,8.16005e-07,Float,G303
+975,ZoneInfiltration:DesignFlowRate,Level1Z1:Zone2 Infiltration,Design Flow Rate,0.019596,0.019594328850980242,0.019597671149019755,Float,G228
+981,People,People Level1Z1:Zone43,Number of People,7.0987497,1.5333299352000003,12.6641694648,Float,G308
+982,People,People Level1Z1:Zone43,Fraction Radiant,0.3,0.285,0.315,Float,G309
+983,People,People Level1Z1:Zone43,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+984,Lights,Level1Z1:Zone43 General lighting,Lighting Level,1279.054,1204.868868,1394.16886,Float,G298
+985,Lights,Level1Z1:Zone43 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+986,Lights,Level1Z1:Zone43 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+987,Lights,Level1Z1:Zone43 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+988,ElectricEquipment,Level1Z1:Zone43 Computing gain 1,Design Level,383.7162,340.35626940000003,410.57633400000003,Float,G299
+989,ElectricEquipment,Level1Z1:Zone43 Computing gain 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G300
+990,ElectricEquipment,Level1Z1:Zone43 Equipment 2,Design Level,383.7162,340.35626940000003,410.57633400000003,Float,G301
+991,ElectricEquipment,Level1Z1:Zone43 Equipment 2,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G302
+992,WaterUse:Equipment,DHW Level1Z1:Zone43,Peak Flow Rate,3.95e-07,2.6938999999999995e-07,5.78675e-07,Float,G310
+1005,ZoneInfiltration:DesignFlowRate,Level1Z1:Zone43 Infiltration,Design Flow Rate,0.01361,0.013608328850980244,0.013611671149019757,Float,G228
+1011,People,People Level1Z1:Zone37,Number of People,1.639619905,0.35415789947999987,2.9250819105200003,Float,G344
+1012,People,People Level1Z1:Zone37,Fraction Radiant,0.3,0.285,0.315,Float,G345
+1013,People,People Level1Z1:Zone37,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+1014,Lights,Level1Z1:Zone37 General lighting,Lighting Level,145.816,137.358672,158.93944,Float,G298
+1015,Lights,Level1Z1:Zone37 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+1016,Lights,Level1Z1:Zone37 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+1017,Lights,Level1Z1:Zone37 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+1018,ElectricEquipment,Level1Z1:Zone37 Equipment 1,Design Level,79.9072,70.8776864,85.500704,Float,G351
+1019,ElectricEquipment,Level1Z1:Zone37 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G352
+1032,ZoneInfiltration:DesignFlowRate,Level1Z1:Zone37 Infiltration,Design Flow Rate,0.003167,0.0031653288509802427,0.0031686711490197575,Float,G228
+1038,People,People Level1Z1:Zone36,Number of People,2.225545413,0.480717809208,3.9703730167919997,Float,G365
+1039,People,People Level1Z1:Zone36,Fraction Radiant,0.3,0.285,0.315,Float,G366
+1040,People,People Level1Z1:Zone36,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G321
+1041,Lights,Level1Z1:Zone36 General lighting,Lighting Level,197.924,186.444408,215.73716000000002,Float,G322
+1042,Lights,Level1Z1:Zone36 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G323
+1043,Lights,Level1Z1:Zone36 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G324
+1044,Lights,Level1Z1:Zone36 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G325
+1045,ElectricEquipment,Level1Z1:Zone36 Equipment 1,Design Level,108.4624,96.2061488,116.054768,Float,G351
+1046,ElectricEquipment,Level1Z1:Zone36 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G352
+1059,ZoneInfiltration:DesignFlowRate,Level1Z1:Zone36 Infiltration,Design Flow Rate,0.004299,0.0042973288509802424,0.004300671149019757,Float,G335
+1065,People,People Level1Z1:Zone38,Number of People,7.9998588,1.7279695007999996,14.2717480992,Float,G371
+1066,People,People Level1Z1:Zone38,Fraction Radiant,0.3,0.285,0.315,Float,G372
+1067,People,People Level1Z1:Zone38,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G321
+1068,Lights,Level1Z1:Zone38 General lighting,Lighting Level,1441.416,1357.813872,1571.1434399999998,Float,G322
+1069,Lights,Level1Z1:Zone38 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G323
+1070,Lights,Level1Z1:Zone38 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G324
+1071,Lights,Level1Z1:Zone38 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G325
+1072,ElectricEquipment,Level1Z1:Zone38 Computing gain 1,Design Level,432.4248,383.5607976,462.694536,Float,G326
+1073,ElectricEquipment,Level1Z1:Zone38 Computing gain 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G327
+1074,ElectricEquipment,Level1Z1:Zone38 Equipment 2,Design Level,432.4248,383.5607976,462.694536,Float,G328
+1075,ElectricEquipment,Level1Z1:Zone38 Equipment 2,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G329
+1076,WaterUse:Equipment,DHW Level1Z1:Zone38,Peak Flow Rate,4.45e-07,3.0348999999999997e-07,6.51925e-07,Float,G330
+1089,ZoneInfiltration:DesignFlowRate,Level1Z1:Zone38 Infiltration,Design Flow Rate,0.015338,0.015336328850980243,0.015339671149019756,Float,G335
+1095,People,People Level1Z1:Zone35,Number of People,0.1474302,0.0318449232,0.26301547680000004,Float,G377
+1096,People,People Level1Z1:Zone35,Fraction Radiant,0.3,0.285,0.315,Float,G378
+1097,People,People Level1Z1:Zone35,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+1098,Lights,Level1Z1:Zone35 General lighting,Lighting Level,26.564,25.023288,28.95476,Float,G298
+1099,Lights,Level1Z1:Zone35 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+1100,Lights,Level1Z1:Zone35 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+1101,Lights,Level1Z1:Zone35 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+1102,ElectricEquipment,Level1Z1:Zone35 Computing gain 1,Design Level,7.9692,7.0686804,8.527044,Float,G326
+1103,ElectricEquipment,Level1Z1:Zone35 Computing gain 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G327
+1104,ElectricEquipment,Level1Z1:Zone35 Equipment 2,Design Level,7.9692,7.0686804,8.527044,Float,G328
+1105,ElectricEquipment,Level1Z1:Zone35 Equipment 2,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G329
+1106,WaterUse:Equipment,DHW Level1Z1:Zone35,Peak Flow Rate,8.2e-09,5.5924e-09,1.2013000000000001e-08,Float,G303
+1119,ZoneInfiltration:DesignFlowRate,Level1Z1:Zone35 Infiltration,Design Flow Rate,0.000289,0.0002873288509802427,0.00029067114901975725,Float,G228
+1125,People,People Level1Z1:Zone33,Number of People,0.50909222,0.10996391951999995,0.90822052048,Float,G383
+1126,People,People Level1Z1:Zone33,Fraction Radiant,0.3,0.285,0.315,Float,G384
+1127,People,People Level1Z1:Zone33,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G321
+1128,Lights,Level1Z1:Zone33 General lighting,Lighting Level,45.275,42.649049999999995,49.34975,Float,G322
+1129,Lights,Level1Z1:Zone33 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G323
+1130,Lights,Level1Z1:Zone33 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G324
+1131,Lights,Level1Z1:Zone33 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G325
+1132,ElectricEquipment,Level1Z1:Zone33 Equipment 1,Design Level,24.8107,22.0070909,26.547449,Float,G351
+1133,ElectricEquipment,Level1Z1:Zone33 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G352
+1146,ZoneInfiltration:DesignFlowRate,Level1Z1:Zone33 Infiltration,Design Flow Rate,0.000983,0.0009813288509802427,0.0009846711490197572,Float,G335
+1152,People,People Level1Z1:Zone34,Number of People,0.437600043,0.09452160928799996,0.7806784767120001,Float,G308
+1153,People,People Level1Z1:Zone34,Fraction Radiant,0.3,0.285,0.315,Float,G309
+1154,People,People Level1Z1:Zone34,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+1155,Lights,Level1Z1:Zone34 General lighting,Lighting Level,38.917,36.659814000000004,42.41953,Float,G298
+1156,Lights,Level1Z1:Zone34 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+1157,Lights,Level1Z1:Zone34 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+1158,Lights,Level1Z1:Zone34 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+1159,ElectricEquipment,Level1Z1:Zone34 Equipment 1,Design Level,21.3265,18.9166055,22.819354999999998,Float,G351
+1160,ElectricEquipment,Level1Z1:Zone34 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G352
+1173,ZoneInfiltration:DesignFlowRate,Level1Z1:Zone34 Infiltration,Design Flow Rate,0.000845,0.0008433288509802427,0.0008466711490197574,Float,G228
+1179,People,People Level1Z1:Zone3,Number of People,6.533016,1.4111314559999997,11.654900544,Float,G319
+1180,People,People Level1Z1:Zone3,Fraction Radiant,0.3,0.285,0.315,Float,G320
+1181,People,People Level1Z1:Zone3,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G321
+1182,Lights,Level1Z1:Zone3 General lighting,Lighting Level,1177.12,1108.8470399999999,1283.0608,Float,G322
+1183,Lights,Level1Z1:Zone3 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G323
+1184,Lights,Level1Z1:Zone3 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G324
+1185,Lights,Level1Z1:Zone3 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G325
+1186,ElectricEquipment,Level1Z1:Zone3 Computing gain 1,Design Level,353.136,313.231632,377.85552,Float,G326
+1187,ElectricEquipment,Level1Z1:Zone3 Computing gain 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G327
+1188,ElectricEquipment,Level1Z1:Zone3 Equipment 2,Design Level,353.136,313.231632,377.85552,Float,G328
+1189,ElectricEquipment,Level1Z1:Zone3 Equipment 2,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G329
+1190,WaterUse:Equipment,DHW Level1Z1:Zone3,Peak Flow Rate,3.63e-07,2.47566e-07,5.31795e-07,Float,G330
+1203,ZoneInfiltration:DesignFlowRate,Level1Z1:Zone3 Infiltration,Design Flow Rate,0.012785,0.012783328850980243,0.012786671149019756,Float,G335
+1209,People,People Level1Z1:Zone5,Number of People,5.129088,1.107883008,9.150292992,Float,G296
+1210,People,People Level1Z1:Zone5,Fraction Radiant,0.3,0.285,0.315,Float,G297
+1211,People,People Level1Z1:Zone5,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+1212,Lights,Level1Z1:Zone5 General lighting,Lighting Level,924.16,870.55872,1007.3344,Float,G298
+1213,Lights,Level1Z1:Zone5 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+1214,Lights,Level1Z1:Zone5 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+1215,Lights,Level1Z1:Zone5 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+1216,ElectricEquipment,Level1Z1:Zone5 Computing gain 1,Design Level,277.248,245.918976,296.65536,Float,G299
+1217,ElectricEquipment,Level1Z1:Zone5 Computing gain 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G300
+1218,ElectricEquipment,Level1Z1:Zone5 Equipment 2,Design Level,277.248,245.918976,296.65536,Float,G301
+1219,ElectricEquipment,Level1Z1:Zone5 Equipment 2,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G302
+1220,WaterUse:Equipment,DHW Level1Z1:Zone5,Peak Flow Rate,2.85e-07,1.9437e-07,4.175250000000001e-07,Float,G303
+1233,ZoneInfiltration:DesignFlowRate,Level1Z1:Zone5 Infiltration,Design Flow Rate,0.010037,0.010035328850980244,0.010038671149019757,Float,G228
+1239,People,People Level1Z1:Zone6,Number of People,5.0860311,1.0985827175999994,9.0734794824,Float,G365
+1240,People,People Level1Z1:Zone6,Fraction Radiant,0.3,0.285,0.315,Float,G366
+1241,People,People Level1Z1:Zone6,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G321
+1242,Lights,Level1Z1:Zone6 General lighting,Lighting Level,916.402,863.2506840000001,998.87818,Float,G322
+1243,Lights,Level1Z1:Zone6 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G323
+1244,Lights,Level1Z1:Zone6 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G324
+1245,Lights,Level1Z1:Zone6 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G325
+1246,ElectricEquipment,Level1Z1:Zone6 Computing gain 1,Design Level,274.9206,243.85457219999998,294.16504199999997,Float,G299
+1247,ElectricEquipment,Level1Z1:Zone6 Computing gain 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G300
+1248,ElectricEquipment,Level1Z1:Zone6 Equipment 2,Design Level,274.9206,243.85457219999998,294.16504199999997,Float,G301
+1249,ElectricEquipment,Level1Z1:Zone6 Equipment 2,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G302
+1250,WaterUse:Equipment,DHW Level1Z1:Zone6,Peak Flow Rate,2.83e-07,1.93006e-07,4.14595e-07,Float,G393
+1263,ZoneInfiltration:DesignFlowRate,Level1Z1:Zone6 Infiltration,Design Flow Rate,0.009953,0.009951328850980243,0.009954671149019757,Float,G335
+1269,People,People Level1Z1:Zone8,Number of People,5.356416,1.1569858560000004,9.555846144,Float,G371
+1270,People,People Level1Z1:Zone8,Fraction Radiant,0.3,0.285,0.315,Float,G372
+1271,People,People Level1Z1:Zone8,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G321
+1272,Lights,Level1Z1:Zone8 General lighting,Lighting Level,965.12,909.14304,1051.9808,Float,G322
+1273,Lights,Level1Z1:Zone8 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G323
+1274,Lights,Level1Z1:Zone8 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G324
+1275,Lights,Level1Z1:Zone8 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G325
+1276,ElectricEquipment,Level1Z1:Zone8 Computing gain 1,Design Level,289.536,256.81843200000003,309.80352,Float,G326
+1277,ElectricEquipment,Level1Z1:Zone8 Computing gain 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G327
+1278,ElectricEquipment,Level1Z1:Zone8 Equipment 2,Design Level,289.536,256.81843200000003,309.80352,Float,G328
+1279,ElectricEquipment,Level1Z1:Zone8 Equipment 2,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G329
+1280,WaterUse:Equipment,DHW Level1Z1:Zone8,Peak Flow Rate,2.98e-07,2.03236e-07,4.3657e-07,Float,G330
+1293,ZoneInfiltration:DesignFlowRate,Level1Z1:Zone8 Infiltration,Design Flow Rate,0.010482,0.010480328850980243,0.010483671149019757,Float,G335
+1299,People,People Level1Z1:Zone10,Number of People,5.1683043,1.1163537287999992,9.220254871200002,Float,G296
+1300,People,People Level1Z1:Zone10,Fraction Radiant,0.3,0.285,0.315,Float,G297
+1301,People,People Level1Z1:Zone10,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+1302,Lights,Level1Z1:Zone10 General lighting,Lighting Level,931.226,877.214892,1015.03634,Float,G298
+1303,Lights,Level1Z1:Zone10 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+1304,Lights,Level1Z1:Zone10 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+1305,Lights,Level1Z1:Zone10 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+1306,ElectricEquipment,Level1Z1:Zone10 Computing gain 1,Design Level,279.3678,247.7992386,298.923546,Float,G299
+1307,ElectricEquipment,Level1Z1:Zone10 Computing gain 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G300
+1308,ElectricEquipment,Level1Z1:Zone10 Equipment 2,Design Level,279.3678,247.7992386,298.923546,Float,G301
+1309,ElectricEquipment,Level1Z1:Zone10 Equipment 2,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G302
+1310,WaterUse:Equipment,DHW Level1Z1:Zone10,Peak Flow Rate,2.87e-07,1.9573400000000002e-07,4.2045500000000007e-07,Float,G303
+1323,ZoneInfiltration:DesignFlowRate,Level1Z1:Zone10 Infiltration,Design Flow Rate,0.010114,0.010112328850980243,0.010115671149019756,Float,G228
+1329,People,People Level1Z1:Zone29,Number of People,0.204462,0.04416379200000001,0.364760208,Float,G319
+1330,People,People Level1Z1:Zone29,Fraction Radiant,0.3,0.285,0.315,Float,G320
+1331,People,People Level1Z1:Zone29,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G321
+1332,Lights,Level1Z1:Zone29 General lighting,Lighting Level,36.84,34.70328000000001,40.15560000000001,Float,G322
+1333,Lights,Level1Z1:Zone29 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G323
+1334,Lights,Level1Z1:Zone29 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G324
+1335,Lights,Level1Z1:Zone29 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G325
+1336,ElectricEquipment,Level1Z1:Zone29 Computing gain 1,Design Level,11.052,9.803124,11.82564,Float,G326
+1337,ElectricEquipment,Level1Z1:Zone29 Computing gain 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G327
+1338,ElectricEquipment,Level1Z1:Zone29 Equipment 2,Design Level,11.052,9.803124,11.82564,Float,G328
+1339,ElectricEquipment,Level1Z1:Zone29 Equipment 2,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G329
+1340,WaterUse:Equipment,DHW Level1Z1:Zone29,Peak Flow Rate,1.14e-08,7.7748e-09,1.6701e-08,Float,G330
+1353,ZoneInfiltration:DesignFlowRate,Level1Z1:Zone29 Infiltration,Design Flow Rate,0.0004,0.00039832885098024275,0.0004016711490197573,Float,G335
+1359,People,People Level1Z1:Zone28,Number of People,0.8927286,0.19282937759999996,1.5926278224,Float,G296
+1360,People,People Level1Z1:Zone28,Fraction Radiant,0.3,0.285,0.315,Float,G297
+1361,People,People Level1Z1:Zone28,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+1362,Lights,Level1Z1:Zone28 General lighting,Lighting Level,160.852,151.522584,175.32868,Float,G298
+1363,Lights,Level1Z1:Zone28 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+1364,Lights,Level1Z1:Zone28 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+1365,Lights,Level1Z1:Zone28 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+1366,ElectricEquipment,Level1Z1:Zone28 Computing gain 1,Design Level,48.2556,42.802717200000004,51.633492000000004,Float,G299
+1367,ElectricEquipment,Level1Z1:Zone28 Computing gain 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G300
+1368,ElectricEquipment,Level1Z1:Zone28 Equipment 2,Design Level,48.2556,42.802717200000004,51.633492000000004,Float,G301
+1369,ElectricEquipment,Level1Z1:Zone28 Equipment 2,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G302
+1370,WaterUse:Equipment,DHW Level1Z1:Zone28,Peak Flow Rate,4.96e-08,3.38272e-08,7.2664e-08,Float,G303
+1383,ZoneInfiltration:DesignFlowRate,Level1Z1:Zone28 Infiltration,Design Flow Rate,0.001747,0.0017453288509802429,0.0017486711490197573,Float,G228
+1389,People,People Level1Z1:Zone11,Number of People,4.0709361,0.8793221976000001,7.262550002399999,Float,G296
+1390,People,People Level1Z1:Zone11,Fraction Radiant,0.3,0.285,0.315,Float,G297
+1391,People,People Level1Z1:Zone11,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+1392,Lights,Level1Z1:Zone11 General lighting,Lighting Level,733.502,690.9588839999999,799.5171799999999,Float,G298
+1393,Lights,Level1Z1:Zone11 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+1394,Lights,Level1Z1:Zone11 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+1395,Lights,Level1Z1:Zone11 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+1396,ElectricEquipment,Level1Z1:Zone11 Computing gain 1,Design Level,220.0506,195.1848822,235.454142,Float,G299
+1397,ElectricEquipment,Level1Z1:Zone11 Computing gain 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G300
+1398,ElectricEquipment,Level1Z1:Zone11 Equipment 2,Design Level,220.0506,195.1848822,235.454142,Float,G301
+1399,ElectricEquipment,Level1Z1:Zone11 Equipment 2,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G302
+1400,WaterUse:Equipment,DHW Level1Z1:Zone11,Peak Flow Rate,2.26e-07,1.5413200000000002e-07,3.3109000000000004e-07,Float,G303
+1413,ZoneInfiltration:DesignFlowRate,Level1Z1:Zone11 Infiltration,Design Flow Rate,0.007967,0.007965328850980244,0.007968671149019757,Float,G228
+1419,People,People Level1Z1:Zone13,Number of People,5.1442728,1.1111629248000003,9.1773826752,Float,G296
+1420,People,People Level1Z1:Zone13,Fraction Radiant,0.3,0.285,0.315,Float,G297
+1421,People,People Level1Z1:Zone13,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+1422,Lights,Level1Z1:Zone13 General lighting,Lighting Level,926.896,873.136032,1010.31664,Float,G298
+1423,Lights,Level1Z1:Zone13 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+1424,Lights,Level1Z1:Zone13 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+1425,Lights,Level1Z1:Zone13 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+1426,ElectricEquipment,Level1Z1:Zone13 Computing gain 1,Design Level,278.0688,246.6470256,297.533616,Float,G299
+1427,ElectricEquipment,Level1Z1:Zone13 Computing gain 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G300
+1428,ElectricEquipment,Level1Z1:Zone13 Equipment 2,Design Level,278.0688,246.6470256,297.533616,Float,G301
+1429,ElectricEquipment,Level1Z1:Zone13 Equipment 2,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G302
+1430,WaterUse:Equipment,DHW Level1Z1:Zone13,Peak Flow Rate,2.86e-07,1.95052e-07,4.1898999999999997e-07,Float,G303
+1443,ZoneInfiltration:DesignFlowRate,Level1Z1:Zone13 Infiltration,Design Flow Rate,0.009863,0.009861328850980244,0.009864671149019757,Float,G228
+1449,People,People Level2:Zone4,Number of People,6.1040343,1.3184714087999998,10.8895971912,Float,G410
+1450,People,People Level2:Zone4,Fraction Radiant,0.3,0.285,0.315,Float,G411
+1451,People,People Level2:Zone4,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+1452,Lights,Level2:Zone4 General lighting,Lighting Level,1099.826,1036.036092,1198.81034,Float,G412
+1453,Lights,Level2:Zone4 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+1454,Lights,Level2:Zone4 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+1455,Lights,Level2:Zone4 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+1456,ElectricEquipment,Level2:Zone4 Equipment 1,Design Level,647.2476,574.1086212,692.554932,Float,G413
+1457,ElectricEquipment,Level2:Zone4 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G414
+1458,WaterUse:Equipment,DHW Level2:Zone4,Peak Flow Rate,3.39e-07,2.31198e-07,4.96635e-07,Float,G415
+1471,ZoneInfiltration:DesignFlowRate,Level2:Zone4 Infiltration,Design Flow Rate,0.011945,0.011943328850980244,0.011946671149019757,Float,G228
+1477,People,People Level2:Zone5,Number of People,5.8526193,1.2641657687999999,10.4410728312,Float,G420
+1478,People,People Level2:Zone5,Fraction Radiant,0.3,0.285,0.315,Float,G421
+1479,People,People Level2:Zone5,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+1480,Lights,Level2:Zone5 General lighting,Lighting Level,1054.526,993.3634920000001,1149.43334,Float,G422
+1481,Lights,Level2:Zone5 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+1482,Lights,Level2:Zone5 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+1483,Lights,Level2:Zone5 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+1484,ElectricEquipment,Level2:Zone5 Equipment 1,Design Level,620.5886,550.4620882,664.029802,Float,G413
+1485,ElectricEquipment,Level2:Zone5 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G414
+1486,WaterUse:Equipment,DHW Level2:Zone5,Peak Flow Rate,3.25e-07,2.2165e-07,4.7612500000000004e-07,Float,G423
+1499,ZoneInfiltration:DesignFlowRate,Level2:Zone5 Infiltration,Design Flow Rate,0.011221,0.011219328850980244,0.011222671149019757,Float,G228
+1505,People,People Level2:Zone10,Number of People,2.554276259,0.551723671944,4.556828846056,Float,G428
+1506,People,People Level2:Zone10,Fraction Radiant,0.3,0.285,0.315,Float,G429
+1507,People,People Level2:Zone10,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+1508,Lights,Level2:Zone10 General lighting,Lighting Level,108.847,102.533874,118.64322999999999,Float,G430
+1509,Lights,Level2:Zone10 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+1510,Lights,Level2:Zone10 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+1511,Lights,Level2:Zone10 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+1512,ElectricEquipment,Level2:Zone10 Equipment 1,Design Level,40.2734,35.7225058,43.092538000000005,Float,G431
+1513,ElectricEquipment,Level2:Zone10 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G432
+1526,ZoneInfiltration:DesignFlowRate,Level2:Zone10 Infiltration,Design Flow Rate,0.004729,0.004727328850980242,0.004730671149019757,Float,G228
+1532,People,People Level2:Zone17,Number of People,0.838205863,0.181052466408,1.495359259592,Float,G437
+1533,People,People Level2:Zone17,Fraction Radiant,0.3,0.285,0.315,Float,G438
+1534,People,People Level2:Zone17,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+1535,Lights,Level2:Zone17 General lighting,Lighting Level,74.544,70.22044799999999,81.25296,Float,G439
+1536,Lights,Level2:Zone17 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+1537,Lights,Level2:Zone17 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+1538,Lights,Level2:Zone17 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+1539,ElectricEquipment,Level2:Zone17 Equipment 1,Design Level,40.8501,36.2340387,43.709607,Float,G431
+1540,ElectricEquipment,Level2:Zone17 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G432
+1553,ZoneInfiltration:DesignFlowRate,Level2:Zone17 Infiltration,Design Flow Rate,0.001619,0.0016173288509802428,0.0016206711490197572,Float,G228
+1559,People,People Level2:Zone3,Number of People,5.5555167,1.1999916071999994,9.9110417928,Float,G444
+1560,People,People Level2:Zone3,Fraction Radiant,0.3,0.285,0.315,Float,G445
+1561,People,People Level2:Zone3,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+1562,Lights,Level2:Zone3 General lighting,Lighting Level,1000.994,942.9363480000001,1091.08346,Float,G446
+1563,Lights,Level2:Zone3 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+1564,Lights,Level2:Zone3 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+1565,Lights,Level2:Zone3 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+1566,ElectricEquipment,Level2:Zone3 Equipment 1,Design Level,589.085,522.518395,630.32095,Float,G413
+1567,ElectricEquipment,Level2:Zone3 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G414
+1568,WaterUse:Equipment,DHW Level2:Zone3,Peak Flow Rate,3.09e-07,2.10738e-07,4.52685e-07,Float,G447
+1581,ZoneInfiltration:DesignFlowRate,Level2:Zone3 Infiltration,Design Flow Rate,0.010652,0.010650328850980243,0.010653671149019757,Float,G228
+1587,People,People Level2:Zone15,Number of People,0.791147864,0.17088793862399998,1.4114077893760002,Float,G420
+1588,People,People Level2:Zone15,Fraction Radiant,0.3,0.285,0.315,Float,G421
+1589,People,People Level2:Zone15,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+1590,Lights,Level2:Zone15 General lighting,Lighting Level,70.359,66.278178,76.69130999999999,Float,G422
+1591,Lights,Level2:Zone15 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+1592,Lights,Level2:Zone15 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+1593,Lights,Level2:Zone15 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+1594,ElectricEquipment,Level2:Zone15 Equipment 1,Design Level,38.5567,34.1997929,41.255669,Float,G413
+1595,ElectricEquipment,Level2:Zone15 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G414
+1608,ZoneInfiltration:DesignFlowRate,Level2:Zone15 Infiltration,Design Flow Rate,0.001528,0.0015263288509802428,0.0015296711490197573,Float,G228
+1614,People,People Level2:Zone36,Number of People,8.523715176,1.8411224780159996,15.206307873983999,Float,G444
+1615,People,People Level2:Zone36,Fraction Radiant,0.3,0.285,0.315,Float,G445
+1616,People,People Level2:Zone36,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+1617,Lights,Level2:Zone36 General lighting,Lighting Level,363.2265,342.159363,395.916885,Float,G446
+1618,Lights,Level2:Zone36 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+1619,Lights,Level2:Zone36 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+1620,Lights,Level2:Zone36 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+1621,ElectricEquipment,Level2:Zone36 Equipment 1,Design Level,134.3938,119.2073006,143.801366,Float,G413
+1622,ElectricEquipment,Level2:Zone36 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G414
+1635,ZoneInfiltration:DesignFlowRate,Level2:Zone36 Infiltration,Design Flow Rate,0.01578,0.015778328850980242,0.015781671149019755,Float,G228
+1641,People,People Level2:Zone6,Number of People,7.1795133,1.5507748728,12.8082517272,Float,G444
+1642,People,People Level2:Zone6,Fraction Radiant,0.3,0.285,0.315,Float,G445
+1643,People,People Level2:Zone6,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+1644,Lights,Level2:Zone6 General lighting,Lighting Level,1293.606,1218.576852,1410.03054,Float,G446
+1645,Lights,Level2:Zone6 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+1646,Lights,Level2:Zone6 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+1647,Lights,Level2:Zone6 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+1648,ElectricEquipment,Level2:Zone6 Equipment 1,Design Level,761.2871,675.2616577,814.5771970000001,Float,G413
+1649,ElectricEquipment,Level2:Zone6 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G414
+1650,WaterUse:Equipment,DHW Level2:Zone6,Peak Flow Rate,3.99e-07,2.72118e-07,5.84535e-07,Float,G454
+1663,ZoneInfiltration:DesignFlowRate,Level2:Zone6 Infiltration,Design Flow Rate,0.01405,0.014048328850980243,0.014051671149019757,Float,G228
+1669,People,People Level2:Zone12,Number of People,7.1795133,1.5507748728,12.8082517272,Float,G459
+1670,People,People Level2:Zone12,Fraction Radiant,0.3,0.285,0.315,Float,G460
+1671,People,People Level2:Zone12,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+1672,Lights,Level2:Zone12 General lighting,Lighting Level,1293.606,1218.576852,1410.03054,Float,G461
+1673,Lights,Level2:Zone12 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+1674,Lights,Level2:Zone12 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+1675,Lights,Level2:Zone12 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+1676,ElectricEquipment,Level2:Zone12 Equipment 1,Design Level,761.2871,675.2616577,814.5771970000001,Float,G431
+1677,ElectricEquipment,Level2:Zone12 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G432
+1678,WaterUse:Equipment,DHW Level2:Zone12,Peak Flow Rate,3.99e-07,2.72118e-07,5.84535e-07,Float,G462
+1691,ZoneInfiltration:DesignFlowRate,Level2:Zone12 Infiltration,Design Flow Rate,0.01405,0.014048328850980243,0.014051671149019757,Float,G228
+1697,People,People Level2:Zone26,Number of People,1.2223986,0.26403809759999997,2.1807591024,Float,G444
+1698,People,People Level2:Zone26,Fraction Radiant,0.3,0.285,0.315,Float,G445
+1699,People,People Level2:Zone26,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+1700,Lights,Level2:Zone26 General lighting,Lighting Level,220.252,207.477384,240.07468,Float,G446
+1701,Lights,Level2:Zone26 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+1702,Lights,Level2:Zone26 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+1703,Lights,Level2:Zone26 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+1704,ElectricEquipment,Level2:Zone26 Equipment 1,Design Level,129.6183,114.9714321,138.691581,Float,G413
+1705,ElectricEquipment,Level2:Zone26 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G414
+1706,WaterUse:Equipment,DHW Level2:Zone26,Peak Flow Rate,6.8e-08,4.6376000000000004e-08,9.962e-08,Float,G454
+1719,ZoneInfiltration:DesignFlowRate,Level2:Zone26 Infiltration,Design Flow Rate,0.002392,0.0023903288509802426,0.0023936711490197575,Float,G228
+1725,People,People Level2:Zone7,Number of People,5.9473356,1.2846244895999996,10.610046710399999,Float,G437
+1726,People,People Level2:Zone7,Fraction Radiant,0.3,0.285,0.315,Float,G438
+1727,People,People Level2:Zone7,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+1728,Lights,Level2:Zone7 General lighting,Lighting Level,1071.592,1009.4396640000001,1168.03528,Float,G439
+1729,Lights,Level2:Zone7 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+1730,Lights,Level2:Zone7 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+1731,Lights,Level2:Zone7 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+1732,ElectricEquipment,Level2:Zone7 Equipment 1,Design Level,630.6319,559.3704953,674.776133,Float,G431
+1733,ElectricEquipment,Level2:Zone7 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G432
+1734,WaterUse:Equipment,DHW Level2:Zone7,Peak Flow Rate,3.31e-07,2.2574199999999998e-07,4.84915e-07,Float,G467
+1747,ZoneInfiltration:DesignFlowRate,Level2:Zone7 Infiltration,Design Flow Rate,0.011639,0.011637328850980243,0.011640671149019757,Float,G228
+1753,People,People Level2:Zone1,Number of People,4.9311972,1.0651385952,8.797255804799999,Float,G428
+1754,People,People Level2:Zone1,Fraction Radiant,0.3,0.285,0.315,Float,G429
+1755,People,People Level2:Zone1,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+1756,Lights,Level2:Zone1 General lighting,Lighting Level,888.504,836.970768,968.46936,Float,G430
+1757,Lights,Level2:Zone1 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+1758,Lights,Level2:Zone1 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+1759,Lights,Level2:Zone1 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+1760,ElectricEquipment,Level2:Zone1 Equipment 1,Design Level,522.8846,463.79864019999997,559.4865219999999,Float,G431
+1761,ElectricEquipment,Level2:Zone1 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G432
+1762,WaterUse:Equipment,DHW Level2:Zone1,Peak Flow Rate,2.74e-07,1.8686799999999998e-07,4.0141e-07,Float,G462
+1775,ZoneInfiltration:DesignFlowRate,Level2:Zone1 Infiltration,Design Flow Rate,0.00965,0.009648328850980244,0.009651671149019757,Float,G228
+1781,People,People Level2:Zone18,Number of People,5.0340165,1.0873475639999999,8.980685436,Float,G428
+1782,People,People Level2:Zone18,Fraction Radiant,0.3,0.285,0.315,Float,G429
+1783,People,People Level2:Zone18,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+1784,Lights,Level2:Zone18 General lighting,Lighting Level,907.03,854.4222599999999,988.6627,Float,G430
+1785,Lights,Level2:Zone18 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+1786,Lights,Level2:Zone18 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+1787,Lights,Level2:Zone18 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+1788,ElectricEquipment,Level2:Zone18 Equipment 1,Design Level,533.7872,473.4692464,571.152304,Float,G431
+1789,ElectricEquipment,Level2:Zone18 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G432
+1790,WaterUse:Equipment,DHW Level2:Zone18,Peak Flow Rate,2.8e-07,1.9096e-07,4.102e-07,Float,G462
+1803,ZoneInfiltration:DesignFlowRate,Level2:Zone18 Infiltration,Design Flow Rate,0.009851,0.009849328850980244,0.009852671149019757,Float,G228
+1809,People,People Level2:Zone25,Number of People,1.336684796,0.288723915936,2.384645676064,Float,G420
+1810,People,People Level2:Zone25,Fraction Radiant,0.3,0.285,0.315,Float,G421
+1811,People,People Level2:Zone25,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+1812,Lights,Level2:Zone25 General lighting,Lighting Level,56.961,53.657261999999996,62.087489999999995,Float,G422
+1813,Lights,Level2:Zone25 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+1814,Lights,Level2:Zone25 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+1815,Lights,Level2:Zone25 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+1816,ElectricEquipment,Level2:Zone25 Equipment 1,Design Level,21.0756,18.694057200000003,22.550892,Float,G413
+1817,ElectricEquipment,Level2:Zone25 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G414
+1830,ZoneInfiltration:DesignFlowRate,Level2:Zone25 Infiltration,Design Flow Rate,0.002475,0.0024733288509802428,0.0024766711490197576,Float,G228
+1836,People,People Level2:Zone29,Number of People,12.5783424,2.7169219583999986,22.4397628416,Float,G478
+1837,People,People Level2:Zone29,Fraction Radiant,0.3,0.285,0.315,Float,G479
+1838,People,People Level2:Zone29,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+1839,Lights,Level2:Zone29 General lighting,Lighting Level,2266.368,2134.918656,2470.34112,Float,G480
+1840,Lights,Level2:Zone29 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+1841,Lights,Level2:Zone29 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+1842,Lights,Level2:Zone29 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+1843,ElectricEquipment,Level2:Zone29 Equipment 1,Design Level,679.9104,603.0805247999999,727.504128,Float,G431
+1844,ElectricEquipment,Level2:Zone29 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G432
+1845,WaterUse:Equipment,DHW Level2:Zone29,Peak Flow Rate,6.99e-07,4.76718e-07,1.024035e-06,Float,G481
+1858,ZoneInfiltration:DesignFlowRate,Level2:Zone29 Infiltration,Design Flow Rate,0.024615,0.024613328850980245,0.024616671149019758,Float,G228
+1864,People,People Level2:Zone33,Number of People,0.413188354,0.08924868446399997,0.737128023536,Float,G444
+1865,People,People Level2:Zone33,Fraction Radiant,0.3,0.285,0.315,Float,G445
+1866,People,People Level2:Zone33,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+1867,Lights,Level2:Zone33 General lighting,Lighting Level,36.746,34.614732000000004,40.05314,Float,G446
+1868,Lights,Level2:Zone33 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+1869,Lights,Level2:Zone33 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+1870,Lights,Level2:Zone33 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+1871,ElectricEquipment,Level2:Zone33 Equipment 1,Design Level,20.1368,17.8613416,21.546376000000002,Float,G413
+1872,ElectricEquipment,Level2:Zone33 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G414
+1885,ZoneInfiltration:DesignFlowRate,Level2:Zone33 Infiltration,Design Flow Rate,0.000798,0.0007963288509802427,0.0007996711490197573,Float,G228
+1891,People,People Level2:Zone35,Number of People,7.547302379,1.6302173138639997,13.464387444136,Float,G420
+1892,People,People Level2:Zone35,Fraction Radiant,0.3,0.285,0.315,Float,G421
+1893,People,People Level2:Zone35,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+1894,Lights,Level2:Zone35 General lighting,Lighting Level,321.618,302.964156,350.56362,Float,G422
+1895,Lights,Level2:Zone35 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+1896,Lights,Level2:Zone35 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+1897,Lights,Level2:Zone35 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+1898,ElectricEquipment,Level2:Zone35 Equipment 1,Design Level,118.9987,105.5518469,127.328609,Float,G413
+1899,ElectricEquipment,Level2:Zone35 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G414
+1912,ZoneInfiltration:DesignFlowRate,Level2:Zone35 Infiltration,Design Flow Rate,0.034816,0.03481432885098024,0.034817671149019756,Float,G228
+1918,People,People Level2:Zone38,Number of People,0.510362842,0.11023837387200003,0.910487310128,Float,G444
+1919,People,People Level2:Zone38,Fraction Radiant,0.3,0.285,0.315,Float,G445
+1920,People,People Level2:Zone38,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+1921,Lights,Level2:Zone38 General lighting,Lighting Level,45.388,42.755496,49.472919999999995,Float,G446
+1922,Lights,Level2:Zone38 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+1923,Lights,Level2:Zone38 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+1924,Lights,Level2:Zone38 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+1925,ElectricEquipment,Level2:Zone38 Equipment 1,Design Level,24.8726,22.0619962,26.613681999999997,Float,G413
+1926,ElectricEquipment,Level2:Zone38 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G414
+1939,ZoneInfiltration:DesignFlowRate,Level2:Zone38 Infiltration,Design Flow Rate,0.000986,0.0009843288509802427,0.0009876711490197571,Float,G228
+1945,People,People Level2:Zone39,Number of People,0.438004843,0.09460904608800003,0.7814006399119999,Float,G444
+1946,People,People Level2:Zone39,Fraction Radiant,0.3,0.285,0.315,Float,G445
+1947,People,People Level2:Zone39,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+1948,Lights,Level2:Zone39 General lighting,Lighting Level,38.953,36.693726000000005,42.45877,Float,G446
+1949,Lights,Level2:Zone39 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+1950,Lights,Level2:Zone39 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+1951,Lights,Level2:Zone39 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+1952,ElectricEquipment,Level2:Zone39 Equipment 1,Design Level,21.3462,18.934079399999998,22.840434,Float,G413
+1953,ElectricEquipment,Level2:Zone39 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G414
+1966,ZoneInfiltration:DesignFlowRate,Level2:Zone39 Infiltration,Design Flow Rate,0.000846,0.0008443288509802426,0.0008476711490197573,Float,G228
+1972,People,People Level2:Zone30,Number of People,1.944354128,0.4199804916480001,3.468727764352,Float,G444
+1973,People,People Level2:Zone30,Fraction Radiant,0.3,0.285,0.315,Float,G445
+1974,People,People Level2:Zone30,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+1975,Lights,Level2:Zone30 General lighting,Lighting Level,82.856,78.05035199999999,90.31304,Float,G446
+1976,Lights,Level2:Zone30 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+1977,Lights,Level2:Zone30 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+1978,Lights,Level2:Zone30 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+1979,ElectricEquipment,Level2:Zone30 Equipment 1,Design Level,30.6567,27.1924929,32.802669,Float,G413
+1980,ElectricEquipment,Level2:Zone30 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G414
+1993,ZoneInfiltration:DesignFlowRate,Level2:Zone30 Infiltration,Design Flow Rate,0.003598,0.0035963288509802426,0.0035996711490197575,Float,G228
+1999,People,People Level2:Zone37,Number of People,1.085977196,0.234571074336,1.937383317664,Float,G444
+2000,People,People Level2:Zone37,Fraction Radiant,0.3,0.285,0.315,Float,G445
+2001,People,People Level2:Zone37,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2002,Lights,Level2:Zone37 General lighting,Lighting Level,96.579,90.977418,105.27111,Float,G446
+2003,Lights,Level2:Zone37 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2004,Lights,Level2:Zone37 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2005,Lights,Level2:Zone37 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2006,ElectricEquipment,Level2:Zone37 Equipment 1,Design Level,52.9253,46.9447411,56.630071,Float,G413
+2007,ElectricEquipment,Level2:Zone37 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G414
+2020,ZoneInfiltration:DesignFlowRate,Level2:Zone37 Infiltration,Design Flow Rate,0.002098,0.0020963288509802426,0.0020996711490197575,Float,G228
+2026,People,People Level2:Zone34,Number of People,1.327496617,0.2867392692720001,2.368253964728,Float,G410
+2027,People,People Level2:Zone34,Fraction Radiant,0.3,0.285,0.315,Float,G411
+2028,People,People Level2:Zone34,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2029,Lights,Level2:Zone34 General lighting,Lighting Level,118.058,111.21063600000001,128.68322,Float,G412
+2030,Lights,Level2:Zone34 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2031,Lights,Level2:Zone34 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2032,Lights,Level2:Zone34 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2033,ElectricEquipment,Level2:Zone34 Equipment 1,Design Level,64.6958,57.385174600000006,69.224506,Float,G413
+2034,ElectricEquipment,Level2:Zone34 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G414
+2047,ZoneInfiltration:DesignFlowRate,Level2:Zone34 Infiltration,Design Flow Rate,0.002564,0.0025623288509802424,0.0025656711490197573,Float,G228
+2053,People,People Level0:Zone2,Number of People,2.4850902,0.5367794831999999,4.4334009168,Float,G500
+2054,People,People Level0:Zone2,Fraction Radiant,0.3,0.285,0.315,Float,G501
+2055,People,People Level0:Zone2,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2056,Lights,Level0:Zone2 General lighting,Lighting Level,447.764,421.79368800000003,488.06276,Float,G502
+2057,Lights,Level0:Zone2 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2058,Lights,Level0:Zone2 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2059,Lights,Level0:Zone2 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2060,ElectricEquipment,Level0:Zone2 Equipment 1,Design Level,263.5091,233.7325717,281.95473699999997,Float,G503
+2061,ElectricEquipment,Level0:Zone2 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G504
+2062,WaterUse:Equipment,DHW Level0:Zone2,Peak Flow Rate,1.38e-07,9.4116e-08,2.0217e-07,Float,G505
+2075,ZoneInfiltration:DesignFlowRate,Level0:Zone2 Infiltration,Design Flow Rate,0.005164,0.005162328850980243,0.005165671149019758,Float,G228
+2081,People,People Level0:Zone35,Number of People,3.3240171,0.7179876935999996,5.9300465064,Float,G510
+2082,People,People Level0:Zone35,Fraction Radiant,0.3,0.285,0.315,Float,G511
+2083,People,People Level0:Zone35,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2084,Lights,Level0:Zone35 General lighting,Lighting Level,598.922,564.184524,652.82498,Float,G512
+2085,Lights,Level0:Zone35 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2086,Lights,Level0:Zone35 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2087,Lights,Level0:Zone35 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2088,ElectricEquipment,Level0:Zone35 Equipment 1,Design Level,352.4656,312.6369872,377.138192,Float,G413
+2089,ElectricEquipment,Level0:Zone35 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G414
+2090,WaterUse:Equipment,DHW Level0:Zone35,Peak Flow Rate,1.85e-07,1.2617e-07,2.71025e-07,Float,G513
+2103,ZoneInfiltration:DesignFlowRate,Level0:Zone35 Infiltration,Design Flow Rate,0.006505,0.006503328850980243,0.006506671149019758,Float,G228
+2109,People,People Level0:Zone28,Number of People,1.6540332,0.35727117119999985,2.9507952288,Float,G500
+2110,People,People Level0:Zone28,Fraction Radiant,0.3,0.285,0.315,Float,G501
+2111,People,People Level0:Zone28,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2112,Lights,Level0:Zone28 General lighting,Lighting Level,298.024,280.738608,324.84616,Float,G502
+2113,Lights,Level0:Zone28 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2114,Lights,Level0:Zone28 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2115,Lights,Level0:Zone28 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2116,ElectricEquipment,Level0:Zone28 Equipment 1,Design Level,175.3871,155.5683577,187.664197,Float,G503
+2117,ElectricEquipment,Level0:Zone28 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G504
+2118,WaterUse:Equipment,DHW Level0:Zone28,Peak Flow Rate,9.2e-08,6.2744e-08,1.3478e-07,Float,G505
+2131,ZoneInfiltration:DesignFlowRate,Level0:Zone28 Infiltration,Design Flow Rate,0.003237,0.0032353288509802424,0.0032386711490197573,Float,G228
+2137,People,People Level0:Zone6,Number of People,4.233651,0.9144686159999997,7.552833384,Float,G520
+2138,People,People Level0:Zone6,Fraction Radiant,0.3,0.285,0.315,Float,G521
+2139,People,People Level0:Zone6,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2140,Lights,Level0:Zone6 General lighting,Lighting Level,762.82,718.57644,831.4738000000001,Float,G522
+2141,Lights,Level0:Zone6 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2142,Lights,Level0:Zone6 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2143,Lights,Level0:Zone6 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2144,ElectricEquipment,Level0:Zone6 Equipment 1,Design Level,448.9196,398.1916852,480.343972,Float,G413
+2145,ElectricEquipment,Level0:Zone6 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G414
+2146,WaterUse:Equipment,DHW Level0:Zone6,Peak Flow Rate,2.35e-07,1.6027e-07,3.44275e-07,Float,G523
+2159,ZoneInfiltration:DesignFlowRate,Level0:Zone6 Infiltration,Design Flow Rate,0.008529,0.008527328850980244,0.008530671149019757,Float,G228
+2165,People,People Level0:Zone8,Number of People,2.5253055,0.5454659879999999,4.505145012,Float,G500
+2166,People,People Level0:Zone8,Fraction Radiant,0.3,0.285,0.315,Float,G501
+2167,People,People Level0:Zone8,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2168,Lights,Level0:Zone8 General lighting,Lighting Level,455.01,428.61942,495.9609,Float,G502
+2169,Lights,Level0:Zone8 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2170,Lights,Level0:Zone8 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2171,Lights,Level0:Zone8 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2172,ElectricEquipment,Level0:Zone8 Equipment 1,Design Level,267.7734,237.51500579999998,286.517538,Float,G503
+2173,ElectricEquipment,Level0:Zone8 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G504
+2174,WaterUse:Equipment,DHW Level0:Zone8,Peak Flow Rate,1.4e-07,9.548e-08,2.051e-07,Float,G505
+2187,ZoneInfiltration:DesignFlowRate,Level0:Zone8 Infiltration,Design Flow Rate,0.005087,0.005085328850980243,0.005088671149019758,Float,G228
+2193,People,People Level0:Zone18,Number of People,0.376362799,0.08129436458399997,0.6714312334160001,Float,G500
+2194,People,People Level0:Zone18,Fraction Radiant,0.3,0.285,0.315,Float,G501
+2195,People,People Level0:Zone18,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2196,Lights,Level0:Zone18 General lighting,Lighting Level,33.471,31.529681999999998,36.48338999999999,Float,G502
+2197,Lights,Level0:Zone18 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2198,Lights,Level0:Zone18 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2199,Lights,Level0:Zone18 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2200,ElectricEquipment,Level0:Zone18 Equipment 1,Design Level,18.3421,16.2694427,19.626047,Float,G503
+2201,ElectricEquipment,Level0:Zone18 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G504
+2214,ZoneInfiltration:DesignFlowRate,Level0:Zone18 Infiltration,Design Flow Rate,0.000748,0.0007463288509802426,0.0007496711490197573,Float,G228
+2220,People,People Level0:Zone17,Number of People,0.214262888,0.04628078380799999,0.38224499219200003,Float,G532
+2221,People,People Level0:Zone17,Fraction Radiant,0.3,0.285,0.315,Float,G533
+2222,People,People Level0:Zone17,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2223,Lights,Level0:Zone17 General lighting,Lighting Level,19.055,17.94981,20.76995,Float,G534
+2224,Lights,Level0:Zone17 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2225,Lights,Level0:Zone17 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2226,Lights,Level0:Zone17 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2227,ElectricEquipment,Level0:Zone17 Equipment 1,Design Level,10.4421,9.2621427,11.173047,Float,G431
+2228,ElectricEquipment,Level0:Zone17 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G432
+2241,ZoneInfiltration:DesignFlowRate,Level0:Zone17 Infiltration,Design Flow Rate,0.000426,0.00042432885098024273,0.0004276711490197573,Float,G228
+2247,People,People Level0:Zone12,Number of People,0.644817065,0.13928048603999998,1.15035364396,Float,G500
+2248,People,People Level0:Zone12,Fraction Radiant,0.3,0.285,0.315,Float,G501
+2249,People,People Level0:Zone12,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2250,Lights,Level0:Zone12 General lighting,Lighting Level,27.478,25.884276,29.95102,Float,G502
+2251,Lights,Level0:Zone12 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2252,Lights,Level0:Zone12 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2253,Lights,Level0:Zone12 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2254,ElectricEquipment,Level0:Zone12 Equipment 1,Design Level,10.1669,9.0180403,10.878583,Float,G503
+2255,ElectricEquipment,Level0:Zone12 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G504
+2268,ZoneInfiltration:DesignFlowRate,Level0:Zone12 Infiltration,Design Flow Rate,0.001229,0.0012273288509802428,0.0012306711490197573,Float,G228
+2274,People,People Level0:Zone14,Number of People,0.214262888,0.04628078380799999,0.38224499219200003,Float,G541
+2275,People,People Level0:Zone14,Fraction Radiant,0.3,0.285,0.315,Float,G542
+2276,People,People Level0:Zone14,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2277,Lights,Level0:Zone14 General lighting,Lighting Level,19.055,17.94981,20.76995,Float,G543
+2278,Lights,Level0:Zone14 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2279,Lights,Level0:Zone14 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2280,Lights,Level0:Zone14 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2281,ElectricEquipment,Level0:Zone14 Equipment 1,Design Level,10.4421,9.2621427,11.173047,Float,G216
+2282,ElectricEquipment,Level0:Zone14 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G217
+2295,ZoneInfiltration:DesignFlowRate,Level0:Zone14 Infiltration,Design Flow Rate,0.000426,0.00042432885098024273,0.0004276711490197573,Float,G228
+2301,People,People Level0:Zone15,Number of People,0.380534487,0.082195449192,0.678873524808,Float,G548
+2302,People,People Level0:Zone15,Fraction Radiant,0.3,0.285,0.315,Float,G549
+2303,People,People Level0:Zone15,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2304,Lights,Level0:Zone15 General lighting,Lighting Level,33.842,31.879164,36.88778,Float,G550
+2305,Lights,Level0:Zone15 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2306,Lights,Level0:Zone15 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2307,Lights,Level0:Zone15 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2308,ElectricEquipment,Level0:Zone15 Equipment 1,Design Level,18.5454,16.449769800000002,19.843578,Float,G413
+2309,ElectricEquipment,Level0:Zone15 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G414
+2322,ZoneInfiltration:DesignFlowRate,Level0:Zone15 Infiltration,Design Flow Rate,0.000757,0.0007553288509802426,0.0007586711490197573,Float,G228
+2328,People,People Level0:Zone11,Number of People,1.657497595,0.3580194805199999,2.95697570948,Float,G555
+2329,People,People Level0:Zone11,Fraction Radiant,0.3,0.285,0.315,Float,G556
+2330,People,People Level0:Zone11,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2331,Lights,Level0:Zone11 General lighting,Lighting Level,70.632,66.53534400000001,76.98888000000001,Float,G557
+2332,Lights,Level0:Zone11 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2333,Lights,Level0:Zone11 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2334,Lights,Level0:Zone11 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2335,ElectricEquipment,Level0:Zone11 Equipment 1,Design Level,26.1338,23.180680600000002,27.963166,Float,G503
+2336,ElectricEquipment,Level0:Zone11 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G504
+2349,ZoneInfiltration:DesignFlowRate,Level0:Zone11 Infiltration,Design Flow Rate,0.003159,0.0031573288509802425,0.0031606711490197574,Float,G228
+2355,People,People Level0:Zone13,Number of People,4.3869531,0.9475818696,7.8263243304,Float,G562
+2356,People,People Level0:Zone13,Fraction Radiant,0.3,0.285,0.315,Float,G563
+2357,People,People Level0:Zone13,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2358,Lights,Level0:Zone13 General lighting,Lighting Level,790.442,744.596364,861.58178,Float,G564
+2359,Lights,Level0:Zone13 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2360,Lights,Level0:Zone13 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2361,Lights,Level0:Zone13 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2362,ElectricEquipment,Level0:Zone13 Equipment 1,Design Level,465.1751,412.6103137,497.737357,Float,G413
+2363,ElectricEquipment,Level0:Zone13 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G414
+2364,WaterUse:Equipment,DHW Level0:Zone13,Peak Flow Rate,2.44e-07,1.6640800000000002e-07,3.5746e-07,Float,G565
+2377,ZoneInfiltration:DesignFlowRate,Level0:Zone13 Infiltration,Design Flow Rate,0.008838,0.008836328850980244,0.008839671149019757,Float,G228
+2383,People,People Level0:Zone7,Number of People,1.5386598,0.33235051679999983,2.7449690832,Float,G532
+2384,People,People Level0:Zone7,Fraction Radiant,0.3,0.285,0.315,Float,G533
+2385,People,People Level0:Zone7,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2386,Lights,Level0:Zone7 General lighting,Lighting Level,277.236,261.156312,302.18724,Float,G534
+2387,Lights,Level0:Zone7 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2388,Lights,Level0:Zone7 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2389,Lights,Level0:Zone7 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2390,ElectricEquipment,Level0:Zone7 Equipment 1,Design Level,163.1534,144.7170658,174.574138,Float,G431
+2391,ElectricEquipment,Level0:Zone7 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G432
+2392,WaterUse:Equipment,DHW Level0:Zone7,Peak Flow Rate,8.56e-08,5.83792e-08,1.25404e-07,Float,G568
+2405,ZoneInfiltration:DesignFlowRate,Level0:Zone7 Infiltration,Design Flow Rate,0.0031,0.0030983288509802425,0.0031016711490197573,Float,G228
+2411,People,People Level0:Zone32,Number of People,164.2705539,35.48243964239998,293.05866815760004,Float,G500
+2412,People,People Level0:Zone32,Fraction Radiant,0.3,0.285,0.315,Float,G501
+2413,People,People Level0:Zone32,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2414,Lights,Level0:Zone32 General lighting,Lighting Level,29598.298,27881.596716,32262.144819999998,Float,G502
+2415,Lights,Level0:Zone32 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2416,Lights,Level0:Zone32 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2417,Lights,Level0:Zone32 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2418,ElectricEquipment,Level0:Zone32 Equipment 1,Design Level,17418.5984,15450.2967808,18637.900287999997,Float,G503
+2419,ElectricEquipment,Level0:Zone32 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G504
+2420,WaterUse:Equipment,DHW Level0:Zone32,Peak Flow Rate,9.14e-06,6.233480000000001e-06,1.33901e-05,Float,G505
+2433,ZoneInfiltration:DesignFlowRate,Level0:Zone32 Infiltration,Design Flow Rate,0.493261,0.4932593288509802,0.4932626711490198,Float,G228
+2439,People,People Level0:Zone1,Number of People,5.1168669,1.1052432504,9.128490549599999,Float,G500
+2440,People,People Level0:Zone1,Fraction Radiant,0.3,0.285,0.315,Float,G501
+2441,People,People Level0:Zone1,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2442,Lights,Level0:Zone1 General lighting,Lighting Level,921.958,868.484436,1004.93422,Float,G502
+2443,Lights,Level0:Zone1 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2444,Lights,Level0:Zone1 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2445,Lights,Level0:Zone1 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2446,ElectricEquipment,Level0:Zone1 Equipment 1,Design Level,542.5723,481.26163010000005,580.552361,Float,G503
+2447,ElectricEquipment,Level0:Zone1 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G504
+2448,WaterUse:Equipment,DHW Level0:Zone1,Peak Flow Rate,2.85e-07,1.9437e-07,4.175250000000001e-07,Float,G565
+2461,ZoneInfiltration:DesignFlowRate,Level0:Zone1 Infiltration,Design Flow Rate,0.010308,0.010306328850980243,0.010309671149019756,Float,G228
+2467,People,People Level0:Zone51,Fraction Radiant,0.3,0.285,0.315,Float,G501
+2468,People,People Level0:Zone51,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2469,Lights,Level0:Zone51 General lighting,Lighting Level,118.9905,112.089051,129.699645,Float,G502
+2470,Lights,Level0:Zone51 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2471,Lights,Level0:Zone51 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2472,Lights,Level0:Zone51 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2485,ZoneInfiltration:DesignFlowRate,Level0:Zone51 Infiltration,Design Flow Rate,0.006068,0.006066328850980242,0.006069671149019757,Float,G228
+2491,People,People Level0:Zone44,Number of People,0.152058622,0.032844662351999995,0.271272581648,Float,G579
+2492,People,People Level0:Zone44,Fraction Radiant,0.3,0.285,0.315,Float,G580
+2493,People,People Level0:Zone44,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2494,Lights,Level0:Zone44 General lighting,Lighting Level,13.523,12.738666,14.74007,Float,G581
+2495,Lights,Level0:Zone44 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2496,Lights,Level0:Zone44 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2497,Lights,Level0:Zone44 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2498,ElectricEquipment,Level0:Zone44 Equipment 1,Design Level,7.4106,6.5732022,7.929342,Float,G216
+2499,ElectricEquipment,Level0:Zone44 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G217
+2512,ZoneInfiltration:DesignFlowRate,Level0:Zone44 Infiltration,Design Flow Rate,0.000294,0.0002923288509802427,0.00029567114901975726,Float,G228
+2518,People,People Level0:Zone33,Number of People,2.049727281,0.44274109269600004,3.656713469304,Float,G586
+2519,People,People Level0:Zone33,Fraction Radiant,0.3,0.285,0.315,Float,G587
+2520,People,People Level0:Zone33,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2521,Lights,Level0:Zone33 General lighting,Lighting Level,182.288,171.71529600000002,198.69392000000002,Float,G588
+2522,Lights,Level0:Zone33 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2523,Lights,Level0:Zone33 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2524,Lights,Level0:Zone33 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2525,ElectricEquipment,Level0:Zone33 Equipment 1,Design Level,99.8938,88.6058006,106.886366,Float,G413
+2526,ElectricEquipment,Level0:Zone33 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G414
+2539,ZoneInfiltration:DesignFlowRate,Level0:Zone33 Infiltration,Design Flow Rate,0.00396,0.0039583288509802425,0.003961671149019757,Float,G228
+2545,People,People Level0:Zone46,Number of People,0.733251198,0.15838225876800005,1.3081201372320002,Float,G520
+2546,People,People Level0:Zone46,Fraction Radiant,0.3,0.285,0.315,Float,G521
+2547,People,People Level0:Zone46,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2548,Lights,Level0:Zone46 General lighting,Lighting Level,31.2465,29.434203,34.058685000000004,Float,G522
+2549,Lights,Level0:Zone46 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2550,Lights,Level0:Zone46 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2551,Lights,Level0:Zone46 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2552,ElectricEquipment,Level0:Zone46 Equipment 1,Design Level,11.5612,10.2547844,12.370484,Float,G413
+2553,ElectricEquipment,Level0:Zone46 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G414
+2566,ZoneInfiltration:DesignFlowRate,Level0:Zone46 Infiltration,Design Flow Rate,0.001357,0.0013553288509802427,0.0013586711490197571,Float,G228
+2572,People,People Level0:Zone27,Number of People,1.0175925,0.2197999799999999,1.81538502,Float,G500
+2573,People,People Level0:Zone27,Fraction Radiant,0.3,0.285,0.315,Float,G501
+2574,People,People Level0:Zone27,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2575,Lights,Level0:Zone27 General lighting,Lighting Level,183.35,172.7157,199.8515,Float,G502
+2576,Lights,Level0:Zone27 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2577,Lights,Level0:Zone27 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2578,Lights,Level0:Zone27 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2579,ElectricEquipment,Level0:Zone27 Equipment 1,Design Level,107.9015,95.7086305,115.454605,Float,G503
+2580,ElectricEquipment,Level0:Zone27 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G504
+2581,WaterUse:Equipment,DHW Level0:Zone27,Peak Flow Rate,5.66e-08,3.86012e-08,8.2919e-08,Float,G505
+2594,ZoneInfiltration:DesignFlowRate,Level0:Zone27 Infiltration,Design Flow Rate,0.001991,0.0019893288509802427,0.0019926711490197576,Float,G228
+2600,People,People Level0:Zone20,Number of People,4.0875306,0.8829066096,7.2921545904,Float,G500
+2601,People,People Level0:Zone20,Fraction Radiant,0.3,0.285,0.315,Float,G501
+2602,People,People Level0:Zone20,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2603,Lights,Level0:Zone20 General lighting,Lighting Level,736.492,693.7754639999999,802.7762799999999,Float,G502
+2604,Lights,Level0:Zone20 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2605,Lights,Level0:Zone20 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2606,Lights,Level0:Zone20 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2607,ElectricEquipment,Level0:Zone20 Equipment 1,Design Level,433.4255,384.4484185,463.765285,Float,G503
+2608,ElectricEquipment,Level0:Zone20 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G504
+2609,WaterUse:Equipment,DHW Level0:Zone20,Peak Flow Rate,2.27e-07,1.54814e-07,3.3255500000000003e-07,Float,G505
+2622,ZoneInfiltration:DesignFlowRate,Level0:Zone20 Infiltration,Design Flow Rate,0.008234,0.008232328850980243,0.008235671149019757,Float,G228
+2628,People,People Level0:Zone43,Number of People,0.159311288,0.034411238208,0.284211337792,Float,G599
+2629,People,People Level0:Zone43,Fraction Radiant,0.3,0.285,0.315,Float,G600
+2630,People,People Level0:Zone43,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2631,Lights,Level0:Zone43 General lighting,Lighting Level,14.168,13.346255999999999,15.443119999999999,Float,G601
+2632,Lights,Level0:Zone43 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2633,Lights,Level0:Zone43 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2634,Lights,Level0:Zone43 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2635,ElectricEquipment,Level0:Zone43 Equipment 1,Design Level,7.7641,6.8867567,8.307587,Float,G413
+2636,ElectricEquipment,Level0:Zone43 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G414
+2649,ZoneInfiltration:DesignFlowRate,Level0:Zone43 Infiltration,Design Flow Rate,0.000308,0.00030632885098024273,0.0003096711490197573,Float,G228
+2655,People,People Level0:Zone21,Number of People,4.6494681,1.0042851095999996,8.2946510904,Float,G500
+2656,People,People Level0:Zone21,Fraction Radiant,0.3,0.285,0.315,Float,G501
+2657,People,People Level0:Zone21,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2658,Lights,Level0:Zone21 General lighting,Lighting Level,837.742,789.152964,913.13878,Float,G502
+2659,Lights,Level0:Zone21 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2660,Lights,Level0:Zone21 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2661,Lights,Level0:Zone21 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2662,ElectricEquipment,Level0:Zone21 Equipment 1,Design Level,493.0112,437.30093439999996,527.521984,Float,G503
+2663,ElectricEquipment,Level0:Zone21 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G504
+2664,WaterUse:Equipment,DHW Level0:Zone21,Peak Flow Rate,2.59e-07,1.7663799999999997e-07,3.79435e-07,Float,G505
+2677,ZoneInfiltration:DesignFlowRate,Level0:Zone21 Infiltration,Design Flow Rate,0.009366,0.009364328850980243,0.009367671149019756,Float,G228
+2683,People,People Level0:Zone45,Number of People,1.4953365,0.3229926839999999,2.667680316,Float,G608
+2684,People,People Level0:Zone45,Fraction Radiant,0.3,0.285,0.315,Float,G609
+2685,People,People Level0:Zone45,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2686,Lights,Level0:Zone45 General lighting,Lighting Level,269.43,253.80306000000002,293.6787,Float,G610
+2687,Lights,Level0:Zone45 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2688,Lights,Level0:Zone45 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2689,Lights,Level0:Zone45 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2690,ElectricEquipment,Level0:Zone45 Equipment 1,Design Level,158.5596,140.6423652,169.658772,Float,G413
+2691,ElectricEquipment,Level0:Zone45 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G414
+2692,WaterUse:Equipment,DHW Level0:Zone45,Peak Flow Rate,8.32e-08,5.67424e-08,1.21888e-07,Float,G611
+2705,ZoneInfiltration:DesignFlowRate,Level0:Zone45 Infiltration,Design Flow Rate,0.002926,0.0029243288509802428,0.0029276711490197577,Float,G228
+2711,People,People Level0:Zone30,Number of People,3.878451,0.8377454159999997,6.919156584,Float,G616
+2712,People,People Level0:Zone30,Fraction Radiant,0.3,0.285,0.315,Float,G617
+2713,People,People Level0:Zone30,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2714,Lights,Level0:Zone30 General lighting,Lighting Level,698.82,658.28844,761.7138,Float,G618
+2715,Lights,Level0:Zone30 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2716,Lights,Level0:Zone30 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2717,Lights,Level0:Zone30 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2718,ElectricEquipment,Level0:Zone30 Equipment 1,Design Level,411.2556,364.7837172,440.043492,Float,G413
+2719,ElectricEquipment,Level0:Zone30 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G414
+2720,WaterUse:Equipment,DHW Level0:Zone30,Peak Flow Rate,2.16e-07,1.4731200000000002e-07,3.1644e-07,Float,G619
+2733,ZoneInfiltration:DesignFlowRate,Level0:Zone30 Infiltration,Design Flow Rate,0.00759,0.007588328850980243,0.007591671149019758,Float,G228
+2739,People,People Level0:Zone23,Number of People,3.2653869,0.7053235704,5.8254502296,Float,G500
+2740,People,People Level0:Zone23,Fraction Radiant,0.3,0.285,0.315,Float,G501
+2741,People,People Level0:Zone23,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2742,Lights,Level0:Zone23 General lighting,Lighting Level,588.358,554.2332359999999,641.31022,Float,G502
+2743,Lights,Level0:Zone23 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2744,Lights,Level0:Zone23 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2745,Lights,Level0:Zone23 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2746,ElectricEquipment,Level0:Zone23 Equipment 1,Design Level,346.2487,307.12259689999996,370.486109,Float,G503
+2747,ElectricEquipment,Level0:Zone23 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G504
+2748,WaterUse:Equipment,DHW Level0:Zone23,Peak Flow Rate,1.82e-07,1.2412399999999998e-07,2.6663e-07,Float,G505
+2761,ZoneInfiltration:DesignFlowRate,Level0:Zone23 Infiltration,Design Flow Rate,0.006578,0.006576328850980242,0.006579671149019757,Float,G228
+2767,People,People Level0:Zone4,Number of People,4.9865307,1.0770906312,8.895970768800002,Float,G541
+2768,People,People Level0:Zone4,Fraction Radiant,0.3,0.285,0.315,Float,G542
+2769,People,People Level0:Zone4,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2770,Lights,Level0:Zone4 General lighting,Lighting Level,898.474,846.362508,979.33666,Float,G543
+2771,Lights,Level0:Zone4 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2772,Lights,Level0:Zone4 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2773,Lights,Level0:Zone4 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2774,ElectricEquipment,Level0:Zone4 Equipment 1,Design Level,528.7519,469.0029353,565.764533,Float,G216
+2775,ElectricEquipment,Level0:Zone4 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G217
+2776,WaterUse:Equipment,DHW Level0:Zone4,Peak Flow Rate,2.77e-07,1.8891400000000002e-07,4.05805e-07,Float,G611
+2789,ZoneInfiltration:DesignFlowRate,Level0:Zone4 Infiltration,Design Flow Rate,0.010045,0.010043328850980244,0.010046671149019757,Float,G228
+2795,People,People Level0:Zone25,Number of People,2.8240398,0.6099925968000002,5.038087003199999,Float,G500
+2796,People,People Level0:Zone25,Fraction Radiant,0.3,0.285,0.315,Float,G501
+2797,People,People Level0:Zone25,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2798,Lights,Level0:Zone25 General lighting,Lighting Level,508.836,479.323512,554.63124,Float,G502
+2799,Lights,Level0:Zone25 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2800,Lights,Level0:Zone25 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2801,Lights,Level0:Zone25 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2802,ElectricEquipment,Level0:Zone25 Equipment 1,Design Level,299.45,265.61215,320.4115,Float,G503
+2803,ElectricEquipment,Level0:Zone25 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G504
+2804,WaterUse:Equipment,DHW Level0:Zone25,Peak Flow Rate,1.57e-07,1.07074e-07,2.30005e-07,Float,G505
+2817,ZoneInfiltration:DesignFlowRate,Level0:Zone25 Infiltration,Design Flow Rate,0.005689,0.005687328850980242,0.005690671149019757,Float,G228
+2823,People,People Level0:Zone38,Number of People,4.6324851,1.0006167815999998,8.2643534184,Float,G500
+2824,People,People Level0:Zone38,Fraction Radiant,0.3,0.285,0.315,Float,G501
+2825,People,People Level0:Zone38,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2826,Lights,Level0:Zone38 General lighting,Lighting Level,834.682,786.270444,909.8033800000001,Float,G502
+2827,Lights,Level0:Zone38 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2828,Lights,Level0:Zone38 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2829,Lights,Level0:Zone38 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2830,ElectricEquipment,Level0:Zone38 Equipment 1,Design Level,491.2104,435.7036248,525.595128,Float,G503
+2831,ElectricEquipment,Level0:Zone38 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G504
+2832,WaterUse:Equipment,DHW Level0:Zone38,Peak Flow Rate,2.58e-07,1.75956e-07,3.7797000000000004e-07,Float,G505
+2845,ZoneInfiltration:DesignFlowRate,Level0:Zone38 Infiltration,Design Flow Rate,0.009066,0.009064328850980243,0.009067671149019756,Float,G228
+2851,People,People Level0:Zone26,Number of People,1.668996,0.36050313599999995,2.9774888639999997,Float,G500
+2852,People,People Level0:Zone26,Fraction Radiant,0.3,0.285,0.315,Float,G501
+2853,People,People Level0:Zone26,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2854,Lights,Level0:Zone26 General lighting,Lighting Level,300.72,283.27824000000004,327.7848,Float,G502
+2855,Lights,Level0:Zone26 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2856,Lights,Level0:Zone26 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2857,Lights,Level0:Zone26 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2858,ElectricEquipment,Level0:Zone26 Equipment 1,Design Level,176.9737,156.9756719,189.361859,Float,G503
+2859,ElectricEquipment,Level0:Zone26 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G504
+2860,WaterUse:Equipment,DHW Level0:Zone26,Peak Flow Rate,9.28e-08,6.32896e-08,1.35952e-07,Float,G505
+2873,ZoneInfiltration:DesignFlowRate,Level0:Zone26 Infiltration,Design Flow Rate,0.003266,0.0032643288509802424,0.0032676711490197572,Float,G228
+2879,People,People Level0:Zone36,Number of People,1.851768837,0.39998206879199993,3.3035556052080004,Float,G520
+2880,People,People Level0:Zone36,Fraction Radiant,0.3,0.285,0.315,Float,G521
+2881,People,People Level0:Zone36,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2882,Lights,Level0:Zone36 General lighting,Lighting Level,164.683,155.131386,179.50447,Float,G522
+2883,Lights,Level0:Zone36 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2884,Lights,Level0:Zone36 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2885,Lights,Level0:Zone36 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2886,ElectricEquipment,Level0:Zone36 Equipment 1,Design Level,90.2463,80.04846810000001,96.563541,Float,G413
+2887,ElectricEquipment,Level0:Zone36 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G414
+2900,ZoneInfiltration:DesignFlowRate,Level0:Zone36 Infiltration,Design Flow Rate,0.003682,0.0036803288509802425,0.0036836711490197574,Float,G228
+2906,People,People Level0:Zone34,Number of People,0.235751021,0.050922220535999985,0.420579821464,Float,G541
+2907,People,People Level0:Zone34,Fraction Radiant,0.3,0.285,0.315,Float,G542
+2908,People,People Level0:Zone34,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2909,Lights,Level0:Zone34 General lighting,Lighting Level,20.966,19.749972,22.85294,Float,G543
+2910,Lights,Level0:Zone34 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2911,Lights,Level0:Zone34 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2912,Lights,Level0:Zone34 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2913,ElectricEquipment,Level0:Zone34 Equipment 1,Design Level,11.4894,10.1910978,12.293658,Float,G216
+2914,ElectricEquipment,Level0:Zone34 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G217
+2927,ZoneInfiltration:DesignFlowRate,Level0:Zone34 Infiltration,Design Flow Rate,0.000455,0.00045332885098024273,0.0004566711490197573,Float,G228
+2933,People,People Level0:Zone24,Number of People,1.56169946,0.33732708335999995,2.78607183664,Float,G500
+2934,People,People Level0:Zone24,Fraction Radiant,0.3,0.285,0.315,Float,G501
+2935,People,People Level0:Zone24,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2936,Lights,Level0:Zone24 General lighting,Lighting Level,361.385,340.42467,393.90965,Float,G502
+2937,Lights,Level0:Zone24 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2938,Lights,Level0:Zone24 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2939,Lights,Level0:Zone24 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2940,ElectricEquipment,Level0:Zone24 Equipment 1,Design Level,610.5961,541.5987407,653.337827,Float,G503
+2941,ElectricEquipment,Level0:Zone24 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G504
+2942,WaterUse:Equipment,DHW Level0:Zone24,Peak Flow Rate,9.25e-08,6.3085e-08,1.355125e-07,Float,G505
+2955,ZoneInfiltration:DesignFlowRate,Level0:Zone24 Infiltration,Design Flow Rate,0.003232,0.0032303288509802426,0.0032336711490197575,Float,G228
+2961,People,People Level0:Zone53,Number of People,32.77176311,7.078700831759999,58.46482538824,Float,G640
+2962,People,People Level0:Zone53,Fraction Radiant,0.3,0.285,0.315,Float,G641
+2963,People,People Level0:Zone53,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2964,Lights,Level0:Zone53 General lighting,Lighting Level,1396.524,1315.525608,1522.2111599999998,Float,G642
+2965,Lights,Level0:Zone53 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2966,Lights,Level0:Zone53 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2967,Lights,Level0:Zone53 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2968,ElectricEquipment,Level0:Zone53 Equipment 1,Design Level,516.7139,458.3252293,552.883873,Float,G413
+2969,ElectricEquipment,Level0:Zone53 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G414
+2982,ZoneInfiltration:DesignFlowRate,Level0:Zone53 Infiltration,Design Flow Rate,0.083393,0.08339132885098023,0.08339467114901976,Float,G228
+2988,People,People Level0:Zone22,Number of People,3.0852228,0.6664081247999998,5.5040374752000005,Float,G500
+2989,People,People Level0:Zone22,Fraction Radiant,0.3,0.285,0.315,Float,G501
+2990,People,People Level0:Zone22,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+2991,Lights,Level0:Zone22 General lighting,Lighting Level,555.896,523.6540319999999,605.9266399999999,Float,G502
+2992,Lights,Level0:Zone22 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+2993,Lights,Level0:Zone22 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+2994,Lights,Level0:Zone22 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+2995,ElectricEquipment,Level0:Zone22 Equipment 1,Design Level,327.1448,290.17743759999996,350.04493599999995,Float,G503
+2996,ElectricEquipment,Level0:Zone22 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G504
+2997,WaterUse:Equipment,DHW Level0:Zone22,Peak Flow Rate,1.72e-07,1.17304e-07,2.5198e-07,Float,G505
+3010,ZoneInfiltration:DesignFlowRate,Level0:Zone22 Infiltration,Design Flow Rate,0.006215,0.006213328850980243,0.0062166711490197575,Float,G228
+3016,People,People Level0:Zone29,Number of People,2.5953909,0.5606044343999996,4.6301773656,Float,G500
+3017,People,People Level0:Zone29,Fraction Radiant,0.3,0.285,0.315,Float,G501
+3018,People,People Level0:Zone29,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+3019,Lights,Level0:Zone29 General lighting,Lighting Level,467.638,440.514996,509.72542,Float,G502
+3020,Lights,Level0:Zone29 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+3021,Lights,Level0:Zone29 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+3022,Lights,Level0:Zone29 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+3023,ElectricEquipment,Level0:Zone29 Equipment 1,Design Level,275.205,244.106835,294.46934999999996,Float,G503
+3024,ElectricEquipment,Level0:Zone29 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G504
+3025,WaterUse:Equipment,DHW Level0:Zone29,Peak Flow Rate,1.44e-07,9.8208e-08,2.1095999999999998e-07,Float,G505
+3038,ZoneInfiltration:DesignFlowRate,Level0:Zone29 Infiltration,Design Flow Rate,0.005228,0.005226328850980243,0.0052296711490197574,Float,G228
+3044,People,People Level0:Zone31,Number of People,2.0655102,0.44615020319999976,3.6848701968,Float,G500
+3045,People,People Level0:Zone31,Fraction Radiant,0.3,0.285,0.315,Float,G501
+3046,People,People Level0:Zone31,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+3047,Lights,Level0:Zone31 General lighting,Lighting Level,372.164,350.578488,405.65876,Float,G502
+3048,Lights,Level0:Zone31 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+3049,Lights,Level0:Zone31 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+3050,Lights,Level0:Zone31 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+3051,ElectricEquipment,Level0:Zone31 Equipment 1,Design Level,219.0185,194.2694095,234.349795,Float,G503
+3052,ElectricEquipment,Level0:Zone31 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G504
+3053,WaterUse:Equipment,DHW Level0:Zone31,Peak Flow Rate,1.15e-07,7.843e-08,1.68475e-07,Float,G565
+3066,ZoneInfiltration:DesignFlowRate,Level0:Zone31 Infiltration,Design Flow Rate,0.004161,0.004159328850980242,0.004162671149019757,Float,G228
+3072,People,People Level0:Zone49,Number of People,1.192599463,0.257601484008,2.127597441992,Float,G541
+3073,People,People Level0:Zone49,Fraction Radiant,0.3,0.285,0.315,Float,G542
+3074,People,People Level0:Zone49,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+3075,Lights,Level0:Zone49 General lighting,Lighting Level,50.821,47.873382,55.39489,Float,G543
+3076,Lights,Level0:Zone49 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+3077,Lights,Level0:Zone49 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+3078,Lights,Level0:Zone49 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+3079,ElectricEquipment,Level0:Zone49 Equipment 1,Design Level,18.8038,16.6789706,20.120065999999998,Float,G216
+3080,ElectricEquipment,Level0:Zone49 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G217
+3093,ZoneInfiltration:DesignFlowRate,Level0:Zone49 Infiltration,Design Flow Rate,0.002273,0.0022713288509802424,0.0022746711490197573,Float,G228
+3099,People,People Level0:Zone48,Number of People,0.797568441,0.17227478325599999,1.422862098744,Float,G500
+3100,People,People Level0:Zone48,Fraction Radiant,0.3,0.285,0.315,Float,G501
+3101,People,People Level0:Zone48,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+3102,Lights,Level0:Zone48 General lighting,Lighting Level,70.93,66.81606000000001,77.31370000000001,Float,G502
+3103,Lights,Level0:Zone48 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+3104,Lights,Level0:Zone48 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+3105,Lights,Level0:Zone48 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+3106,ElectricEquipment,Level0:Zone48 Equipment 1,Design Level,38.8696,34.4773352,41.590472,Float,G503
+3107,ElectricEquipment,Level0:Zone48 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G504
+3120,ZoneInfiltration:DesignFlowRate,Level0:Zone48 Infiltration,Design Flow Rate,0.001586,0.0015843288509802427,0.0015876711490197572,Float,G228
+3126,People,People Level0:Zone9,Number of People,4.739589,1.0237512240000002,8.455426776,Float,G500
+3127,People,People Level0:Zone9,Fraction Radiant,0.3,0.285,0.315,Float,G501
+3128,People,People Level0:Zone9,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G211
+3129,Lights,Level0:Zone9 General lighting,Lighting Level,853.98,804.44916,930.8382,Float,G502
+3130,Lights,Level0:Zone9 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G213
+3131,Lights,Level0:Zone9 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G214
+3132,Lights,Level0:Zone9 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G215
+3133,ElectricEquipment,Level0:Zone9 Equipment 1,Design Level,502.5672,445.7771064,537.746904,Float,G503
+3134,ElectricEquipment,Level0:Zone9 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G504
+3135,WaterUse:Equipment,DHW Level0:Zone9,Peak Flow Rate,2.64e-07,1.8004799999999997e-07,3.8676e-07,Float,G505
+3148,ZoneInfiltration:DesignFlowRate,Level0:Zone9 Infiltration,Design Flow Rate,0.009548,0.009546328850980243,0.009549671149019756,Float,G228
+3154,People,People Level0AddedPart:Zone2,Number of People,2.7093768,0.5852253887999996,4.8335282112,Float,G659
+3155,People,People Level0AddedPart:Zone2,Fraction Radiant,0.3,0.285,0.315,Float,G660
+3156,People,People Level0AddedPart:Zone2,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G661
+3157,Lights,Level0AddedPart:Zone2 General lighting,Lighting Level,488.176,459.861792,532.11184,Float,G662
+3158,Lights,Level0AddedPart:Zone2 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G663
+3159,Lights,Level0AddedPart:Zone2 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G664
+3160,Lights,Level0AddedPart:Zone2 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G665
+3161,ElectricEquipment,Level0AddedPart:Zone2 Computing gain 1,Design Level,146.4528,129.9036336,156.704496,Float,G666
+3162,ElectricEquipment,Level0AddedPart:Zone2 Computing gain 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G667
+3163,ElectricEquipment,Level0AddedPart:Zone2 Equipment 2,Design Level,146.4528,129.9036336,156.704496,Float,G668
+3164,ElectricEquipment,Level0AddedPart:Zone2 Equipment 2,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G669
+3165,WaterUse:Equipment,DHW Level0AddedPart:Zone2,Peak Flow Rate,1.51e-07,1.0298199999999999e-07,2.2121499999999999e-07,Float,G670
+3178,ZoneInfiltration:DesignFlowRate,Level0AddedPart:Zone2 Infiltration,Design Flow Rate,0.005302,0.005300328850980243,0.005303671149019758,Float,G681
+3184,People,People Level0AddedPart:Zone1,Fraction Radiant,0.3,0.285,0.315,Float,G687
+3185,People,People Level0AddedPart:Zone1,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G661
+3186,Lights,Level0AddedPart:Zone1 General lighting,Lighting Level,9.6098,9.0524316,10.474682,Float,G662
+3187,Lights,Level0AddedPart:Zone1 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G663
+3188,Lights,Level0AddedPart:Zone1 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G664
+3189,Lights,Level0AddedPart:Zone1 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G665
+3202,ZoneInfiltration:DesignFlowRate,Level0AddedPart:Zone1 Infiltration,Design Flow Rate,0.000278,0.0002763288509802427,0.00027967114901975725,Float,G681
+3208,People,People Level0AddedPart:Zone3,Number of People,16.2118608,3.501761932799999,28.9219596672,Float,G692
+3209,People,People Level0AddedPart:Zone3,Fraction Radiant,0.3,0.285,0.315,Float,G693
+3210,People,People Level0AddedPart:Zone3,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G661
+3211,Lights,Level0AddedPart:Zone3 General lighting,Lighting Level,2921.056,2751.634752,3183.95104,Float,G662
+3212,Lights,Level0AddedPart:Zone3 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G663
+3213,Lights,Level0AddedPart:Zone3 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G664
+3214,Lights,Level0AddedPart:Zone3 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G665
+3215,ElectricEquipment,Level0AddedPart:Zone3 Computing gain 1,Design Level,876.3168,777.2930015999999,937.6589759999999,Float,G666
+3216,ElectricEquipment,Level0AddedPart:Zone3 Computing gain 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G667
+3217,ElectricEquipment,Level0AddedPart:Zone3 Equipment 2,Design Level,876.3168,777.2930015999999,937.6589759999999,Float,G668
+3218,ElectricEquipment,Level0AddedPart:Zone3 Equipment 2,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G669
+3219,WaterUse:Equipment,DHW Level0AddedPart:Zone3,Peak Flow Rate,9.02e-07,6.15164e-07,1.3214300000000002e-06,Float,G670
+3232,ZoneInfiltration:DesignFlowRate,Level0AddedPart:Zone3 Infiltration,Design Flow Rate,0.031726,0.03172432885098024,0.031727671149019754,Float,G681
+3238,People,People Level1AddedPart:Zone1,Number of People,25.99410725,5.614727165999998,46.373487334000004,Float,G698
+3239,People,People Level1AddedPart:Zone1,Fraction Radiant,0.3,0.285,0.315,Float,G699
+3240,People,People Level1AddedPart:Zone1,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G661
+3241,Lights,Level1AddedPart:Zone1 General lighting,Lighting Level,2577.928,2428.408176,2809.94152,Float,G662
+3242,Lights,Level1AddedPart:Zone1 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G663
+3243,Lights,Level1AddedPart:Zone1 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G664
+3244,Lights,Level1AddedPart:Zone1 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G665
+3245,ElectricEquipment,Level1AddedPart:Zone1 Equipment 1,Design Level,1595.7374,1415.4190738,1707.439018,Float,G700
+3246,ElectricEquipment,Level1AddedPart:Zone1 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G701
+3247,WaterUse:Equipment,DHW Level1AddedPart:Zone1,Peak Flow Rate,2.39e-07,1.6299800000000001e-07,3.50135e-07,Float,G702
+3260,ZoneInfiltration:DesignFlowRate,Level1AddedPart:Zone1 Infiltration,Design Flow Rate,0.082822,0.08282032885098024,0.08282367114901977,Float,G681
+3266,People,People Level1AddedPart:Zone3,Number of People,2.876356258,0.6212929517279999,5.131419564272,Float,G707
+3267,People,People Level1AddedPart:Zone3,Fraction Radiant,0.3,0.285,0.315,Float,G708
+3268,People,People Level1AddedPart:Zone3,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G661
+3269,Lights,Level1AddedPart:Zone3 General lighting,Lighting Level,122.572,115.462824,133.60348,Float,G662
+3270,Lights,Level1AddedPart:Zone3 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G663
+3271,Lights,Level1AddedPart:Zone3 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G664
+3272,Lights,Level1AddedPart:Zone3 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G665
+3273,ElectricEquipment,Level1AddedPart:Zone3 Equipment 1,Design Level,45.3516,40.226869199999996,48.526212,Float,G700
+3274,ElectricEquipment,Level1AddedPart:Zone3 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G701
+3287,ZoneInfiltration:DesignFlowRate,Level1AddedPart:Zone3 Infiltration,Design Flow Rate,0.005482,0.0054803288509802425,0.005483671149019757,Float,G681
+3293,People,People Level1AddedPart:Zone5,Number of People,2.842505592,0.613981207872,5.071029976128001,Float,G713
+3294,People,People Level1AddedPart:Zone5,Fraction Radiant,0.3,0.285,0.315,Float,G714
+3295,People,People Level1AddedPart:Zone5,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G661
+3296,Lights,Level1AddedPart:Zone5 General lighting,Lighting Level,121.1295,114.103989,132.03115499999998,Float,G662
+3297,Lights,Level1AddedPart:Zone5 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G663
+3298,Lights,Level1AddedPart:Zone5 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G664
+3299,Lights,Level1AddedPart:Zone5 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G665
+3300,ElectricEquipment,Level1AddedPart:Zone5 Equipment 1,Design Level,44.8179,39.7534773,47.955153,Float,G700
+3301,ElectricEquipment,Level1AddedPart:Zone5 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G701
+3314,ZoneInfiltration:DesignFlowRate,Level1AddedPart:Zone5 Infiltration,Design Flow Rate,0.005417,0.0054153288509802425,0.005418671149019757,Float,G681
+3320,People,People Level1AddedPart:Zone9,Number of People,0.242722577,0.052428076632,0.433017077368,Float,G719
+3321,People,People Level1AddedPart:Zone9,Fraction Radiant,0.3,0.285,0.315,Float,G720
+3322,People,People Level1AddedPart:Zone9,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G661
+3323,Lights,Level1AddedPart:Zone9 General lighting,Lighting Level,21.586,20.334011999999998,23.52874,Float,G662
+3324,Lights,Level1AddedPart:Zone9 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G663
+3325,Lights,Level1AddedPart:Zone9 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G664
+3326,Lights,Level1AddedPart:Zone9 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G665
+3327,ElectricEquipment,Level1AddedPart:Zone9 Equipment 1,Design Level,11.8291,10.4924117,12.657137,Float,G700
+3328,ElectricEquipment,Level1AddedPart:Zone9 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G701
+3341,ZoneInfiltration:DesignFlowRate,Level1AddedPart:Zone9 Infiltration,Design Flow Rate,0.000483,0.0004813288509802427,0.00048467114901975725,Float,G681
+3347,People,People Level1AddedPart:Zone10,Number of People,0.242722577,0.052428076632,0.433017077368,Float,G698
+3348,People,People Level1AddedPart:Zone10,Fraction Radiant,0.3,0.285,0.315,Float,G699
+3349,People,People Level1AddedPart:Zone10,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G661
+3350,Lights,Level1AddedPart:Zone10 General lighting,Lighting Level,21.586,20.334011999999998,23.52874,Float,G662
+3351,Lights,Level1AddedPart:Zone10 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G663
+3352,Lights,Level1AddedPart:Zone10 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G664
+3353,Lights,Level1AddedPart:Zone10 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G665
+3354,ElectricEquipment,Level1AddedPart:Zone10 Equipment 1,Design Level,11.8291,10.4924117,12.657137,Float,G700
+3355,ElectricEquipment,Level1AddedPart:Zone10 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G701
+3368,ZoneInfiltration:DesignFlowRate,Level1AddedPart:Zone10 Infiltration,Design Flow Rate,0.000483,0.0004813288509802427,0.00048467114901975725,Float,G681
+3374,People,People Level1AddedPart:Zone11,Number of People,0.242722577,0.052428076632,0.433017077368,Float,G698
+3375,People,People Level1AddedPart:Zone11,Fraction Radiant,0.3,0.285,0.315,Float,G699
+3376,People,People Level1AddedPart:Zone11,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G661
+3377,Lights,Level1AddedPart:Zone11 General lighting,Lighting Level,21.586,20.334011999999998,23.52874,Float,G662
+3378,Lights,Level1AddedPart:Zone11 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G663
+3379,Lights,Level1AddedPart:Zone11 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G664
+3380,Lights,Level1AddedPart:Zone11 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G665
+3381,ElectricEquipment,Level1AddedPart:Zone11 Equipment 1,Design Level,11.8291,10.4924117,12.657137,Float,G700
+3382,ElectricEquipment,Level1AddedPart:Zone11 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G701
+3395,ZoneInfiltration:DesignFlowRate,Level1AddedPart:Zone11 Infiltration,Design Flow Rate,0.000483,0.0004813288509802427,0.00048467114901975725,Float,G681
+3401,People,People Level1AddedPart:Zone12,Number of People,0.242722577,0.052428076632,0.433017077368,Float,G698
+3402,People,People Level1AddedPart:Zone12,Fraction Radiant,0.3,0.285,0.315,Float,G699
+3403,People,People Level1AddedPart:Zone12,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G661
+3404,Lights,Level1AddedPart:Zone12 General lighting,Lighting Level,21.586,20.334011999999998,23.52874,Float,G662
+3405,Lights,Level1AddedPart:Zone12 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G663
+3406,Lights,Level1AddedPart:Zone12 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G664
+3407,Lights,Level1AddedPart:Zone12 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G665
+3408,ElectricEquipment,Level1AddedPart:Zone12 Equipment 1,Design Level,11.8291,10.4924117,12.657137,Float,G700
+3409,ElectricEquipment,Level1AddedPart:Zone12 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G701
+3422,ZoneInfiltration:DesignFlowRate,Level1AddedPart:Zone12 Infiltration,Design Flow Rate,0.000483,0.0004813288509802427,0.00048467114901975725,Float,G681
+3428,People,People Level1AddedPart:Zone8,Number of People,0.378611687,0.08178012439199994,0.6754432496080001,Float,G725
+3429,People,People Level1AddedPart:Zone8,Fraction Radiant,0.3,0.285,0.315,Float,G726
+3430,People,People Level1AddedPart:Zone8,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G661
+3431,Lights,Level1AddedPart:Zone8 General lighting,Lighting Level,33.671,31.718082,36.701389999999996,Float,G662
+3432,Lights,Level1AddedPart:Zone8 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G663
+3433,Lights,Level1AddedPart:Zone8 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G664
+3434,Lights,Level1AddedPart:Zone8 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G665
+3435,ElectricEquipment,Level1AddedPart:Zone8 Equipment 1,Design Level,18.4517,16.3666579,19.743319,Float,G700
+3436,ElectricEquipment,Level1AddedPart:Zone8 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G701
+3449,ZoneInfiltration:DesignFlowRate,Level1AddedPart:Zone8 Infiltration,Design Flow Rate,0.000753,0.0007513288509802427,0.0007546711490197573,Float,G681
+3455,People,People Level1AddedPart:Zone7,Number of People,0.993590397,0.21461552575199994,1.772565268248,Float,G731
+3456,People,People Level1AddedPart:Zone7,Fraction Radiant,0.3,0.285,0.315,Float,G732
+3457,People,People Level1AddedPart:Zone7,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G661
+3458,Lights,Level1AddedPart:Zone7 General lighting,Lighting Level,42.3405,39.884751,46.151145,Float,G662
+3459,Lights,Level1AddedPart:Zone7 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G663
+3460,Lights,Level1AddedPart:Zone7 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G664
+3461,Lights,Level1AddedPart:Zone7 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G665
+3462,ElectricEquipment,Level1AddedPart:Zone7 Equipment 1,Design Level,15.666,13.895742,16.762620000000002,Float,G700
+3463,ElectricEquipment,Level1AddedPart:Zone7 Equipment 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G701
+3476,ZoneInfiltration:DesignFlowRate,Level1AddedPart:Zone7 Infiltration,Design Flow Rate,0.001894,0.0018923288509802428,0.0018956711490197573,Float,G681
+3482,People,People Level1AddedPart:Zone2,Fraction Radiant,0.3,0.285,0.315,Float,G699
+3483,People,People Level1AddedPart:Zone2,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G661
+3484,Lights,Level1AddedPart:Zone2 General lighting,Lighting Level,9.6098,9.0524316,10.474682,Float,G662
+3485,Lights,Level1AddedPart:Zone2 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G663
+3486,Lights,Level1AddedPart:Zone2 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G664
+3487,Lights,Level1AddedPart:Zone2 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G665
+3500,ZoneInfiltration:DesignFlowRate,Level1AddedPart:Zone2 Infiltration,Design Flow Rate,0.000287,0.0002853288509802427,0.00028867114901975726,Float,G681
+3506,People,People Level1AddedPart:Zone13,Number of People,18.3078516,3.9544959455999997,32.6612072544,Float,G698
+3507,People,People Level1AddedPart:Zone13,Fraction Radiant,0.3,0.285,0.315,Float,G699
+3508,People,People Level1AddedPart:Zone13,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G661
+3509,Lights,Level1AddedPart:Zone13 General lighting,Lighting Level,3298.712,3107.386704,3595.59608,Float,G662
+3510,Lights,Level1AddedPart:Zone13 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G663
+3511,Lights,Level1AddedPart:Zone13 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G664
+3512,Lights,Level1AddedPart:Zone13 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G665
+3513,ElectricEquipment,Level1AddedPart:Zone13 Computing gain 1,Design Level,989.6136,877.7872632,1058.886552,Float,G733
+3514,ElectricEquipment,Level1AddedPart:Zone13 Computing gain 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G734
+3515,ElectricEquipment,Level1AddedPart:Zone13 Equipment 2,Design Level,989.6136,877.7872632,1058.886552,Float,G735
+3516,ElectricEquipment,Level1AddedPart:Zone13 Equipment 2,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G736
+3517,WaterUse:Equipment,DHW Level1AddedPart:Zone13,Peak Flow Rate,1.02e-06,6.9564e-07,1.4943e-06,Float,G702
+3530,ZoneInfiltration:DesignFlowRate,Level1AddedPart:Zone13 Infiltration,Design Flow Rate,0.036881,0.03687932885098024,0.036882671149019754,Float,G681
+3536,People,People ExtensionNE:Zone1,Number of People,0.2412474,0.052109438399999986,0.4303853616,Float,G741
+3537,People,People ExtensionNE:Zone1,Fraction Radiant,0.3,0.285,0.315,Float,G742
+3538,People,People ExtensionNE:Zone1,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G743
+3539,Lights,ExtensionNE:Zone1 General lighting,Lighting Level,43.468,40.946856000000004,47.380120000000005,Float,G744
+3540,Lights,ExtensionNE:Zone1 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G745
+3541,Lights,ExtensionNE:Zone1 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G746
+3542,Lights,ExtensionNE:Zone1 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G747
+3543,ElectricEquipment,ExtensionNE:Zone1 Computing gain 1,Design Level,13.0404,11.5668348,13.953228,Float,G748
+3544,ElectricEquipment,ExtensionNE:Zone1 Computing gain 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G749
+3545,ElectricEquipment,ExtensionNE:Zone1 Equipment 2,Design Level,13.0404,11.5668348,13.953228,Float,G750
+3546,ElectricEquipment,ExtensionNE:Zone1 Equipment 2,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G751
+3547,WaterUse:Equipment,DHW ExtensionNE:Zone1,Peak Flow Rate,1.34e-08,9.138799999999999e-09,1.9631e-08,Float,G752
+3560,ZoneInfiltration:DesignFlowRate,ExtensionNE:Zone1 Infiltration,Design Flow Rate,0.000657,0.0006553288509802427,0.0006586711490197574,Float,G763
+3566,People,People ExtensionSW:Zone1,Number of People,0.2412474,0.052109438399999986,0.4303853616,Float,G769
+3567,People,People ExtensionSW:Zone1,Fraction Radiant,0.3,0.285,0.315,Float,G770
+3568,People,People ExtensionSW:Zone1,Carbon Dioxide Generation Rate,3.82e-08,3.3e-08,4.4e-08,Float,G771
+3569,Lights,ExtensionSW:Zone1 General lighting,Lighting Level,43.468,40.946856000000004,47.380120000000005,Float,G772
+3570,Lights,ExtensionSW:Zone1 General lighting,Fraction Radiant,0.42,0.39899999999999997,0.441,Float,G773
+3571,Lights,ExtensionSW:Zone1 General lighting,Fraction Visible,0.18,0.17099999999999999,0.189,Float,G774
+3572,Lights,ExtensionSW:Zone1 General lighting,Fraction Replaceable,1.0,0.95,1.0,Float,G775
+3573,ElectricEquipment,ExtensionSW:Zone1 Computing gain 1,Design Level,13.0404,11.5668348,13.953228,Float,G776
+3574,ElectricEquipment,ExtensionSW:Zone1 Computing gain 1,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G777
+3575,ElectricEquipment,ExtensionSW:Zone1 Equipment 2,Design Level,13.0404,11.5668348,13.953228,Float,G778
+3576,ElectricEquipment,ExtensionSW:Zone1 Equipment 2,Fraction Radiant,0.2,0.19,0.21000000000000002,Float,G779
+3577,WaterUse:Equipment,DHW ExtensionSW:Zone1,Peak Flow Rate,1.34e-08,9.138799999999999e-09,1.9631e-08,Float,G780
+3590,ZoneInfiltration:DesignFlowRate,ExtensionSW:Zone1 Infiltration,Design Flow Rate,0.000657,0.0006553288509802427,0.0006586711490197574,Float,G790
+3593,WindowProperty:FrameAndDivider,1,Frame Conductance,9.5,9.287257972809007,9.712742027190993,Float,G793
+3595,WindowProperty:FrameAndDivider,1,Frame Solar Absorptance,0.5,0.402,0.598,Float,G795
+3596,WindowProperty:FrameAndDivider,1,Frame Visible Absorptance,0.5,0.402,0.598,Float,G796
+3597,WindowProperty:FrameAndDivider,1,Frame Thermal Hemispherical Emissivity,0.9,0.8608,0.9392,Float,G797
+3601,WindowProperty:FrameAndDivider,1,Divider Conductance,9.5,9.287257972809007,9.712742027190993,Float,G801
+3603,WindowProperty:FrameAndDivider,1,Divider Solar Absorptance,0.5,0.402,0.598,Float,G803
+3604,WindowProperty:FrameAndDivider,1,Divider Visible Absorptance,0.5,0.402,0.598,Float,G804
+3605,WindowProperty:FrameAndDivider,1,Divider Thermal Hemispherical Emissivity,0.9,0.8608,0.9392,Float,G805
+3606,WindowProperty:FrameAndDivider,1,Outside Reveal Solar Absorptance,0.5,0.402,0.598,Float,G806
+3607,WindowProperty:FrameAndDivider,1,Inside Sill Solar Absorptance,0.5,0.402,0.598,Float,G807
+3608,WindowProperty:FrameAndDivider,1,Inside Reveal Solar Absorptance,0.5,0.402,0.598,Float,G808
+3615,DesignSpecification:OutdoorAir,Level1:Zone14,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3622,DesignSpecification:OutdoorAir,Level1:Zone1,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3629,DesignSpecification:OutdoorAir,Level1:Zone6,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3636,DesignSpecification:OutdoorAir,Level1:Zone3,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3643,DesignSpecification:OutdoorAir,Level1:Zone2,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3650,DesignSpecification:OutdoorAir,Level1:Zone4,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3657,DesignSpecification:OutdoorAir,Level1:Zone5,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3664,DesignSpecification:OutdoorAir,Level1:Zone10,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3671,DesignSpecification:OutdoorAir,Level1:Zone7,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3678,DesignSpecification:OutdoorAir,Level1:Zone9,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3685,DesignSpecification:OutdoorAir,Level1:Zone15,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3692,DesignSpecification:OutdoorAir,Level1:Zone11,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3699,DesignSpecification:OutdoorAir,Level1Z1:Zone1,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3706,DesignSpecification:OutdoorAir,Level1Z1:Zone4,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3713,DesignSpecification:OutdoorAir,Level1Z1:Zone51,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3720,DesignSpecification:OutdoorAir,Level1Z1:Zone39,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3727,DesignSpecification:OutdoorAir,Level1Z1:Zone9,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3734,DesignSpecification:OutdoorAir,Level1Z1:Zone12,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3741,DesignSpecification:OutdoorAir,Level1Z1:Zone7,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3748,DesignSpecification:OutdoorAir,Level1Z1:Zone45,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3755,DesignSpecification:OutdoorAir,Level1Z1:Zone47,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3762,DesignSpecification:OutdoorAir,Level1Z1:Zone44,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3769,DesignSpecification:OutdoorAir,Level1Z1:Zone2,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3776,DesignSpecification:OutdoorAir,Level1Z1:Zone43,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3783,DesignSpecification:OutdoorAir,Level1Z1:Zone37,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3790,DesignSpecification:OutdoorAir,Level1Z1:Zone36,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3797,DesignSpecification:OutdoorAir,Level1Z1:Zone38,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3804,DesignSpecification:OutdoorAir,Level1Z1:Zone35,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3811,DesignSpecification:OutdoorAir,Level1Z1:Zone33,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3818,DesignSpecification:OutdoorAir,Level1Z1:Zone34,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3825,DesignSpecification:OutdoorAir,Level1Z1:Zone3,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3832,DesignSpecification:OutdoorAir,Level1Z1:Zone5,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3839,DesignSpecification:OutdoorAir,Level1Z1:Zone6,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3846,DesignSpecification:OutdoorAir,Level1Z1:Zone8,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3853,DesignSpecification:OutdoorAir,Level1Z1:Zone10,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3860,DesignSpecification:OutdoorAir,Level1Z1:Zone29,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3867,DesignSpecification:OutdoorAir,Level1Z1:Zone28,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3874,DesignSpecification:OutdoorAir,Level1Z1:Zone11,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3881,DesignSpecification:OutdoorAir,Level1Z1:Zone13,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3888,DesignSpecification:OutdoorAir,Level2:Zone4,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3895,DesignSpecification:OutdoorAir,Level2:Zone5,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3902,DesignSpecification:OutdoorAir,Level2:Zone10,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3909,DesignSpecification:OutdoorAir,Level2:Zone17,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3916,DesignSpecification:OutdoorAir,Level2:Zone3,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3923,DesignSpecification:OutdoorAir,Level2:Zone15,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3930,DesignSpecification:OutdoorAir,Level2:Zone36,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3937,DesignSpecification:OutdoorAir,Level2:Zone6,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3944,DesignSpecification:OutdoorAir,Level2:Zone12,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3951,DesignSpecification:OutdoorAir,Level2:Zone26,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3958,DesignSpecification:OutdoorAir,Level2:Zone7,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3965,DesignSpecification:OutdoorAir,Level2:Zone1,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3972,DesignSpecification:OutdoorAir,Level2:Zone18,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3979,DesignSpecification:OutdoorAir,Level2:Zone25,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3986,DesignSpecification:OutdoorAir,Level2:Zone29,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+3993,DesignSpecification:OutdoorAir,Level2:Zone33,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4000,DesignSpecification:OutdoorAir,Level2:Zone35,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4007,DesignSpecification:OutdoorAir,Level2:Zone38,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4014,DesignSpecification:OutdoorAir,Level2:Zone39,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4021,DesignSpecification:OutdoorAir,Level2:Zone30,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4028,DesignSpecification:OutdoorAir,Level2:Zone37,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4035,DesignSpecification:OutdoorAir,Level2:Zone34,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4042,DesignSpecification:OutdoorAir,Level0:Zone2,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4049,DesignSpecification:OutdoorAir,Level0:Zone35,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4056,DesignSpecification:OutdoorAir,Level0:Zone28,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4063,DesignSpecification:OutdoorAir,Level0:Zone6,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4070,DesignSpecification:OutdoorAir,Level0:Zone8,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4077,DesignSpecification:OutdoorAir,Level0:Zone18,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4084,DesignSpecification:OutdoorAir,Level0:Zone17,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4091,DesignSpecification:OutdoorAir,Level0:Zone12,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4098,DesignSpecification:OutdoorAir,Level0:Zone14,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4105,DesignSpecification:OutdoorAir,Level0:Zone15,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4112,DesignSpecification:OutdoorAir,Level0:Zone11,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4119,DesignSpecification:OutdoorAir,Level0:Zone13,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4126,DesignSpecification:OutdoorAir,Level0:Zone7,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4133,DesignSpecification:OutdoorAir,Level0:Zone32,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4140,DesignSpecification:OutdoorAir,Level0:Zone1,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4147,DesignSpecification:OutdoorAir,Level0:Zone51,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4154,DesignSpecification:OutdoorAir,Level0:Zone44,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4161,DesignSpecification:OutdoorAir,Level0:Zone33,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4168,DesignSpecification:OutdoorAir,Level0:Zone46,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4175,DesignSpecification:OutdoorAir,Level0:Zone27,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4182,DesignSpecification:OutdoorAir,Level0:Zone20,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4189,DesignSpecification:OutdoorAir,Level0:Zone43,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4196,DesignSpecification:OutdoorAir,Level0:Zone21,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4203,DesignSpecification:OutdoorAir,Level0:Zone45,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4210,DesignSpecification:OutdoorAir,Level0:Zone30,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4217,DesignSpecification:OutdoorAir,Level0:Zone23,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4224,DesignSpecification:OutdoorAir,Level0:Zone4,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4231,DesignSpecification:OutdoorAir,Level0:Zone25,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4238,DesignSpecification:OutdoorAir,Level0:Zone38,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4245,DesignSpecification:OutdoorAir,Level0:Zone26,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4252,DesignSpecification:OutdoorAir,Level0:Zone36,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4259,DesignSpecification:OutdoorAir,Level0:Zone34,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4266,DesignSpecification:OutdoorAir,Level0:Zone24,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4273,DesignSpecification:OutdoorAir,Level0:Zone53,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4280,DesignSpecification:OutdoorAir,Level0:Zone22,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4287,DesignSpecification:OutdoorAir,Level0:Zone29,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4294,DesignSpecification:OutdoorAir,Level0:Zone31,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4301,DesignSpecification:OutdoorAir,Level0:Zone49,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4308,DesignSpecification:OutdoorAir,Level0:Zone48,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4315,DesignSpecification:OutdoorAir,Level0:Zone9,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G815
+4322,DesignSpecification:OutdoorAir,Level0AddedPart:Zone2,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G826
+4329,DesignSpecification:OutdoorAir,Level0AddedPart:Zone1,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G826
+4336,DesignSpecification:OutdoorAir,Level0AddedPart:Zone3,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G826
+4343,DesignSpecification:OutdoorAir,Level1AddedPart:Zone1,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G826
+4350,DesignSpecification:OutdoorAir,Level1AddedPart:Zone3,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G826
+4357,DesignSpecification:OutdoorAir,Level1AddedPart:Zone5,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G826
+4364,DesignSpecification:OutdoorAir,Level1AddedPart:Zone9,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G826
+4371,DesignSpecification:OutdoorAir,Level1AddedPart:Zone10,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G826
+4378,DesignSpecification:OutdoorAir,Level1AddedPart:Zone11,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G826
+4385,DesignSpecification:OutdoorAir,Level1AddedPart:Zone12,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G826
+4392,DesignSpecification:OutdoorAir,Level1AddedPart:Zone8,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G826
+4399,DesignSpecification:OutdoorAir,Level1AddedPart:Zone7,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G826
+4406,DesignSpecification:OutdoorAir,Level1AddedPart:Zone2,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G826
+4413,DesignSpecification:OutdoorAir,Level1AddedPart:Zone13,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G826
+4420,DesignSpecification:OutdoorAir,ExtensionNE:Zone1,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G833
+4427,DesignSpecification:OutdoorAir,ExtensionSW:Zone1,Outdoor Air Flow Air Changes per Hour,0.25,0.24398386352887372,0.25601613647112625,Float,G838
